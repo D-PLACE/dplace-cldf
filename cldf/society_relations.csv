@@ -1,0 +1,1525 @@
+ID,Society_ID,Related_Society_ID,Related_Society_External_ID,Related_Society_Name,Related_Society_Dataset
+1,Aa1,B72,,!Kung,Binford
+2,Aa1,SCCS2,,Kung,SCCS
+3,Na3,B381,,Copper Inuit,Binford
+4,Na3,SCCS124,,Copper Eskimo,SCCS
+5,Na22,B384,,Iglulik Inuit,Binford
+6,Na1,B359,,Nabesna,Binford
+7,Na10,B297,,Chugash,Binford
+8,Na12,B377,,Nunamiut Inuit,Binford
+9,Na13,B386,,Baffin Island Inuit,Binford
+10,Na14,B390,,Polar Inuit,Binford
+11,Na15,B361,,Dogrib,Binford
+12,Na16,B358,,Satudene-Bear Lake,Binford
+13,Na17,B345,,Slave,Binford
+14,Na17,SCCS128,,Slave,SCCS
+15,Na19,B349,,Carrier,Binford
+16,Na19,WNAI93,,Alkatcho Carrier,WNAI
+17,Na19,WNAI94,,Lower Carrier,WNAI
+18,Na2,B389,,Tareumiut Inuit,Binford
+19,Na20,B356,,Kutchin,Binford
+20,Na21,B374,,Caribou Inuit,Binford
+21,Na23,B372,,Labrador Inuit,Binford
+22,Na24,B388,,Angmaksalik,Binford
+23,Na25,B385,,West Greenland,Binford
+24,Na26,B362,,Tanaina,Binford
+25,Na27,B347,,Tahltan,Binford
+26,Na28,B343,,Sekani,Binford
+27,Na29,B344,,Beaver,Binford
+28,Na30,B355,,Chippewyan,Binford
+29,Na32,B342,,Montagnais,Binford
+30,Na32,SCCS125,,Montagnais,SCCS
+31,Na33,B332,,North Saulteaux,Binford
+32,Na33,SCCS127,,Saulteaux,SCCS
+33,Na34,B334,,Pekangekum Ojibwa,Binford
+34,Na35,B337,,Nipigon Ojibwa,Binford
+35,Na37,B331,,Rainy River Ojibwa,Binford
+36,Na38,B328,,Katikitegon,Binford
+37,Na39,B327,,Kitchibaun Ojibwa,Binford
+38,Na4,B346,,Kaska,Binford
+39,Na4,SCCS129,,Kaska,SCCS
+40,Na41,B329,,Micmac,Binford
+41,Na41,SCCS126,,Micmac,SCCS
+42,Na43,B387,,Netsilik Inuit,Binford
+43,Na45,B338,,Mistassini Cree,Binford
+44,Na5,B365,,Naskapi,Binford
+45,Na6,B299,,Nunivak,Binford
+46,Na7,B353,,Attawapiskat Cree,Binford
+47,Na8,B357,,Ingalik,Binford
+48,Na8,SCCS122,,Ingalik,SCCS
+49,Na9,B298,,Aleut,Binford
+50,Na9,SCCS123,,Aleut,SCCS
+51,Nb1,B290,,Haida,Binford
+52,Nb1,SCCS131,,Haida,SCCS
+53,Nb1,WNAI3,,North Masset Haida,WNAI
+54,Nb10,B336,,Alkatcho,Binford
+55,Nb11,B273,,Nootka,Binford
+56,Nb11,WNAI12,,Clayoquot Nootka,WNAI
+57,Nb12,WNAI14,,Klahuse Salish,WNAI
+58,Nb13,B268,,Squamish,Binford
+59,Nb13,WNAI16,,Squamish Salish,WNAI
+60,Nb14,B282,,Comox,Binford
+61,Nb15,B277,,Lummi,Binford
+62,Nb15,WNAI21,,Lummi Salish,WNAI
+63,Nb16,B285,,Clallam,Binford
+64,Nb16,WNAI22,,Klallam Salish,WNAI
+65,Nb17,B270,,Puyallup,Binford
+66,Nb17,WNAI25,,Puyallup Salish,WNAI
+67,Nb18,B284,,Quileute,Binford
+68,Nb18,WNAI26,,Quileute Chimakuan,WNAI
+69,Nb19,B274,,Chinook,Binford
+70,Nb19,WNAI27,,Lower Chinook,WNAI
+71,Nb2,B271,,Twana,Binford
+72,Nb2,SCCS133,,Twana,SCCS
+73,Nb2,WNAI23,,Twana Salish,WNAI
+74,Nb20,B281,,Tillamook,Binford
+75,Nb20,WNAI28,,Tillamook Salish,WNAI
+76,Nb21,B275,,Coos,Binford
+77,Nb21,WNAI31,,Coos,WNAI
+78,Nb22,B292,,Tlingit,Binford
+79,Nb22,WNAI2,,South Tlingit,WNAI
+80,Nb23,B283,,Bella-Bella,Binford
+81,Nb23,WNAI9,,Bella Bella Kwakiutl,WNAI
+82,Nb24,B286,,Makah,Binford
+83,Nb24,WNAI13,,Makah Nootkan,WNAI
+84,Nb25,B278,,Quinault,Binford
+85,Nb25,WNAI24,,Quinault Salish,WNAI
+86,Nb26,B280,,Cowichan,Binford
+87,Nb26,WNAI17,,Cowichan Salish,WNAI
+88,Nb27,B279,,Stalo,Binford
+89,Nb27,WNAI19,,Upper Stalo Salish,WNAI
+90,Nb28,B269,,Alsea,Binford
+91,Nb28,WNAI29,,Alsea,WNAI
+92,Nb29,WNAI30,,Siuslaw,WNAI
+93,Ad4,SCCS11,,Kikuyu,SCCS
+94,Nb3,B288,,Kwakiutl,Binford
+95,Nb3,WNAI10,,Fort Rupert Kwakiutl,WNAI
+96,Nb30,B176,,Tekelma,Binford
+97,Nb31,B181,,Tututni,Binford
+98,Nb31,WNAI32,,Tututni Athapaskan,WNAI
+99,Nb32,B179,,Shasta,Binford
+100,Nb32,WNAI44,,East Shasta,WNAI
+101,Nb32,WNAI45,,West Shasta,WNAI
+102,Nb33,B162,,Chimariko,Binford
+103,Nb33,WNAI46,,Chimariko,WNAI
+104,Nb34,B182,,Karok,Binford
+105,Nb34,WNAI37,,Karok,WNAI
+106,Nb35,B180,,Hupa,Binford
+107,Nb35,WNAI38,,Hupa Athapaskan,WNAI
+108,Nb36,B184,,Wiyot,Binford
+109,Nb36,WNAI39,,Wiyot,WNAI
+110,Nb37,B167,,Lassik,Binford
+111,Nb38,B169,,Mattole,Binford
+112,Nb38,WNAI41,,Mattole Athapaskan,WNAI
+113,Nb39,B166,,Sinkyone,Binford
+114,Nb39,WNAI40,,Sinkyone Athapaskan,WNAI
+115,Nb4,B186,,Yurok,Binford
+116,Nb4,SCCS134,,Yurok,SCCS
+117,Nb4,WNAI36,,Yurok,WNAI
+118,Nb5,B295,,Eyak,Binford
+119,Nb5,SCCS130,,Eyak,SCCS
+120,Nb6,B178,,Tolowa,Binford
+121,Nb6,WNAI35,,Tolowa Athapaskan,WNAI
+122,Nb7,B289,,Tsimshim,Binford
+123,Nb7,WNAI5,,Tsimshian,WNAI
+124,Nb8,B287,,Haisla,Binford
+125,Nb8,WNAI7,,Haisla Kwakiutl,WNAI
+126,Nb9,B291,,Bella-Coola,Binford
+127,Nb9,SCCS132,,Bellacoola,SCCS
+128,Nb9,WNAI11,,Bella Coola Salish,WNAI
+129,Nc1,B153,,Nomlaki,Binford
+130,Nc1,WNAI50,,Nomlaki Wintun,WNAI
+131,Nc10,B187,,Achomawi,Binford
+132,Nc10,WNAI51,,East Achomawi,WNAI
+133,Nc10,WNAI52,,West Achomawi,WNAI
+134,Nc11,B174,,Northern Yana,Binford
+135,Nc11,WNAI62,,Yana,WNAI
+136,Nc12,B185,,Mountain Maidu,Binford
+137,Nc12,WNAI56,,Mountain Maidu,WNAI
+138,Nc13,B163,,Nisenan,Binford
+139,Nc13,WNAI57,,Foothill Nisenan,WNAI
+140,Nc13,WNAI58,,Mountain Nisenan,WNAI
+141,Nc13,WNAI59,,Southern Nisenan,WNAI
+142,Nc14,B160,,Wintu,Binford
+143,Nc14,WNAI47,,Trinity River Wintu,WNAI
+144,Nc14,WNAI48,,McCloud River Wintu,WNAI
+145,Nc14,WNAI49,,Sacramento River Wintu,WNAI
+146,Nc15,B177,,Coast Yuki,Binford
+147,Nc15,WNAI60,,Coast Yuki,WNAI
+148,Nc17,B173,,Nothern Pomo,Binford
+149,Nc17,WNAI63,,Northern Pomo,WNAI
+150,Nc18,B158,,Eastern Pomo,Binford
+151,Nc18,B159,,Clear Lake Pomo,Binford
+152,Nc18,SCCS135,,Pomo (Eastern),SCCS
+153,Nc18,WNAI64,,Eastern Pomo,WNAI
+154,Nc19,WNAI65,,Southern Pomo,WNAI
+155,Nc2,B152,,Tubatulabal,Binford
+156,Nc2,WNAI78,,Tubatulabal,WNAI
+157,Nc20,B172,,Wappo,Binford
+158,Nc20,WNAI66,,Wappo Yukian,WNAI
+159,Nc21,B170,,Lake Miwok,Binford
+160,Nc22,B155,,Patwin,Binford
+161,Nc22,WNAI67,,Patwin Wintun,WNAI
+162,Nc23,B157,,Monache,Binford
+163,Nc23,WNAI72,,Kings River Mono (Uto-Aztecan),WNAI
+164,Nc24,B148,,Lake Yokuts,Binford
+165,Nc24,SCCS136,,Yokuts (Lake),SCCS
+166,Nc24,WNAI76,,Lake Yokuts,WNAI
+167,Nc24,WNAI77,,Yauelmani Yokuts,WNAI
+168,Nc25,B151,,Wukchumi,Binford
+169,Nc25,WNAI75,,Kaweah Yokuts,WNAI
+170,Nc26,B164,,Salinan,Binford
+171,Nc26,WNAI80,,Salinan,WNAI
+172,Nc27,B199,,Kawaiisu Shoshoni,Binford
+173,Nc27,WNAI79,,Kawaiisu,WNAI
+174,Nc28,B161,,Chumash,Binford
+175,Nc29,B156,,Gabrieleno,Binford
+176,Nc29,WNAI81,,Gabrielino,WNAI
+177,Nc3,B154,,Yokuts (northern foothill),Binford
+178,Nc3,WNAI73,,Chuckchansi Yokuts,WNAI
+179,Nc30,B149,,Serrano,Binford
+180,Nc30,WNAI84,,Serrano,WNAI
+181,Nc31,B144,,Cahuilla,Binford
+182,Nc31,WNAI85,,Desert Cahuilla,WNAI
+183,Nc32,B145,,Cupeno,Binford
+184,Nc32,WNAI83,,Cupeno,WNAI
+185,Nc33,B150,,Luiseno,Binford
+186,Nc33,WNAI82,,Luiseno,WNAI
+187,Nc34,B146,,Kiliwa,Binford
+188,Nc34,WNAI91,,Kaliwa (Hokan),WNAI
+189,Nc4,B183,,Atsugewi,Binford
+190,Nc4,WNAI53,,Atsugewei,WNAI
+191,Nc5,B175,,Sierra Miwok,Binford
+192,Nc5,WNAI69,,Central Miwok,WNAI
+193,Nc6,B147,,Diegueno,Binford
+194,Nc6,WNAI89,,Western Diegueno,WNAI
+195,Nc6,WNAI90,,Desert Diegueno,WNAI
+196,Nc7,B171,,Yuki,Binford
+197,Nc7,WNAI61,,Yuki,WNAI
+198,Nc8,B189,,Klamath,Binford
+199,Nc8,SCCS138,,Klamath,SCCS
+200,Nc8,WNAI112,,Klamath,WNAI
+201,Nc9,B188,,Modoc,Binford
+202,Nc9,WNAI113,,Modoc,WNAI
+203,Nd1,B315,,Tenino,Binford
+204,Nd1,WNAI111,,Tenino,WNAI
+205,Nd10,B325,,Thompson,Binford
+206,Nd10,WNAI98,,Upper Thompson,WNAI
+207,Nd11,B333,,Shuswap,Binford
+208,Nd11,WNAI96,,Shuswap,WNAI
+209,Nd12,B330,,Flathead,Binford
+210,Nd12,WNAI105,,Flathead,WNAI
+211,Nd13,B326,,Kalispel,Binford
+212,Nd13,WNAI104,,Kalispel,WNAI
+213,Nd14,B320,,Coeur d'Alene,Binford
+214,Nd14,WNAI103,,Coeur d’Alene,WNAI
+215,Nd15,B321,,Sinkaietk,Binford
+216,Nd16,B317,,Wenatchi,Binford
+217,Nd16,WNAI102,,Wenatchi,WNAI
+218,Nd17,B318,,Yakima,Binford
+219,Nd18,B319,,Wishram,Binford
+220,Nd18,WNAI110,,Wishram,WNAI
+221,Nd19,B316,,Umatilla,Binford
+222,Nd19,WNAI108,,Umatilla,WNAI
+223,Nd2,B222,,Southern Ute (Wimonantci Ute),Binford
+224,Nd2,WNAI131,,Wimonuch Ute (Shoshonean),WNAI
+225,Nd20,B324,,Nez Perce,Binford
+226,Nd20,WNAI107,,Nez Perce,WNAI
+227,Nd22,B231,,Wadadokado Paiute,Binford
+228,Nd22,SCCS137,,Paiute (Northern),SCCS
+229,Nd22,WNAI114,,Wada-Dokado Northern Paiute,WNAI
+230,Nd24,B226,,Kidutokado (Surprise Valley Paiute),Binford
+231,Nd24,WNAI115,,Kidu-Dokado Northern Paiute,WNAI
+232,Nd27,B208,,Kuyuidokado (Pyramid Lake Paiute),Binford
+233,Nd27,WNAI116,,Kuyui-Dokado Northern Paiute,WNAI
+234,Nd28,B210,,Cattail Paiute,Binford
+235,Nd29,B206,,Deep Springs Paiute,Binford
+236,Nd29,B211,,Fish Lake Paiute,Binford
+237,Nd3,SCCS150,,Havasupai,SCCS
+238,Nd3,WNAI136,,Havasupai,WNAI
+239,Nd30,B202,,Owens Valley Paiute (Eastern Mono),Binford
+240,Nd30,WNAI117,,Owens Valley Northern Paiute,WNAI
+241,Nd31,B197,,Koso Mountain Shoshoni,Binford
+242,Nd32,B192,,Death Valley Shoshoni,Binford
+243,Nd32,B195,,Panamint Shoshoni,Binford
+244,Nd32,B200,,Saline Valley Shoshoni,Binford
+245,Nd32,WNAI118,,Panamint Shoshone,WNAI
+246,Nd35,B218,,Reese River Shoshoni,Binford
+247,Nd35,WNAI120,,Reese River Shoshone,WNAI
+248,Nd36,B233,,Little Smokey Shoshoni,Binford
+249,Nd37,B217,,Railroad Valley Shoshoni,Binford
+250,Nd4,B323,,Sanpoil,Binford
+251,Nd4,WNAI100,,Sanpoil,WNAI
+252,Nd40,B221,,Grouse Creek Shoshoni,Binford
+253,Nd41,B228,,Wadaduica (Ruby Valley Shoshoni),Binford
+254,Nd41,WNAI122,,Ruby Valley Shoshone,WNAI
+255,Nd43,B216,,White Knife Shoshoni,Binford
+256,Nd43,WNAI123,,Battle Mountain Shoshone,WNAI
+257,Nd45,B229,,Bohogue (Northern Shoshoni),Binford
+258,Nd45,WNAI125,,Bohogue Shoshone,WNAI
+259,Nd47,B232,,Sheep Eater Shoshoni,Binford
+260,Nd46,B207,,Salmon Eater Shoshoni,Binford
+261,Nd46,WNAI126,,Agaiduka Shoshone,WNAI
+262,Nd48,B214,,Gosiute Shoshoni,Binford
+263,Nd48,WNAI124,,Gosiute Shoshone,WNAI
+264,Nd49,B201,,Antarianunts Southern Paiute,Binford
+265,Nd5,B213,,Hukundika Shoshoni,Binford
+266,Nd5,WNAI127,,Hukundika Shoshone,WNAI
+267,Nd52,WNAI132,,Shivwits Southern Paiute,WNAI
+268,Nd53,B204,,Kaibab Southern Paiute,Binford
+269,Nd53,WNAI133,,Kaibab Southern Paiute,WNAI
+270,Nd55,B204,,Kaibab Southern Paiute,Binford
+271,Nd55,WNAI133,,Kaibab Southern Paiute,WNAI
+272,Nd54,WNAI135,,Chemehuevi Southern Paiute,WNAI
+273,Nd56,WNAI134,,San Juan Southern Paiute,WNAI
+274,Nd58,B230,,Uintah Ute,Binford
+275,Nd58,WNAI129,,Uintah Ute,WNAI
+276,Nd6,B225,,Washo,Binford
+277,Nd6,WNAI119,,Washo,WNAI
+278,Nd62,B234,,Uncompahgre Ute,Binford
+279,Nd62,WNAI130,,Uncompaghre Ute,WNAI
+280,Nd63,B252,,Bannock,Binford
+281,Nd64,B227,,Wind River Shoshoni,Binford
+282,Nd64,WNAI128,,Wind River Shoshone,WNAI
+283,Nd65,B198,,Walapai,Binford
+284,Nd65,WNAI137,,Walapai,WNAI
+285,Nd66,B196,,Yavapai,Binford
+286,Nd66,WNAI138,,Northeast Yavapai,WNAI
+287,Nd66,WNAI139,,Southeast Yavapai,WNAI
+288,Nd7,B250,,Kutenai,Binford
+289,Nd7,SCCS139,,Kutenai,SCCS
+290,Nd7,WNAI106,,Kutenai,WNAI
+291,Nd8,B348,,Chilcotin,Binford
+292,Nd8,WNAI95,,Chilcotin,WNAI
+293,Nd9,B276,,Lillooet,Binford
+294,Nd9,WNAI97,,Upper Lillooet,WNAI
+295,Ne1,B253,,Gros-Ventre,Binford
+296,Ne1,SCCS140,,Gros Ventre,SCCS
+297,Ne11,B257,,Assiniboine,Binford
+298,Ne12,B256,,Blackfoot,Binford
+299,Ne13,B259,,Blood,Binford
+300,Ne14,B254,,Bungi (Plains Ojibwa),Binford
+301,Ne15,SCCS141,,Hidatsa,SCCS
+302,Ne16,B193,,Karankawa,Binford
+303,Ne17,B243,,Kiowa,Binford
+304,Ne18,B255,,Piegan,Binford
+305,Ne19,B258,,Plains Cree,Binford
+306,Ne2,B244,,Kiowa Apache,Binford
+307,Ne21,B194,,Coahuilenos,Binford
+308,Ne3,B241,,Comanche,Binford
+309,Ne3,SCCS147,,Comanche,SCCS
+310,Ne4,B248,,Crow,Binford
+311,Ne5,B245,,Cheyenne,Binford
+312,Ne7,B260,,Sarsi,Binford
+313,Ne8,B249,,Teton Sioux (Lakota),Binford
+314,Ne9,B246,,Arapaho,Binford
+315,Ad6,SCCS8,,Nyakyusa,SCCS
+316,Nf3,SCCS143,,Omaha,SCCS
+317,Ad7,SCCS12,,Ganda,SCCS
+318,Nf6,SCCS142,,Pawnee,SCCS
+319,Ng1,SCCS144,,Huron,SCCS
+320,Ng3,SCCS145,,Creek,SCCS
+321,Ng7,SCCS146,,Natchez,SCCS
+322,Nh1,B242,,Chiricahua Apache,Binford
+323,Nh1,SCCS148,,Chiricahua,SCCS
+324,Nh1,WNAI152,,Warm Springs Chiricahua Apache,WNAI
+325,Nh1,WNAI153,,Huachuca Chiricahua Apache,WNAI
+326,Nh10,WNAI171,,Isleta,WNAI
+327,Nh11,WNAI167,,San Ildefonso Tewa,WNAI
+328,Nh12,WNAI163,,Santa Ana Keres,WNAI
+329,Nh13,WNAI161,,Acoma,WNAI
+330,Nh15,WNAI154,,Mescalero Apache,WNAI
+331,Nh16,WNAI156,,Jicarilla Apache,WNAI
+332,Nh17,WNAI147,,North Tonto Western Apache,WNAI
+333,Nh17,WNAI148,,South Tonto Western Apache,WNAI
+334,Nh17,WNAI149,,San Carlos Western Apache,WNAI
+335,Nh17,WNAI150,,Cibecue Western Apache,WNAI
+336,Nh17,WNAI151,,White Mountain Western Apache,WNAI
+337,Nh18,WNAI159,,Hopi,WNAI
+338,Nh19,WNAI143,,Cocopa,WNAI
+339,Nh20,WNAI142,,Kamia,WNAI
+340,Nh21,WNAI140,,Mohave,WNAI
+341,Nh22,WNAI141,,Yuma,WNAI
+342,Nh24,B240,,Lipan Apache,Binford
+343,Nh24,WNAI155,,Lipan Apache,WNAI
+344,Nh25,WNAI162,,Sia Keres,WNAI
+345,Nh26,WNAI168,,Santa Clara Tewa,WNAI
+346,Nh27,WNAI164,,Santo Domingo Keres,WNAI
+347,Nh3,WNAI157,,Western Navaho,WNAI
+348,Nh3,WNAI158,,Eastern Navaho,WNAI
+349,Nh4,SCCS149,,Zuni,SCCS
+350,Nh4,WNAI160,,Zuni,WNAI
+351,Nh5,WNAI144,,Maricopa,WNAI
+352,Nh6,WNAI170,,Taos,WNAI
+353,Nh7,WNAI165,,Cochiti,WNAI
+354,Nh8,WNAI172,,Jemez,WNAI
+355,Ni2,SCCS151,,Papago,SCCS
+356,Ni2,WNAI146,,Papago,WNAI
+357,Ni3,SCCS152,,Huichol,SCCS
+358,Ni4,B143,,Seri,Binford
+359,Ni5,B191,,Chichimec,Binford
+360,Ni6,WNAI145,,Pima,WNAI
+361,Nj2,SCCS153,,Aztec,SCCS
+362,Nj3,SCCS154,,Popoluca,SCCS
+363,Sa1,SCCS158,,Cuna (Tule),SCCS
+364,Sa13,SCCS155,,Quiche,SCCS
+365,Sa5,SCCS157,,Bribri,SCCS
+366,Sa9,SCCS156,,Miskito,SCCS
+367,Sb1,SCCS161,,Callinago,SCCS
+368,Sb5,B35,,Paraujano,Binford
+369,Sb6,SCCS159,,Goajiro,SCCS
+370,Sb9,SCCS160,,Haitians,SCCS
+371,Sc1,SCCS162,,Warrau,SCCS
+372,Sc2,B38,,Yaruro-Pume,Binford
+373,Sc3,SCCS164,,Barama Carib,SCCS
+374,Sc4,B39,,Guahibo,Binford
+375,Sc6,SCCS165,,Saramacca,SCCS
+376,Sd1,SCCS166,,Mundurucu,SCCS
+377,Sd6,B36,,Shiriana,Binford
+378,Sd9,SCCS163,,Yanomamo,SCCS
+379,Se1,B43,,Siriono,Binford
+380,Se1,SCCS173,,Siriono,SCCS
+381,Se3,SCCS169,,Jivaro,SCCS
+382,Se5,SCCS167,,Cubeo,SCCS
+383,Se8,SCCS170,,Amahuaca,SCCS
+384,Sf1,SCCS171,,Inca,SCCS
+385,Sf2,SCCS172,,Aymara,SCCS
+386,Sf3,SCCS168,,Cayapa,SCCS
+387,Sg1,B55,,Yaghan,Binford
+388,Sg1,SCCS186,,Yahgan,SCCS
+389,Sg2,SCCS184,,Mapuche,SCCS
+390,Sg3,B54,,Ona,Binford
+391,Sg4,B51,,Tehuelche,Binford
+392,Sg4,SCCS185,,Tehuelche,SCCS
+393,Sg5,B53,,Alacaluf,Binford
+394,Sh3,SCCS183,,Abipon,SCCS
+395,Sh9,SCCS182,,Lengua,SCCS
+396,Si1,B41,,Bororo,Binford
+397,Si2,SCCS175,,Trumai,SCCS
+398,Si4,B45,,Nambikwara,Binford
+399,Si4,SCCS174,,Nambicuara,SCCS
+400,Si6,B42,,Guato,Binford
+401,Sj10,SCCS181,,Cayua,SCCS
+402,Sj11,SCCS179,,Shavante,SCCS
+403,Sj3,B50,,Aweikomo,Binford
+404,Sj3,SCCS180,,Aweikoma,SCCS
+405,Sj4,SCCS176,,Timbira,SCCS
+406,Sj5,B48,,Botocudo,Binford
+407,Sj5,SCCS178,,Botocudo,SCCS
+408,Sj8,SCCS177,,Tupinamba,SCCS
+409,Ae4,SCCS14,,Nkundo Mongo,SCCS
+410,Ae51,SCCS15,,Banen,SCCS
+411,Af1,SCCS18,,Fon,SCCS
+412,Af10,SCCS17,,Igbo,SCCS
+413,Aa2,B70,,Dorobo,Binford
+414,Af3,SCCS19,,Ashanti,SCCS
+415,Af5,SCCS20,,Mende,SCCS
+416,Ag1,SCCS22,,Bambara,SCCS
+417,Ab3,SCCS4,,Lozi,SCCS
+418,Ab4,SCCS3,,Thonga,SCCS
+419,Ag4,SCCS23,,Tallensi,SCCS
+420,Ab5,SCCS5,,Mbundu,SCCS
+421,Aa3,SCCS1,,Nama,SCCS
+422,Ah3,SCCS16,,Tiv,SCCS
+423,Ai10,SCCS30,,Otoro,SCCS
+424,Ai3,SCCS28,,Azande,SCCS
+425,Ai47,SCCS32,,Mao,SCCS
+426,Ai6,SCCS31,,Shilluk,SCCS
+427,Ai9,SCCS27,,Masa,SCCS
+428,Aj2,SCCS34,,Masai,SCCS
+429,Ac17,SCCS6,,Suku,SCCS
+430,Ca1,SCCS35,,Konso,SCCS
+431,Ca2,SCCS36,,Somali,SCCS
+432,Ca30,SCCS33,,Kafa,SCCS
+433,Ca37,SCCS38,,Bogo,SCCS
+434,Ca7,SCCS37,,Amhara,SCCS
+435,Cb17,SCCS29,,Fur,SCCS
+436,Cb2,SCCS21,,Wolof,SCCS
+437,Cb24,SCCS25,,Pastoral Fulani,SCCS
+438,Cb26,SCCS26,,Hausa,SCCS
+439,Cb3,SCCS24,,Songhai,SCCS
+440,Cc2,SCCS40,,Teda,SCCS
+441,Aa5,B65,,Mbuti,Binford
+442,Aa5,SCCS13,,Mbuti,SCCS
+443,Cc9,SCCS41,,Tuareg,SCCS
+444,Cd1,SCCS39,,Kenuzi Nubians,SCCS
+445,Cd2,SCCS43,,Egyptians,SCCS
+446,Cd3,SCCS42,,Riffians,SCCS
+447,Ce1,SCCS48,,Gheg Albanians,SCCS
+448,Ce3,SCCS49,,Romans,SCCS
+449,Ce8,SCCS50,,Basques,SCCS
+450,Cg3,SCCS51,,Irish,SCCS
+451,Cg4,SCCS52,,Lapps,SCCS
+452,Ch11,SCCS54,,Russians,SCCS
+453,Ac3,SCCS7,,Bemba,SCCS
+454,Ci10,SCCS56,,Armenians,SCCS
+455,Ci11,SCCS57,,Kurd,SCCS
+456,Ci12,SCCS55,,Abkhaz,SCCS
+457,Ci5,SCCS47,,Turks,SCCS
+458,Cj2,SCCS46,,Rwala Bedouin,SCCS
+459,Cj3,SCCS44,,Hebrews,SCCS
+460,Cj4,SCCS45,,Babylonians,SCCS
+461,Ea13,SCCS59,,Punjabi (West),SCCS
+462,Ea6,SCCS58,,Basseri,SCCS
+463,Eb1,SCCS65,,Kazak,SCCS
+464,Eb3,SCCS66,,Khalka Mongols,SCCS
+465,Ec1,B25,,Gilyak,Binford
+466,Ec1,SCCS119,,Gilyak,SCCS
+467,ec12,B27,,Nganasan,Binford
+468,ec14,B28,,Siberian Eskimo,Binford
+469,Ec3,SCCS121,,Chukchee,SCCS
+470,Ec4,SCCS53,,Yurak Samoyed,SCCS
+471,Ec6,B26,,Yukaghir,Binford
+472,Ec6,SCCS120,,Yukaghir,SCCS
+473,Ec7,B22,,Ainu,Binford
+474,Ec7,SCCS118,,Ainu,SCCS
+475,Ec8,B24,,Ket,Binford
+476,Ed1,SCCS116,,Koreans,SCCS
+477,Ed15b,SCCS114,,Chinese,SCCS
+478,Ed2,SCCS67,,Lolo,SCCS
+479,Ed3,SCCS115,,Manchu,SCCS
+480,Ed5,SCCS117,,Japanese,SCCS
+481,Ee2,SCCS64,,Burusho,SCCS
+482,Ee3,SCCS68,,Lepcha,SCCS
+483,Ef1,SCCS62,,Santal,SCCS
+484,Ef11,SCCS63,,Uttar Pradesh,SCCS
+485,Eg1,B15,,Chenchu,Binford
+486,Eg3,SCCS60,,Gond,SCCS
+487,Eg4,SCCS61,,Toda,SCCS
+488,Eh1,B8,,Big Andaman Island,Binford
+489,Eh1,SCCS79,,Andamanese,SCCS
+490,Eh3,SCCS81,,Tanala,SCCS
+491,Eh4,B10,,Vedda,Binford
+492,Eh4,SCCS80,,Vedda,SCCS
+493,Eh5,SCCS78,,Nicobarese,SCCS
+494,Ei1,SCCS69,,Garo,SCCS
+495,Aa7,B73,,Nharo,Binford
+496,Ei3,SCCS71,,Burmese,SCCS
+497,Ei4,SCCS70,,Lakher,SCCS
+498,Ej1,SCCS72,,Lamet,SCCS
+499,Ej10,SCCS74,,Rhade,SCCS
+500,Ej15,SCCS75,,Khmer,SCCS
+501,Ej16,SCCS82,,Negri Sembilan,SCCS
+502,Ej3,B9,,Semang,Binford
+503,Ej3,SCCS77,,Semang,SCCS
+504,Ej4,SCCS73,,Vietnamese,SCCS
+505,Ej9,SCCS76,,Siamese,SCCS
+506,Ia1,SCCS113,,Atayal,SCCS
+507,Ia13,SCCS86,,Badjau,SCCS
+508,Ia3,SCCS112,,Ifugao,SCCS
+509,Ib1,SCCS85,,Iban,SCCS
+510,Ib2,SCCS83,,Javanese,SCCS
+511,Ib3,SCCS84,,Balinese,SCCS
+512,Ib8,B3,,Kubu,Binford
+513,Ib9,B1,,Punan,Binford
+514,Ic10,SCCS88,,Tobelorese,SCCS
+515,Ic2,SCCS89,,Alorese,SCCS
+516,Ic5,SCCS87,,Toradja,SCCS
+517,Id1,B124,,Northern Arenda,Binford
+518,Id1,SCCS91,,Aranda,SCCS
+519,Id1,,CHIRILA1048,Eastern and Central Arrernte,CHIRILA
+520,Id10,B109,,Walbiri,Binford
+521,Id10,,CHIRILA192,Warlpiri,CHIRILA
+522,Id11,B87,,Gidjingali,Binford
+523,Id11,,CHIRILA1143,Burarra,CHIRILA
+524,Id12,B94,,Yir-yoront,Binford
+525,Id12,,CHIRILA27,Yir-Yoront,CHIRILA
+526,Id13,B97,,Groote Eylandt,Binford
+527,Id13,,CHIRILA1229,Anindilyakwa,CHIRILA
+528,Id2,B88,,Murngin,Binford
+529,Id2,,CHIRILA1093,Dhuwal,CHIRILA
+530,Id3,B95,,Tiwi,Binford
+531,Id3,SCCS90,,Tiwi,SCCS
+532,Id3,,CHIRILA300,Tiwi,CHIRILA
+533,Id4,B121,,Dieri,Binford
+534,Id4,,CHIRILA1088,Diyari,CHIRILA
+535,Id5,B106,,Kariera,Binford
+536,Id5,,CHIRILA855,Kariyarra,CHIRILA
+537,Id6,B90,,Wikmunkan,Binford
+538,Id6,,CHIRILA138,Wik-Mungkan,CHIRILA
+539,Id7,,CHIRILA608,Murrinh-patha,CHIRILA
+540,Id8,B137,,Tasmanians (western),Binford
+541,Id9,B130,,Wongaibon,Binford
+542,Id9,,CHIRILA520,Ngiyambaa,CHIRILA
+543,Ie1,SCCS94,,Kapauku,SCCS
+544,Ie12,SCCS95,,Kwoma,SCCS
+545,Ie18,SCCS93,,Kimam,SCCS
+546,Aa8,B79,,/Xam,Binford
+547,Ad14,SCCS10,,Luguru,SCCS
+548,Ie9,SCCS92,,Orokaiva,SCCS
+549,If1,SCCS111,,Palauans,SCCS
+550,If14,SCCS107,,Gilbertese,SCCS
+551,If17,SCCS108,,Marshallese,SCCS
+552,If2,SCCS109,,Trukese,SCCS
+553,If6,SCCS110,,Yapese,SCCS
+554,Ig1,SCCS99,,Siuai,SCCS
+555,Ig2,SCCS98,,Trobrianders,SCCS
+556,Ig4,SCCS97,,New Ireland,SCCS
+557,Ig9,SCCS96,,Manus,SCCS
+558,Ih14,SCCS102,,Mbau Fijians,SCCS
+559,Ih3,SCCS101,,Pentecost,SCCS
+560,Ih5,SCCS103,,Ajie,SCCS
+561,Ii14,SCCS106,,Western Samoans,SCCS
+562,Ii2,SCCS100,,Tikopia,SCCS
+563,Ij2,SCCS104,,Maori,SCCS
+564,Ij3,SCCS105,,Marquesans,SCCS
+565,Aa9,B69,,Hadza,Binford
+566,Aa9,SCCS9,,Hadza,SCCS
+567,Nd26,B212,,Honey Lake Paiute,Binford
+568,Nd39,B215,,Spring Valley Shoshoni,Binford
+569,Nd39,WNAI121,,Spring Valley Shoshone,WNAI
+570,B72,Aa1,,Kung,EA
+571,B72,SCCS2,,Kung,SCCS
+572,B322,WNAI99,,Southern Okanagon,WNAI
+573,B381,Na3,,Copper Eskimo,EA
+574,B381,SCCS124,,Copper Eskimo,SCCS
+575,B384,Na22,,Iglulik,EA
+576,B359,Na1,,Nabesna,EA
+577,B297,Na10,,Chugach,EA
+578,B377,Na12,,Nunamiut,EA
+579,B386,Na13,,Baffinland,EA
+580,B390,Na14,,Polar Eskimo,EA
+581,B361,Na15,,Dogrib,EA
+582,B358,Na16,,Satudene,EA
+583,B345,Na17,,Slave,EA
+584,B345,SCCS128,,Slave,SCCS
+585,B349,Na19,,Carrier,EA
+586,B349,WNAI93,,Alkatcho Carrier,WNAI
+587,B349,WNAI94,,Lower Carrier,WNAI
+588,B389,Na2,,Tareumiut,EA
+589,B356,Na20,,Kutchin,EA
+590,B374,Na21,,Caribou Eskimo,EA
+591,B372,Na23,,Labrador Eskimo,EA
+592,B388,Na24,,Angmagsalik,EA
+593,B385,Na25,,Greenlanders,EA
+594,B362,Na26,,Tanaina,EA
+595,B347,Na27,,Tahltan,EA
+596,B343,Na28,,Sekani,EA
+597,B344,Na29,,Beaver,EA
+598,B355,Na30,,Chipewyan,EA
+599,B342,Na32,,Montagnais,EA
+600,B342,SCCS125,,Montagnais,SCCS
+601,B332,Na33,,Northern Saulteaux,EA
+602,B332,SCCS127,,Saulteaux,SCCS
+603,B334,Na34,,Pekangekum,EA
+604,B337,Na35,,Nipigon,EA
+605,B331,Na37,,Rainy River,EA
+606,B328,Na38,,Katikitegon,EA
+607,B327,Na39,,Eastern Ojibwa,EA
+608,B346,Na4,,Kaska,EA
+609,B346,SCCS129,,Kaska,SCCS
+610,B329,Na41,,Micmac,EA
+611,B329,SCCS126,,Micmac,SCCS
+612,B387,Na43,,Netsilik,EA
+613,B338,Na45,,Mistassini,EA
+614,B365,Na5,,Naskapi,EA
+615,B299,Na6,,Nunivak,EA
+616,B353,Na7,,Cree Attawapiskat,EA
+617,B357,Na8,,Ingalik,EA
+618,B357,SCCS122,,Ingalik,SCCS
+619,B298,Na9,,Aleut,EA
+620,B298,SCCS123,,Aleut,SCCS
+621,B290,Nb1,,Haida,EA
+622,B290,SCCS131,,Haida,SCCS
+623,B290,WNAI3,,North Masset Haida,WNAI
+624,B336,Nb10,,Alkatcho,EA
+625,B273,Nb11,,Nootka,EA
+626,B273,WNAI12,,Clayoquot Nootka,WNAI
+627,B268,Nb13,,Squamish,EA
+628,B268,WNAI16,,Squamish Salish,WNAI
+629,B282,Nb14,,Comox,EA
+630,B277,Nb15,,Lummi,EA
+631,B277,WNAI21,,Lummi Salish,WNAI
+632,B285,Nb16,,Klallam,EA
+633,B285,WNAI22,,Klallam Salish,WNAI
+634,B270,Nb17,,Puyallup,EA
+635,B270,WNAI25,,Puyallup Salish,WNAI
+636,B284,Nb18,,Quileute,EA
+637,B284,WNAI26,,Quileute Chimakuan,WNAI
+638,B274,Nb19,,Chinook,EA
+639,B274,WNAI27,,Lower Chinook,WNAI
+640,B271,Nb2,,Twana,EA
+641,B271,SCCS133,,Twana,SCCS
+642,B271,WNAI23,,Twana Salish,WNAI
+643,B281,Nb20,,Tillamok,EA
+644,B281,WNAI28,,Tillamook Salish,WNAI
+645,B275,Nb21,,Coos,EA
+646,B275,WNAI31,,Coos,WNAI
+647,B292,Nb22,,Tlingit,EA
+648,B292,WNAI2,,South Tlingit,WNAI
+649,B283,Nb23,,Bellabella,EA
+650,B283,WNAI9,,Bella Bella Kwakiutl,WNAI
+651,B286,Nb24,,Makah,EA
+652,B286,WNAI13,,Makah Nootkan,WNAI
+653,B278,Nb25,,Quinault,EA
+654,B278,WNAI24,,Quinault Salish,WNAI
+655,B280,Nb26,,Cowichan,EA
+656,B280,WNAI17,,Cowichan Salish,WNAI
+657,B279,Nb27,,Stalo,EA
+658,B279,WNAI19,,Upper Stalo Salish,WNAI
+659,B269,Nb28,,Alsea,EA
+660,B269,WNAI29,,Alsea,WNAI
+661,B288,Nb3,,Kwakiutl,EA
+662,B288,WNAI10,,Fort Rupert Kwakiutl,WNAI
+663,B176,Nb30,,Takelma,EA
+664,B181,Nb31,,Tututni,EA
+665,B181,WNAI32,,Tututni Athapaskan,WNAI
+666,B179,Nb32,,Shasta,EA
+667,B179,WNAI44,,East Shasta,WNAI
+668,B179,WNAI45,,West Shasta,WNAI
+669,B162,Nb33,,Chimariko,EA
+670,B162,WNAI46,,Chimariko,WNAI
+671,B182,Nb34,,Karok,EA
+672,B182,WNAI37,,Karok,WNAI
+673,B180,Nb35,,Hupa,EA
+674,B180,WNAI38,,Hupa Athapaskan,WNAI
+675,B184,Nb36,,Wiyot,EA
+676,B184,WNAI39,,Wiyot,WNAI
+677,B167,Nb37,,Lassik,EA
+678,B169,Nb38,,Mattole,EA
+679,B169,WNAI41,,Mattole Athapaskan,WNAI
+680,B166,Nb39,,Sinkyone,EA
+681,B166,WNAI40,,Sinkyone Athapaskan,WNAI
+682,B186,Nb4,,Yurok,EA
+683,B186,SCCS134,,Yurok,SCCS
+684,B186,WNAI36,,Yurok,WNAI
+685,B295,Nb5,,Eyak,EA
+686,B295,SCCS130,,Eyak,SCCS
+687,B178,Nb6,,Tolowa,EA
+688,B178,WNAI35,,Tolowa Athapaskan,WNAI
+689,B289,Nb7,,Tsimshian,EA
+690,B289,WNAI5,,Tsimshian,WNAI
+691,B287,Nb8,,Haisla,EA
+692,B287,WNAI7,,Haisla Kwakiutl,WNAI
+693,B291,Nb9,,Bellacoola,EA
+694,B291,SCCS132,,Bellacoola,SCCS
+695,B291,WNAI11,,Bella Coola Salish,WNAI
+696,B153,Nc1,,Nomlaki,EA
+697,B153,WNAI50,,Nomlaki Wintun,WNAI
+698,B187,Nc10,,Achomawi,EA
+699,B187,WNAI51,,East Achomawi,WNAI
+700,B187,WNAI52,,West Achomawi,WNAI
+701,B174,Nc11,,Yana,EA
+702,B174,WNAI62,,Yana,WNAI
+703,B185,Nc12,,Maidu,EA
+704,B185,WNAI56,,Mountain Maidu,WNAI
+705,B163,Nc13,,Nisenan,EA
+706,B163,WNAI57,,Foothill Nisenan,WNAI
+707,B163,WNAI58,,Mountain Nisenan,WNAI
+708,B163,WNAI59,,Southern Nisenan,WNAI
+709,B160,Nc14,,Wintu,EA
+710,B160,WNAI47,,Trinity River Wintu,WNAI
+711,B160,WNAI48,,McCloud River Wintu,WNAI
+712,B160,WNAI49,,Sacramento River Wintu,WNAI
+713,B177,Nc15,,Coast Yuki,EA
+714,B177,WNAI60,,Coast Yuki,WNAI
+715,B173,Nc17,,Northern Pomo,EA
+716,B173,WNAI63,,Northern Pomo,WNAI
+717,B158,Nc18,,Eastern Pomo,EA
+718,B158,SCCS135,,Pomo (Eastern),SCCS
+719,B158,WNAI64,,Eastern Pomo,WNAI
+720,B159,Nc18,,Eastern Pomo,EA
+721,B159,SCCS135,,Pomo (Eastern),SCCS
+722,B159,WNAI64,,Eastern Pomo,WNAI
+723,B152,Nc2,,Tubatulabal,EA
+724,B152,WNAI78,,Tubatulabal,WNAI
+725,B172,Nc20,,Wappo,EA
+726,B172,WNAI66,,Wappo Yukian,WNAI
+727,B170,Nc21,,Lake Miwok,EA
+728,B155,Nc22,,Patwin,EA
+729,B155,WNAI67,,Patwin Wintun,WNAI
+730,B157,Nc23,,Monachi,EA
+731,B157,WNAI72,,Kings River Mono (Uto-Aztecan),WNAI
+732,B148,Nc24,,Lake Yokuts,EA
+733,B148,SCCS136,,Yokuts (Lake),SCCS
+734,B148,WNAI76,,Lake Yokuts,WNAI
+735,B148,WNAI77,,Yauelmani Yokuts,WNAI
+736,B151,Nc25,,Wukchumni,EA
+737,B151,WNAI75,,Kaweah Yokuts,WNAI
+738,B164,Nc26,,Salinan,EA
+739,B164,WNAI80,,Salinan,WNAI
+740,B199,Nc27,,Kawaiisu,EA
+741,B199,WNAI79,,Kawaiisu,WNAI
+742,B161,Nc28,,Chumash,EA
+743,B156,Nc29,,Gabrielo,EA
+744,B156,WNAI81,,Gabrielino,WNAI
+745,B154,Nc3,,Yokuts,EA
+746,B154,WNAI73,,Chuckchansi Yokuts,WNAI
+747,B149,Nc30,,Serrano,EA
+748,B149,WNAI84,,Serrano,WNAI
+749,B144,Nc31,,Cahuilla,EA
+750,B144,WNAI85,,Desert Cahuilla,WNAI
+751,B145,Nc32,,Cupeno,EA
+752,B145,WNAI83,,Cupeno,WNAI
+753,B150,Nc33,,Luiseno,EA
+754,B150,WNAI82,,Luiseno,WNAI
+755,B146,Nc34,,Kiliwa,EA
+756,B146,WNAI91,,Kaliwa (Hokan),WNAI
+757,B183,Nc4,,Atsugewi,EA
+758,B183,WNAI53,,Atsugewei,WNAI
+759,B175,Nc5,,Miwok,EA
+760,B175,WNAI69,,Central Miwok,WNAI
+761,B147,Nc6,,Diegueno,EA
+762,B147,WNAI89,,Western Diegueno,WNAI
+763,B147,WNAI90,,Desert Diegueno,WNAI
+764,B171,Nc7,,Yuki,EA
+765,B171,WNAI61,,Yuki,WNAI
+766,B189,Nc8,,Klamath,EA
+767,B189,SCCS138,,Klamath,SCCS
+768,B189,WNAI112,,Klamath,WNAI
+769,B188,Nc9,,Modoc,EA
+770,B188,WNAI113,,Modoc,WNAI
+771,B315,Nd1,,Tenino,EA
+772,B315,WNAI111,,Tenino,WNAI
+773,B325,Nd10,,Thompson,EA
+774,B325,WNAI98,,Upper Thompson,WNAI
+775,B333,Nd11,,Shuswap,EA
+776,B333,WNAI96,,Shuswap,WNAI
+777,B330,Nd12,,Flathead,EA
+778,B330,WNAI105,,Flathead,WNAI
+779,B326,Nd13,,Kalispel,EA
+780,B326,WNAI104,,Kalispel,WNAI
+781,B320,Nd14,,Coeur d’Alene,EA
+782,B320,WNAI103,,Coeur d’Alene,WNAI
+783,B321,Nd15,,Sinkaitk,EA
+784,B317,Nd16,,Wenatchi,EA
+785,B317,WNAI102,,Wenatchi,WNAI
+786,B318,Nd17,,Klikitat,EA
+787,B319,Nd18,,Wishram,EA
+788,B319,WNAI110,,Wishram,WNAI
+789,B316,Nd19,,Umatilla,EA
+790,B316,WNAI108,,Umatilla,WNAI
+791,B222,Nd2,,Southern Ute,EA
+792,B222,WNAI131,,Wimonuch Ute (Shoshonean),WNAI
+793,B324,Nd20,,Nez Perce,EA
+794,B324,WNAI107,,Nez Perce,WNAI
+795,B231,Nd22,,Wadadokado,EA
+796,B231,SCCS137,,Paiute (Northern),SCCS
+797,B231,WNAI114,,Wada-Dokado Northern Paiute,WNAI
+798,B226,Nd24,,Kidutokado,EA
+799,B226,WNAI115,,Kidu-Dokado Northern Paiute,WNAI
+800,B208,Nd27,,Kuyuidokado,EA
+801,B208,WNAI116,,Kuyui-Dokado Northern Paiute,WNAI
+802,B210,Nd28,,Toedokado,EA
+803,B206,Nd29,,Tunava,EA
+804,B211,Nd29,,Tunava,EA
+805,B202,Nd30,,Eastern Mono,EA
+806,B202,WNAI117,,Owens Valley Northern Paiute,WNAI
+807,B197,Nd31,,Koso,EA
+808,B192,Nd32,,Panamint,EA
+809,B192,WNAI118,,Panamint Shoshone,WNAI
+810,B195,Nd32,,Panamint,EA
+811,B195,WNAI118,,Panamint Shoshone,WNAI
+812,B200,Nd32,,Panamint,EA
+813,B200,WNAI118,,Panamint Shoshone,WNAI
+814,B218,Nd35,,Mahaguaduka,EA
+815,B218,WNAI120,,Reese River Shoshone,WNAI
+816,B233,Nd36,,Wiyambituka,EA
+817,B217,Nd37,,Hamilton,EA
+818,B323,Nd4,,Sanpoil,EA
+819,B323,WNAI100,,Sanpoil,WNAI
+820,B221,Nd40,,Tubaduka,EA
+821,B228,Nd41,,Wadaduka,EA
+822,B228,WNAI122,,Ruby Valley Shoshone,WNAI
+823,B216,Nd43,,White Knife,EA
+824,B216,WNAI123,,Battle Mountain Shoshone,WNAI
+825,B229,Nd45,,Bohogue,EA
+826,B229,WNAI125,,Bohogue Shoshone,WNAI
+827,B232,Nd47,,Tukudika,EA
+828,B207,Nd46,,Agaiduka,EA
+829,B207,WNAI126,,Agaiduka Shoshone,WNAI
+830,B214,Nd48,,Gosiute,EA
+831,B214,WNAI124,,Gosiute Shoshone,WNAI
+832,B201,Nd49,,Antarianunts,EA
+833,B213,Nd5,,Hukundika,EA
+834,B213,WNAI127,,Hukundika Shoshone,WNAI
+835,B204,Nd53,,Kaibab,EA
+836,B204,Nd55,,Las Vegas,EA
+837,B204,WNAI133,,Kaibab Southern Paiute,WNAI
+838,B230,Nd58,,Uintah,EA
+839,B230,WNAI129,,Uintah Ute,WNAI
+840,B225,Nd6,,Washo,EA
+841,B225,WNAI119,,Washo,WNAI
+842,B234,Nd62,,Uncompahgre,EA
+843,B234,WNAI130,,Uncompaghre Ute,WNAI
+844,B252,Nd63,,Bannock,EA
+845,B227,Nd64,,Wind River,EA
+846,B227,WNAI128,,Wind River Shoshone,WNAI
+847,B198,Nd65,,Walapai,EA
+848,B198,WNAI137,,Walapai,WNAI
+849,B196,Nd66,,Yavapai,EA
+850,B196,WNAI138,,Northeast Yavapai,WNAI
+851,B196,WNAI139,,Southeast Yavapai,WNAI
+852,B250,Nd7,,Kutenai,EA
+853,B250,SCCS139,,Kutenai,SCCS
+854,B250,WNAI106,,Kutenai,WNAI
+855,B348,Nd8,,Chilcotin,EA
+856,B348,WNAI95,,Chilcotin,WNAI
+857,B276,Nd9,,Lillooet,EA
+858,B276,WNAI97,,Upper Lillooet,WNAI
+859,B253,Ne1,,Gros Ventre,EA
+860,B253,SCCS140,,Gros Ventre,SCCS
+861,B257,Ne11,,Assiniboin,EA
+862,B256,Ne12,,Blackfoot,EA
+863,B259,Ne13,,Blood,EA
+864,B254,Ne14,,Bungi,EA
+865,B193,Ne16,,Karankawa,EA
+866,B243,Ne17,,Kiowa,EA
+867,B255,Ne18,,Piegan,EA
+868,B258,Ne19,,Plains Cree,EA
+869,B244,Ne2,,Kiowa Apache,EA
+870,B194,Ne21,,Coahuilteco,EA
+871,B241,Ne3,,Comanche,EA
+872,B241,SCCS147,,Comanche,SCCS
+873,B248,Ne4,,Crow,EA
+874,B245,Ne5,,Cheyenne,EA
+875,B260,Ne7,,Sarsi,EA
+876,B249,Ne8,,Teton,EA
+877,B246,Ne9,,Arapaho,EA
+878,B242,Nh1,,Chiricahua,EA
+879,B242,SCCS148,,Chiricahua,SCCS
+880,B242,WNAI152,,Warm Springs Chiricahua Apache,WNAI
+881,B242,WNAI153,,Huachuca Chiricahua Apache,WNAI
+882,B240,Nh24,,Lipan,EA
+883,B240,WNAI155,,Lipan Apache,WNAI
+884,B143,Ni4,,Seri,EA
+885,B191,Ni5,,Chichimec,EA
+886,B35,Sb5,,Paraujano,EA
+887,B38,Sc2,,Yaruro,EA
+888,B39,Sc4,,Guahibo,EA
+889,B36,Sd6,,Shiriana,EA
+890,B43,Se1,,Siriono,EA
+891,B43,SCCS173,,Siriono,SCCS
+892,B55,Sg1,,Yahgan,EA
+893,B55,SCCS186,,Yahgan,SCCS
+894,B54,Sg3,,Ona,EA
+895,B51,Sg4,,Tehuelche,EA
+896,B51,SCCS185,,Tehuelche,SCCS
+897,B53,Sg5,,Alacaluf,EA
+898,B41,Si1,,Bororo,EA
+899,B45,Si4,,Nambicura,EA
+900,B45,SCCS174,,Nambicuara,SCCS
+901,B42,Si6,,Guato,EA
+902,B50,Sj3,,Aweikoma,EA
+903,B50,SCCS180,,Aweikoma,SCCS
+904,B48,Sj5,,Botocudo,EA
+905,B48,SCCS178,,Botocudo,SCCS
+906,B70,Aa2,,Dorobo,EA
+907,B65,Aa5,,Mbuti,EA
+908,B65,SCCS13,,Mbuti,SCCS
+909,B25,Ec1,,Gilyak,EA
+910,B25,SCCS119,,Gilyak,SCCS
+911,B27,ec12,,Nganasan,EA
+912,B28,ec14,,Ungazikmit,EA
+913,B26,Ec6,,Yukaghir,EA
+914,B26,SCCS120,,Yukaghir,SCCS
+915,B22,Ec7,,Ainu,EA
+916,B22,SCCS118,,Ainu,SCCS
+917,B24,Ec8,,Ket,EA
+918,B15,Eg1,,Chenchu,EA
+919,B8,Eh1,,Andamese,EA
+920,B8,SCCS79,,Andamanese,SCCS
+921,B10,Eh4,,Vedda,EA
+922,B10,SCCS80,,Vedda,SCCS
+923,B73,Aa7,,Naron,EA
+924,B9,Ej3,,Semang,EA
+925,B9,SCCS77,,Semang,SCCS
+926,B3,Ib8,,Kubu,EA
+927,B124,Id1,,Aranda,EA
+928,B124,SCCS91,,Aranda,SCCS
+929,B124,,CHIRILA1048,Eastern and Central Arrernte,CHIRILA
+930,B109,Id10,,Walbiri,EA
+931,B109,,CHIRILA192,Warlpiri,CHIRILA
+932,B87,Id11,,Gidjingali,EA
+933,B87,,CHIRILA1143,Burarra,CHIRILA
+934,B94,Id12,,Yir Yoront,EA
+935,B94,,CHIRILA27,Yir-Yoront,CHIRILA
+936,B97,Id13,,Groote Eylandt,EA
+937,B97,,CHIRILA1229,Anindilyakwa,CHIRILA
+938,B88,Id2,,Murngin,EA
+939,B88,,CHIRILA1093,Dhuwal,CHIRILA
+940,B95,Id3,,Tiwi,EA
+941,B95,SCCS90,,Tiwi,SCCS
+942,B95,,CHIRILA300,Tiwi,CHIRILA
+943,B121,Id4,,Dieri,EA
+944,B121,,CHIRILA1088,Diyari,CHIRILA
+945,B106,Id5,,Kariera,EA
+946,B106,,CHIRILA855,Kariyarra,CHIRILA
+947,B90,Id6,,Wikmunkan,EA
+948,B90,,CHIRILA138,Wik-Mungkan,CHIRILA
+949,B137,Id8,,Tasmanians,EA
+950,B130,Id9,,Wongaibon,EA
+951,B130,,CHIRILA520,Ngiyambaa,CHIRILA
+952,B79,Aa8,,Xam,EA
+953,B69,Aa9,,Hatsa Kindiga,EA
+954,B69,SCCS9,,Hadza,SCCS
+955,B82,,CHIRILA96,Kala Lagaw Ya,CHIRILA
+956,B83,,CHIRILA759,Larrakiya,CHIRILA
+957,B84,,CHIRILA936,Gunwinygu,CHIRILA
+958,B85,,CHIRILA1066,Djinba,CHIRILA
+959,B86,,CHIRILA1143,Burarra,CHIRILA
+960,B89,,CHIRILA81,Wunambal,CHIRILA
+961,B91,,CHIRILA1458,Gagudju,CHIRILA
+962,B92,,CHIRILA94,Wubuy,CHIRILA
+963,B93,,CHIRILA283,Umpila,CHIRILA
+964,B96,,CHIRILA802,Kuku Yalanji,CHIRILA
+965,B98,,CHIRILA1044,Flinders Island,CHIRILA
+966,B99,,CHIRILA738,Malak Malak,CHIRILA
+967,B100,,CHIRILA99,Worrorra,CHIRILA
+968,B101,,CHIRILA841,Kija,CHIRILA
+969,B102,,CHIRILA760,Lardil,CHIRILA
+970,B103,,CHIRILA846,Kayardild,CHIRILA
+971,B104,,CHIRILA860,Karajarri,CHIRILA
+972,B105,,CHIRILA1050,Dyirbal,CHIRILA
+973,B107,,CHIRILA179,Warungu,CHIRILA
+974,B108,,CHIRILA888,Jaru,CHIRILA
+975,B110,,CHIRILA1050,Dyirbal,CHIRILA
+976,B111,,CHIRILA714,Manjiljarra,CHIRILA
+977,B112,,CHIRILA188,Warnman,CHIRILA
+978,B113,,CHIRILA419,Pintupi,CHIRILA
+979,B114,,CHIRILA291,Turubul,CHIRILA
+980,B115,,CHIRILA1051,Duungidjawu,CHIRILA
+981,B116,,CHIRILA849,Karuwali,CHIRILA
+982,B117,,CHIRILA1239,Alyawarr,CHIRILA
+983,B118,,CHIRILA577,Ngaanyatjarra,CHIRILA
+984,B119,,CHIRILA1203,Bandjalang,CHIRILA
+985,B120,,CHIRILA413,Pitjantjatjara,CHIRILA
+986,B122,,CHIRILA750,Lower Southern Aranda,CHIRILA
+987,B123,,CHIRILA53,Yankunytjatjara,CHIRILA
+988,B125,,CHIRILA5,Yuwaalaraay,CHIRILA
+989,B126,,CHIRILA413,NA,CHIRILA
+990,B127,,CHIRILA121,Wirangu,CHIRILA
+991,B128,,CHIRILA444,Paakantyi,CHIRILA
+992,B129,,CHIRILA847,Kaurna,CHIRILA
+993,B131,,CHIRILA50,Yaraldi,CHIRILA
+994,B132,,CHIRILA529,Ngatjumaya,CHIRILA
+995,B133,,CHIRILA297,Tjapwurrung,CHIRILA
+996,B134,,CHIRILA1164,Boonwurrung,CHIRILA
+997,B135,,CHIRILA36,Kurnai,CHIRILA
+998,B212,Nd26,,Wadatkuht,EA
+999,B219,WNAI71,,San Joaquin Mono (Uto-Aztecan),WNAI
+1000,B215,Nd39,,Spring Valley,EA
+1001,B215,WNAI121,,Spring Valley Shoshone,WNAI
+1002,B224,Nd39,,Spring Valley,EA
+1003,B224,WNAI121,,Spring Valley Shoshone,WNAI
+1004,B293,WNAI6,,Gitksan Tsimshian,WNAI
+1005,SCCS164,Sc3,,Barama Carib (Sc3),EA
+1006,SCCS8,Ad6,,Nyakyusa (Ad6),EA
+1007,SCCS166,Sd1,,Mundurucu (Sd1),EA
+1008,SCCS167,Se5,,Cubeo (Se5),EA
+1009,SCCS160,Sb9,,Haitians (Sb9),EA
+1010,SCCS161,Sb1,,Callinago (Sb1),EA
+1011,SCCS162,Sc1,,Warrau (Sc1),EA
+1012,SCCS165,Sc6,,Saramacca (Sc6),EA
+1013,SCCS1,Aa3,,Nama Hottentot (Aa3),EA
+1014,SCCS3,Ab4,,Thonga (Ab4),EA
+1015,SCCS2,Aa1,,Kung (Aa1),EA
+1016,SCCS2,B72,,!Kung (B72),Binford
+1017,SCCS168,Sf3,,Cayapa (Sf3),EA
+1018,SCCS4,Ab3,,Lozi (Ab3),EA
+1019,SCCS7,Ac3,,Bemba (Ac3),EA
+1020,SCCS6,Ac17,,Suku (Ac17),EA
+1021,SCCS48,Ce1,,Gheg (Ce1),EA
+1022,SCCS49,Ce3,,Romans (Ce3),EA
+1023,SCCS46,Cj2,,Rwala (Cj2),EA
+1024,SCCS47,Ci5,,Turks (Ci5),EA
+1025,SCCS44,Cj3,,Hebrews (Cj3),EA
+1026,SCCS163,Sd9,,Yanomamo (Sd9),EA
+1027,SCCS42,Cd3,,Riffians (Cd3),EA
+1028,SCCS43,Cd2,,Egyptians (Cd2),EA
+1029,SCCS40,Cc2,,Teda (Cc2),EA
+1030,SCCS41,Cc9,,Tuareg Ahaggar (Cc9),EA
+1031,SCCS151,Ni2,,Papago (Ni2),EA
+1032,SCCS151,WNAI146,,Papago (J146),WNAI
+1033,SCCS150,Nd3,,Havasupai (Nd3),EA
+1034,SCCS150,WNAI136,,Havasupai (J136),WNAI
+1035,SCCS153,Nj2,,Aztec (Nj2),EA
+1036,SCCS152,Ni3,,Huichol (Ni3),EA
+1037,SCCS155,Sa13,,Quiche (Sa13),EA
+1038,SCCS154,Nj3,,Popoluca (Nj3),EA
+1039,SCCS157,Sa5,,Bribri (Sa5),EA
+1040,SCCS156,Sa9,,Miskito (Sa9),EA
+1041,SCCS159,Sb6,,Goajiro (Sb6),EA
+1042,SCCS5,Ab5,,Mbundu (Ab5),EA
+1043,SCCS112,Ia3,,Ifugao (Ia3),EA
+1044,SCCS169,Se3,,Jivaro (Se3),EA
+1045,SCCS59,Ea13,,"Punjabi, West (Ea13)",EA
+1046,SCCS58,Ea6,,Basseri (Ea6),EA
+1047,SCCS55,Ci12,,Abkhaz (Ci12),EA
+1048,SCCS54,Ch11,,Russians (Ch11),EA
+1049,SCCS57,Ci11,,Kurd (Ci11),EA
+1050,SCCS56,Ci10,,Armenians (Ci10),EA
+1051,SCCS51,Cg3,,Irish (Cg3),EA
+1052,SCCS50,Ce8,,Spanish Basques (Ce8),EA
+1053,SCCS53,Ec4,,Yurak (Ec4),EA
+1054,SCCS52,Cg4,,Lapps (Cg4),EA
+1055,SCCS148,Nh1,,Chiricahua (Nh1),EA
+1056,SCCS148,B242,,Chiricahua Apache (B242),Binford
+1057,SCCS148,WNAI152,,Warm Springs Chiricahua Apache (J152),WNAI
+1058,SCCS148,WNAI153,,Huachuca Chiricahua Apache (J153),WNAI
+1059,SCCS149,Nh4,,Zuni (Nh4),EA
+1060,SCCS149,WNAI160,,Zuni (J160),WNAI
+1061,SCCS146,Ng7,,Natchez (Ng7),EA
+1062,SCCS147,Ne3,,Comanche (Ne3),EA
+1063,SCCS147,B241,,Comanche (B241),Binford
+1064,SCCS144,Ng1,,Huron (Ng1),EA
+1065,SCCS145,Ng3,,Creek (Ng3),EA
+1066,SCCS142,Nf6,,Pawnee (Nf6),EA
+1067,SCCS143,Nf3,,Omaha (Nf3),EA
+1068,SCCS140,Ne1,,Gros Ventre (Ne1),EA
+1069,SCCS140,B253,,Gros-Ventre (B253),Binford
+1070,SCCS141,Ne15,,Hidatsa (Ne15),EA
+1071,SCCS68,Ee3,,Lepcha (Ee3),EA
+1072,SCCS69,Ei1,,Garo (Ei1),EA
+1073,SCCS60,Eg3,,Maria Gond (Eg3),EA
+1074,SCCS61,Eg4,,Toda (Eg4),EA
+1075,SCCS62,Ef1,,Santal (Ef1),EA
+1076,SCCS63,Ef11,,Uttar Pradesh (Ef11),EA
+1077,SCCS64,Ee2,,Burusho (Ee2),EA
+1078,SCCS65,Eb1,,Kazak (Eb1),EA
+1079,SCCS66,Eb3,,Khalka (Eb3),EA
+1080,SCCS67,Ed2,,Lolo (Ed2),EA
+1081,SCCS139,Nd7,,Kutenai (Nd7),EA
+1082,SCCS139,B250,,Kutenai (B250),Binford
+1083,SCCS139,WNAI106,,Kutenai (J106),WNAI
+1084,SCCS138,Nc8,,Klamath (Nc8),EA
+1085,SCCS138,B189,,Klamath (B189),Binford
+1086,SCCS138,WNAI112,,Klamath (J112),WNAI
+1087,SCCS9,Aa9,,Hatsa Kindiga (Aa9),EA
+1088,SCCS9,B69,,Hadza (B69),Binford
+1089,SCCS133,Nb2,,Twana (Nb2),EA
+1090,SCCS133,B271,,Twana (B271),Binford
+1091,SCCS133,WNAI23,,Twana Salish (J23),WNAI
+1092,SCCS132,Nb9,,Bellacoola (Nb9),EA
+1093,SCCS132,B291,,Bella-Coola (B291),Binford
+1094,SCCS132,WNAI11,,Bella Coola Salish (J11),WNAI
+1095,SCCS131,Nb1,,Haida (Nb1),EA
+1096,SCCS131,B290,,Haida (B290),Binford
+1097,SCCS131,WNAI3,,North Masset Haida (J3),WNAI
+1098,SCCS130,Nb5,,Eyak (Nb5),EA
+1099,SCCS130,B295,,Eyak (B295),Binford
+1100,SCCS137,Nd22,,Wadadokado (Nd22),EA
+1101,SCCS137,B231,,Wadadokado Paiute (B231),Binford
+1102,SCCS137,WNAI114,,Wada-Dokado Northern Paiute (J114),WNAI
+1103,SCCS136,Nc24,,Lake Yokuts (Nc24),EA
+1104,SCCS136,B148,,Lake Yokuts (B148),Binford
+1105,SCCS136,WNAI76,,Lake Yokuts (J76),WNAI
+1106,SCCS136,WNAI77,,Yauelmani Yokuts (J77),WNAI
+1107,SCCS135,Nc18,,Eastern Pomo (Nc18),EA
+1108,SCCS135,B158,,Eastern Pomo (B158),Binford
+1109,SCCS135,B159,,Clear Lake Pomo (B159),Binford
+1110,SCCS135,WNAI64,,Eastern Pomo (J64),WNAI
+1111,SCCS134,Nb4,,Yurok (Nb4),EA
+1112,SCCS134,B186,,Yurok (B186),Binford
+1113,SCCS134,WNAI36,,Yurok (J36),WNAI
+1114,SCCS77,Ej3,,Semang (Ej3),EA
+1115,SCCS77,B9,,Semang (B9),Binford
+1116,SCCS76,Ej9,,Siamese (Ej9),EA
+1117,SCCS75,Ej15,,Khmer (Ej15),EA
+1118,SCCS74,Ej10,,Rhade (Ej10),EA
+1119,SCCS73,Ej4,,Annamese (Ej4),EA
+1120,SCCS72,Ej1,,Lamet (Ej1),EA
+1121,SCCS71,Ei3,,Burmese (Ei3),EA
+1122,SCCS70,Ei4,,Lakher (Ei4),EA
+1123,SCCS79,Eh1,,Andamese (Eh1),EA
+1124,SCCS79,B8,,Big Andaman Island (B8),Binford
+1125,SCCS78,Eh5,,Nicobarese (Eh5),EA
+1126,SCCS128,Na17,,Slave (Na17),EA
+1127,SCCS128,B345,,Slave (B345),Binford
+1128,SCCS129,Na4,,Kaska (Na4),EA
+1129,SCCS129,B346,,Kaska (B346),Binford
+1130,SCCS45,Cj4,,Babylonians (Cj4),EA
+1131,SCCS120,Ec6,,Yukaghir (Ec6),EA
+1132,SCCS120,B26,,Yukaghir (B26),Binford
+1133,SCCS121,Ec3,,Chukchee (Ec3),EA
+1134,SCCS122,Na8,,Ingalik (Na8),EA
+1135,SCCS122,B357,,Ingalik (B357),Binford
+1136,SCCS123,Na9,,Aleut (Na9),EA
+1137,SCCS123,B298,,Aleut (B298),Binford
+1138,SCCS124,Na3,,Copper Eskimo (Na3),EA
+1139,SCCS124,B381,,Copper Inuit (B381),Binford
+1140,SCCS125,Na32,,Montagnais (Na32),EA
+1141,SCCS125,B342,,Montagnais (B342),Binford
+1142,SCCS126,Na41,,Micmac (Na41),EA
+1143,SCCS126,B329,,Micmac (B329),Binford
+1144,SCCS127,Na33,,Northern Saulteaux (Na33),EA
+1145,SCCS127,B332,,North Saulteaux (B332),Binford
+1146,SCCS88,Ic10,,Tobelorese (Ic10),EA
+1147,SCCS89,Ic2,,Alorese (Ic2),EA
+1148,SCCS82,Ej16,,Negri Sembilan (Ej16),EA
+1149,SCCS83,Ib2,,Javanese (Ib2),EA
+1150,SCCS80,Eh4,,Vedda (Eh4),EA
+1151,SCCS80,B10,,Vedda (B10),Binford
+1152,SCCS81,Eh3,,Tanala (Eh3),EA
+1153,SCCS86,Ia13,,Badjau Tawi-Tawi (Ia13),EA
+1154,SCCS87,Ic5,,Toradja (Ic5),EA
+1155,SCCS84,Ib3,,Balinese (Ib3),EA
+1156,SCCS85,Ib1,,Iban (Ib1),EA
+1157,SCCS11,Ad4,,Kikuyu (Ad4),EA
+1158,SCCS10,Ad14,,Luguru (Ad14),EA
+1159,SCCS13,Aa5,,Mbuti (Aa5),EA
+1160,SCCS13,B65,,Mbuti (B65),Binford
+1161,SCCS12,Ad7,,Ganda (Ad7),EA
+1162,SCCS15,Ae51,,Banen (Ae51),EA
+1163,SCCS14,Ae4,,Nkundo (Ae4),EA
+1164,SCCS17,Af10,,Ibo (Af10),EA
+1165,SCCS16,Ah3,,Tiv (Ah3),EA
+1166,SCCS19,Af3,,Ashanti (Af3),EA
+1167,SCCS18,Af1,,Fon (Af1),EA
+1168,SCCS99,Ig1,,Siuai (Ig1),EA
+1169,SCCS98,Ig2,,Trobriands (Ig2),EA
+1170,SCCS91,Id1,,Aranda (Id1),EA
+1171,SCCS91,B124,,Northern Arenda (B124),Binford
+1172,SCCS90,Id3,,Tiwi (Id3),EA
+1173,SCCS90,B95,,Tiwi (B95),Binford
+1174,SCCS93,Ie18,,Kimam (Ie18),EA
+1175,SCCS92,Ie9,,Orokaiva (Ie9),EA
+1176,SCCS95,Ie12,,Kwoma (Ie12),EA
+1177,SCCS94,Ie1,,Kapauku (Ie1),EA
+1178,SCCS97,Ig4,,Lesu (Ig4),EA
+1179,SCCS96,Ig9,,Manus (Ig9),EA
+1180,SCCS28,Ai3,,Azande (Ai3),EA
+1181,SCCS29,Cb17,,Fur (Cb17),EA
+1182,SCCS24,Cb3,,Songhai (Cb3),EA
+1183,SCCS25,Cb24,,Wodaabe Fulani (Cb24),EA
+1184,SCCS26,Cb26,,Zazzagawa Hausa (Cb26),EA
+1185,SCCS27,Ai9,,Masa (Ai9),EA
+1186,SCCS20,Af5,,Mende (Af5),EA
+1187,SCCS21,Cb2,,Wolof (Cb2),EA
+1188,SCCS22,Ag1,,Bambara (Ag1),EA
+1189,SCCS23,Ag4,,Tallensi (Ag4),EA
+1190,SCCS115,Ed3,,Manchu (Ed3),EA
+1191,SCCS114,Ed15b,,Chekiang (Ed15b),EA
+1192,SCCS117,Ed5,,Japanese (Ed5),EA
+1193,SCCS116,Ed1,,Koreans (Ed1),EA
+1194,SCCS111,If1,,Palauans (If1),EA
+1195,SCCS110,If6,,Yapese (If6),EA
+1196,SCCS113,Ia1,,Atayal (Ia1),EA
+1197,SCCS158,Sa1,,Cuna (Sa1),EA
+1198,SCCS119,Ec1,,Gilyak (Ec1),EA
+1199,SCCS119,B25,,Gilyak (B25),Binford
+1200,SCCS118,Ec7,,Ainu (Ec7),EA
+1201,SCCS118,B22,,Ainu (B22),Binford
+1202,SCCS177,Sj8,,Tupinamba (Sj8),EA
+1203,SCCS176,Sj4,,Ramcocamecra (Sj4),EA
+1204,SCCS175,Si2,,Trumai (Si2),EA
+1205,SCCS174,Si4,,Nambicura (Si4),EA
+1206,SCCS174,B45,,Nambikwara (B45),Binford
+1207,SCCS173,Se1,,Siriono (Se1),EA
+1208,SCCS173,B43,,Siriono (B43),Binford
+1209,SCCS172,Sf2,,Aymara (Sf2),EA
+1210,SCCS171,Sf1,,Inca (Sf1),EA
+1211,SCCS170,Se8,,Amahuaca (Se8),EA
+1212,SCCS179,Sj11,,Shavante (Sj11),EA
+1213,SCCS178,Sj5,,Botocudo (Sj5),EA
+1214,SCCS178,B48,,Botocudo (B48),Binford
+1215,SCCS39,Cd1,,Barabra (Cd1),EA
+1216,SCCS38,Ca37,,Bogo (Ca37),EA
+1217,SCCS33,Ca30,,Kafa (Ca30),EA
+1218,SCCS32,Ai47,,Mao (Ai47),EA
+1219,SCCS31,Ai6,,Shilluk (Ai6),EA
+1220,SCCS30,Ai10,,Otoro (Ai10),EA
+1221,SCCS37,Ca7,,Amhara (Ca7),EA
+1222,SCCS36,Ca2,,Somali (Ca2),EA
+1223,SCCS35,Ca1,,Konso (Ca1),EA
+1224,SCCS34,Aj2,,Masai (Aj2),EA
+1225,SCCS182,Sh9,,Lengua (Sh9),EA
+1226,SCCS183,Sh3,,Abipon (Sh3),EA
+1227,SCCS180,Sj3,,Aweikoma (Sj3),EA
+1228,SCCS180,B50,,Aweikomo (B50),Binford
+1229,SCCS181,Sj10,,Cayua (Sj10),EA
+1230,SCCS186,Sg1,,Yahgan (Sg1),EA
+1231,SCCS186,B55,,Yaghan (B55),Binford
+1232,SCCS184,Sg2,,Mapuche (Sg2),EA
+1233,SCCS185,Sg4,,Tehuelche (Sg4),EA
+1234,SCCS185,B51,,Tehuelche (B51),Binford
+1235,SCCS102,Ih14,,Mbau Fijians (Ih14),EA
+1236,SCCS103,Ih5,,Ajie (Ih5),EA
+1237,SCCS100,Ii2,,Tikopia (Ii2),EA
+1238,SCCS101,Ih3,,Bunlap (Ih3),EA
+1239,SCCS106,Ii14,,Upolu (Ii14),EA
+1240,SCCS107,If14,,Makin (If14),EA
+1241,SCCS104,Ij2,,Maori (Ij2),EA
+1242,SCCS105,Ij3,,Marquesans (Ij3),EA
+1243,SCCS108,If17,,Marshallese (If17),EA
+1244,SCCS109,If2,,Trukese (If2),EA
+1245,WNAI72,Nc23,,Monachi (Nc23),EA
+1246,WNAI72,B157,,Monache (B157),Binford
+1247,WNAI73,Nc3,,Yokuts (Nc3),EA
+1248,WNAI73,B154,,Yokuts (northern foothill) (B154),Binford
+1249,WNAI71,B219,,North Fork Mono Paiute (B219),Binford
+1250,WNAI76,Nc24,,Lake Yokuts (Nc24),EA
+1251,WNAI76,B148,,Lake Yokuts (B148),Binford
+1252,WNAI76,SCCS136,,Yokuts (Lake) (SCCS136),SCCS
+1253,WNAI77,Nc24,,Lake Yokuts (Nc24),EA
+1254,WNAI77,B148,,Lake Yokuts (B148),Binford
+1255,WNAI77,SCCS136,,Yokuts (Lake) (SCCS136),SCCS
+1256,WNAI75,Nc25,,Wukchumni (Nc25),EA
+1257,WNAI75,B151,,Wukchumi (B151),Binford
+1258,WNAI78,Nc2,,Tubatulabal (Nc2),EA
+1259,WNAI78,B152,,Tubatulabal (B152),Binford
+1260,WNAI79,Nc27,,Kawaiisu (Nc27),EA
+1261,WNAI79,B199,,Kawaiisu Shoshoni (B199),Binford
+1262,WNAI123,Nd43,,White Knife (Nd43),EA
+1263,WNAI123,B216,,White Knife Shoshoni (B216),Binford
+1264,WNAI122,Nd41,,Wadaduka (Nd41),EA
+1265,WNAI122,B228,,Wadaduica (Ruby Valley Shoshoni) (B228),Binford
+1266,WNAI121,Nd39,,Spring Valley (Nd39),EA
+1267,WNAI121,B215,,Spring Valley Shoshoni (B215),Binford
+1268,WNAI121,B224,,Antelope Valley Shoshoni (B224),Binford
+1269,WNAI120,Nd35,,Mahaguaduka (Nd35),EA
+1270,WNAI120,B218,,Reese River Shoshoni (B218),Binford
+1271,WNAI127,Nd5,,Hukundika (Nd5),EA
+1272,WNAI127,B213,,Hukundika Shoshoni (B213),Binford
+1273,WNAI126,Nd46,,Agaiduka (Nd46),EA
+1274,WNAI126,B207,,Salmon Eater Shoshoni (B207),Binford
+1275,WNAI125,Nd45,,Bohogue (Nd45),EA
+1276,WNAI125,B229,,Bohogue (Northern Shoshoni) (B229),Binford
+1277,WNAI124,Nd48,,Gosiute (Nd48),EA
+1278,WNAI124,B214,,Gosiute Shoshoni (B214),Binford
+1279,WNAI129,Nd58,,Uintah (Nd58),EA
+1280,WNAI129,B230,,Uintah Ute (B230),Binford
+1281,WNAI128,Nd64,,Wind River (Nd64),EA
+1282,WNAI128,B227,,Wind River Shoshoni (B227),Binford
+1283,WNAI170,Nh6,,Taos (Nh6),EA
+1284,WNAI3,Nb1,,Haida (Nb1),EA
+1285,WNAI3,B290,,Haida (B290),Binford
+1286,WNAI3,SCCS131,,Haida (SCCS131),SCCS
+1287,WNAI61,Nc7,,Yuki (Nc7),EA
+1288,WNAI61,B171,,Yuki (B171),Binford
+1289,WNAI60,Nc15,,Coast Yuki (Nc15),EA
+1290,WNAI60,B177,,Coast Yuki (B177),Binford
+1291,WNAI63,Nc17,,Northern Pomo (Nc17),EA
+1292,WNAI63,B173,,Nothern Pomo (B173),Binford
+1293,WNAI62,Nc11,,Yana (Nc11),EA
+1294,WNAI62,B174,,Northern Yana (B174),Binford
+1295,WNAI65,Nc19,,Southern Pomo (Nc19),EA
+1296,WNAI64,Nc18,,Eastern Pomo (Nc18),EA
+1297,WNAI64,B158,,Eastern Pomo (B158),Binford
+1298,WNAI64,B159,,Clear Lake Pomo (B159),Binford
+1299,WNAI64,SCCS135,,Pomo (Eastern) (SCCS135),SCCS
+1300,WNAI67,Nc22,,Patwin (Nc22),EA
+1301,WNAI67,B155,,Patwin (B155),Binford
+1302,WNAI66,Nc20,,Wappo (Nc20),EA
+1303,WNAI66,B172,,Wappo (B172),Binford
+1304,WNAI69,Nc5,,Miwok (Nc5),EA
+1305,WNAI69,B175,,Sierra Miwok (B175),Binford
+1306,WNAI130,Nd62,,Uncompahgre (Nd62),EA
+1307,WNAI130,B234,,Uncompahgre Ute (B234),Binford
+1308,WNAI131,Nd2,,Southern Ute (Nd2),EA
+1309,WNAI131,B222,,Southern Ute (Wimonantci Ute) (B222),Binford
+1310,WNAI132,Nd52,,Shivwits (Nd52),EA
+1311,WNAI133,Nd53,,Kaibab (Nd53),EA
+1312,WNAI133,Nd55,,Las Vegas (Nd55),EA
+1313,WNAI133,B204,,Kaibab Southern Paiute (B204),Binford
+1314,WNAI134,Nd56,,San Juan (Nd56),EA
+1315,WNAI135,Nd54,,Chemehuevi (Nd54),EA
+1316,WNAI136,Nd3,,Havasupai (Nd3),EA
+1317,WNAI136,SCCS150,,Havasupai (SCCS150),SCCS
+1318,WNAI137,Nd65,,Walapai (Nd65),EA
+1319,WNAI137,B198,,Walapai (B198),Binford
+1320,WNAI138,Nd66,,Yavapai (Nd66),EA
+1321,WNAI138,B196,,Yavapai (B196),Binford
+1322,WNAI139,Nd66,,Yavapai (Nd66),EA
+1323,WNAI139,B196,,Yavapai (B196),Binford
+1324,WNAI58,Nc13,,Nisenan (Nc13),EA
+1325,WNAI58,B163,,Nisenan (B163),Binford
+1326,WNAI59,Nc13,,Nisenan (Nc13),EA
+1327,WNAI59,B163,,Nisenan (B163),Binford
+1328,WNAI56,Nc12,,Maidu (Nc12),EA
+1329,WNAI56,B185,,Mountain Maidu (B185),Binford
+1330,WNAI57,Nc13,,Nisenan (Nc13),EA
+1331,WNAI57,B163,,Nisenan (B163),Binford
+1332,WNAI50,Nc1,,Nomlaki (Nc1),EA
+1333,WNAI50,B153,,Nomlaki (B153),Binford
+1334,WNAI51,Nc10,,Achomawi (Nc10),EA
+1335,WNAI51,B187,,Achomawi (B187),Binford
+1336,WNAI52,Nc10,,Achomawi (Nc10),EA
+1337,WNAI52,B187,,Achomawi (B187),Binford
+1338,WNAI53,Nc4,,Atsugewi (Nc4),EA
+1339,WNAI53,B183,,Atsugewi (B183),Binford
+1340,WNAI108,Nd19,,Umatilla (Nd19),EA
+1341,WNAI108,B316,,Umatilla (B316),Binford
+1342,WNAI105,Nd12,,Flathead (Nd12),EA
+1343,WNAI105,B330,,Flathead (B330),Binford
+1344,WNAI104,Nd13,,Kalispel (Nd13),EA
+1345,WNAI104,B326,,Kalispel (B326),Binford
+1346,WNAI107,Nd20,,Nez Perce (Nd20),EA
+1347,WNAI107,B324,,Nez Perce (B324),Binford
+1348,WNAI106,Nd7,,Kutenai (Nd7),EA
+1349,WNAI106,B250,,Kutenai (B250),Binford
+1350,WNAI106,SCCS139,,Kutenai (SCCS139),SCCS
+1351,WNAI100,Nd4,,Sanpoil (Nd4),EA
+1352,WNAI100,B323,,Sanpoil (B323),Binford
+1353,WNAI103,Nd14,,Coeur d'Alene (Nd14),EA
+1354,WNAI103,B320,,Coeur d'Alene (B320),Binford
+1355,WNAI102,Nd16,,Wenatchi (Nd16),EA
+1356,WNAI102,B317,,Wenatchi (B317),Binford
+1357,WNAI168,Nh26,,Santa Clara (Nh26),EA
+1358,WNAI167,Nh11,,Tewa (Nh11),EA
+1359,WNAI165,Nh7,,Cochiti (Nh7),EA
+1360,WNAI164,Nh27,,Santo Domingo (Nh27),EA
+1361,WNAI163,Nh12,,Santa Ana (Nh12),EA
+1362,WNAI162,Nh25,,Sia (Nh25),EA
+1363,WNAI161,Nh13,,Acoma (Nh13),EA
+1364,WNAI160,Nh4,,Zuni (Nh4),EA
+1365,WNAI160,SCCS149,,Zuni (SCCS149),SCCS
+1366,WNAI49,Nc14,,Wintu (Nc14),EA
+1367,WNAI49,B160,,Wintu (B160),Binford
+1368,WNAI48,Nc14,,Wintu (Nc14),EA
+1369,WNAI48,B160,,Wintu (B160),Binford
+1370,WNAI41,Nb38,,Mattole (Nb38),EA
+1371,WNAI41,B169,,Mattole (B169),Binford
+1372,WNAI40,Nb39,,Sinkyone (Nb39),EA
+1373,WNAI40,B166,,Sinkyone (B166),Binford
+1374,WNAI47,Nc14,,Wintu (Nc14),EA
+1375,WNAI47,B160,,Wintu (B160),Binford
+1376,WNAI46,Nb33,,Chimariko (Nb33),EA
+1377,WNAI46,B162,,Chimariko (B162),Binford
+1378,WNAI45,Nb32,,Shasta (Nb32),EA
+1379,WNAI45,B179,,Shasta (B179),Binford
+1380,WNAI44,Nb32,,Shasta (Nb32),EA
+1381,WNAI44,B179,,Shasta (B179),Binford
+1382,WNAI118,Nd32,,Panamint (Nd32),EA
+1383,WNAI118,B192,,Death Valley Shoshoni (B192),Binford
+1384,WNAI118,B195,,Panamint Shoshoni (B195),Binford
+1385,WNAI118,B200,,Saline Valley Shoshoni (B200),Binford
+1386,WNAI119,Nd6,,Washo (Nd6),EA
+1387,WNAI119,B225,,Washo (B225),Binford
+1388,WNAI112,Nc8,,Klamath (Nc8),EA
+1389,WNAI112,B189,,Klamath (B189),Binford
+1390,WNAI112,SCCS138,,Klamath (SCCS138),SCCS
+1391,WNAI113,Nc9,,Modoc (Nc9),EA
+1392,WNAI113,B188,,Modoc (B188),Binford
+1393,WNAI110,Nd18,,Wishram (Nd18),EA
+1394,WNAI110,B319,,Wishram (B319),Binford
+1395,WNAI111,Nd1,,Tenino (Nd1),EA
+1396,WNAI111,B315,,Tenino (B315),Binford
+1397,WNAI116,Nd27,,Kuyuidokado (Nd27),EA
+1398,WNAI116,B208,,Kuyuidokado (Pyramid Lake Paiute) (B208),Binford
+1399,WNAI117,Nd30,,Eastern Mono (Nd30),EA
+1400,WNAI117,B202,,Owens Valley Paiute (Eastern Mono) (B202),Binford
+1401,WNAI114,Nd22,,Wadadokado (Nd22),EA
+1402,WNAI114,B231,,Wadadokado Paiute (B231),Binford
+1403,WNAI114,SCCS137,,Paiute (Northern) (SCCS137),SCCS
+1404,WNAI115,Nd24,,Kidutokado (Nd24),EA
+1405,WNAI115,B226,,Kidutokado (Surprise Valley Paiute) (B226),Binford
+1406,WNAI9,Nb23,,Bellabella (Nb23),EA
+1407,WNAI9,B283,,Bella-Bella (B283),Binford
+1408,WNAI6,B293,,Gitksan (B293),Binford
+1409,WNAI7,Nb8,,Haisla (Nb8),EA
+1410,WNAI7,B287,,Haisla (B287),Binford
+1411,WNAI5,Nb7,,Tsimshian (Nb7),EA
+1412,WNAI5,B289,,Tsimshim (B289),Binford
+1413,WNAI2,Nb22,,Tlingit (Nb22),EA
+1414,WNAI2,B292,,Tlingit (B292),Binford
+1415,WNAI171,Nh10,,Isleta (Nh10),EA
+1416,WNAI172,Nh8,,Jemez (Nh8),EA
+1417,WNAI38,Nb35,,Hupa (Nb35),EA
+1418,WNAI38,B180,,Hupa (B180),Binford
+1419,WNAI39,Nb36,,Wiyot (Nb36),EA
+1420,WNAI39,B184,,Wiyot (B184),Binford
+1421,WNAI36,Nb4,,Yurok (Nb4),EA
+1422,WNAI36,B186,,Yurok (B186),Binford
+1423,WNAI36,SCCS134,,Yurok (SCCS134),SCCS
+1424,WNAI37,Nb34,,Karok (Nb34),EA
+1425,WNAI37,B182,,Karok (B182),Binford
+1426,WNAI35,Nb6,,Tolowa (Nb6),EA
+1427,WNAI35,B178,,Tolowa (B178),Binford
+1428,WNAI32,Nb31,,Tututni (Nb31),EA
+1429,WNAI32,B181,,Tututni (B181),Binford
+1430,WNAI30,Nb29,,Siuslaw (Nb29),EA
+1431,WNAI31,Nb21,,Coos (Nb21),EA
+1432,WNAI31,B275,,Coos (B275),Binford
+1433,WNAI149,Nh17,,Western Apache (Nh17),EA
+1434,WNAI148,Nh17,,Western Apache (Nh17),EA
+1435,WNAI141,Nh22,,Yuma (Nh22),EA
+1436,WNAI140,Nh21,,Mohave (Nh21),EA
+1437,WNAI143,Nh19,,Cocopa (Nh19),EA
+1438,WNAI142,Nh20,,Kamia (Nh20),EA
+1439,WNAI145,Ni6,,Pima (Ni6),EA
+1440,WNAI144,Nh5,,Maricopa (Nh5),EA
+1441,WNAI147,Nh17,,Western Apache (Nh17),EA
+1442,WNAI146,Ni2,,Papago (Ni2),EA
+1443,WNAI146,SCCS151,,Papago (SCCS151),SCCS
+1444,WNAI29,Nb28,,Alsea (Nb28),EA
+1445,WNAI29,B269,,Alsea (B269),Binford
+1446,WNAI28,Nb20,,Tillamok (Nb20),EA
+1447,WNAI28,B281,,Tillamook (B281),Binford
+1448,WNAI25,Nb17,,Puyallup (Nb17),EA
+1449,WNAI25,B270,,Puyallup (B270),Binford
+1450,WNAI24,Nb25,,Quinault (Nb25),EA
+1451,WNAI24,B278,,Quinault (B278),Binford
+1452,WNAI27,Nb19,,Chinook (Nb19),EA
+1453,WNAI27,B274,,Chinook (B274),Binford
+1454,WNAI26,Nb18,,Quileute (Nb18),EA
+1455,WNAI26,B284,,Quileute (B284),Binford
+1456,WNAI21,Nb15,,Lummi (Nb15),EA
+1457,WNAI21,B277,,Lummi (B277),Binford
+1458,WNAI23,Nb2,,Twana (Nb2),EA
+1459,WNAI23,B271,,Twana (B271),Binford
+1460,WNAI23,SCCS133,,Twana (SCCS133),SCCS
+1461,WNAI22,Nb16,,Klallam (Nb16),EA
+1462,WNAI22,B285,,Clallam (B285),Binford
+1463,WNAI19,Nb27,,Stalo (Nb27),EA
+1464,WNAI19,B279,,Stalo (B279),Binford
+1465,WNAI10,Nb3,,Kwakiutl (Nb3),EA
+1466,WNAI10,B288,,Kwakiutl (B288),Binford
+1467,WNAI11,Nb9,,Bellacoola (Nb9),EA
+1468,WNAI11,B291,,Bella-Coola (B291),Binford
+1469,WNAI11,SCCS132,,Bellacoola (SCCS132),SCCS
+1470,WNAI12,Nb11,,Nootka (Nb11),EA
+1471,WNAI12,B273,,Nootka (B273),Binford
+1472,WNAI13,Nb24,,Makah (Nb24),EA
+1473,WNAI13,B286,,Makah (B286),Binford
+1474,WNAI14,Nb12,,Klahuse (Nb12),EA
+1475,WNAI16,Nb13,,Squamish (Nb13),EA
+1476,WNAI16,B268,,Squamish (B268),Binford
+1477,WNAI17,Nb26,,Cowichan (Nb26),EA
+1478,WNAI17,B280,,Cowichan (B280),Binford
+1479,WNAI90,Nc6,,Diegueno (Nc6),EA
+1480,WNAI90,B147,,Diegueno (B147),Binford
+1481,WNAI91,Nc34,,Kiliwa (Nc34),EA
+1482,WNAI91,B146,,Kiliwa (B146),Binford
+1483,WNAI93,Na19,,Carrier (Na19),EA
+1484,WNAI93,B349,,Carrier (B349),Binford
+1485,WNAI94,Na19,,Carrier (Na19),EA
+1486,WNAI94,B349,,Carrier (B349),Binford
+1487,WNAI95,Nd8,,Chilcotin (Nd8),EA
+1488,WNAI95,B348,,Chilcotin (B348),Binford
+1489,WNAI96,Nd11,,Shuswap (Nd11),EA
+1490,WNAI96,B333,,Shuswap (B333),Binford
+1491,WNAI97,Nd9,,Lillooet (Nd9),EA
+1492,WNAI97,B276,,Lillooet (B276),Binford
+1493,WNAI98,Nd10,,Thompson (Nd10),EA
+1494,WNAI98,B325,,Thompson (B325),Binford
+1495,WNAI99,B322,,Okanagan (B322),Binford
+1496,WNAI89,Nc6,,Diegueno (Nc6),EA
+1497,WNAI89,B147,,Diegueno (B147),Binford
+1498,WNAI158,Nh3,,Navaho (Nh3),EA
+1499,WNAI84,Nc30,,Serrano (Nc30),EA
+1500,WNAI84,B149,,Serrano (B149),Binford
+1501,WNAI156,Nh16,,Jicarilla (Nh16),EA
+1502,WNAI157,Nh3,,Navaho (Nh3),EA
+1503,WNAI154,Nh15,,Mescalero (Nh15),EA
+1504,WNAI155,Nh24,,Lipan (Nh24),EA
+1505,WNAI155,B240,,Lipan Apache (B240),Binford
+1506,WNAI152,Nh1,,Chiricahua (Nh1),EA
+1507,WNAI152,B242,,Chiricahua Apache (B242),Binford
+1508,WNAI152,SCCS148,,Chiricahua (SCCS148),SCCS
+1509,WNAI153,Nh1,,Chiricahua (Nh1),EA
+1510,WNAI153,B242,,Chiricahua Apache (B242),Binford
+1511,WNAI153,SCCS148,,Chiricahua (SCCS148),SCCS
+1512,WNAI150,Nh17,,Western Apache (Nh17),EA
+1513,WNAI151,Nh17,,Western Apache (Nh17),EA
+1514,WNAI85,Nc31,,Cahuilla (Nc31),EA
+1515,WNAI85,B144,,Cahuilla (B144),Binford
+1516,WNAI80,Nc26,,Salinan (Nc26),EA
+1517,WNAI80,B164,,Salinan (B164),Binford
+1518,WNAI83,Nc32,,Cupeno (Nc32),EA
+1519,WNAI83,B145,,Cupeno (B145),Binford
+1520,WNAI82,Nc33,,Luiseno (Nc33),EA
+1521,WNAI82,B150,,Luiseno (B150),Binford
+1522,WNAI81,Nc29,,Gabrielo (Nc29),EA
+1523,WNAI81,B156,,Gabrieleno (B156),Binford
+1524,WNAI159,Nh18,,Hopi (Nh18),EA
