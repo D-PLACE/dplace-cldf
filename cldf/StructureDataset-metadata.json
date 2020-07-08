@@ -5,8 +5,33 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "Kathryn R. Kirby, Russell D. Gray, Simon J. Greenhill, Fiona M. Jordan, Stephanie Gomes-Ng, Hans-J\u00f6rg Bibiko, Dami\u00e1n E. Blasi, Carlos A. Botero, Claire Bowern, Carol R. Ember, Dan Leehr, Bobbi S. Low, Joe McCarter, William Divale, and Michael C. Gavin. (2016). D-PLACE: A Global Database of Cultural, Linguistic and Environmental Diversity. PLoS ONE, 11(7): e0158391. doi:10.1371/journal.pone.0158391.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:source": "sources.bib",
+    "dc:description": "This dataset contains the data from D-PLACE, the Database of Places, Language, Culture and Environment, serialized as CLDF StructureDataset. D-PLACE societies are formally treated as languages, i.e. society metadata is written to the CLDF LanguageTable and the data on language phylogenies aggregated in D-PLACE is excluded.",
+    "dc:related": "https://d-place.org",
+    "dc:title": "CLDF Dataset derived from D-PLACE",
+    "dcat:accessURL": "https://github.com/D-PLACE/dplace-cldf",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/D-PLACE/dplace-data",
+            "dc:created": "v2.0.1"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Catalog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v3.3"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.5.2"
+        }
+    ],
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -346,7 +371,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 11938,
+            "dc:extent": 11936,
             "tableSchema": {
                 "columns": [
                     {
