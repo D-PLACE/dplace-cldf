@@ -9,6 +9,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:description": "This dataset contains the data from D-PLACE, the Database of Places, Language, Culture and Environment, serialized as CLDF StructureDataset. D-PLACE societies are formally treated as languages, i.e. society metadata is written to the CLDF LanguageTable and the data on language phylogenies aggregated in D-PLACE is excluded.",
     "dc:related": "https://d-place.org",
+    "dc:source": "sources.bib",
     "dc:title": "CLDF Dataset derived from D-PLACE",
     "dcat:accessURL": "https://github.com/D-PLACE/dplace-cldf",
     "prov:wasDerivedFrom": [
@@ -16,13 +17,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/D-PLACE/dplace-data",
-            "dc:created": "v2.0.1"
+            "dc:created": "v2.1.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Catalog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v3.3"
+            "dc:created": "v4.2.1"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -371,7 +372,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 11936,
+            "dc:extent": 11938,
             "tableSchema": {
                 "columns": [
                     {

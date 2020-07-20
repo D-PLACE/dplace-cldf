@@ -95,7 +95,7 @@ EA201-1,EA201,Different,Pattern of marital residence differs in the first years 
 EA201-2,EA201,Same,Pattern of marital residence in the first years of marriage not different from later years.
 EA011-1,EA011,Wife to husband,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)"
 EA011-2,EA011,Ambi/neo-local,Couple to either group or neolocal
-EA011-3,EA011,Husband to wife,Husband to wifeﾒs group
+EA011-3,EA011,Husband to wife,Husband to wife's group
 EA011-9,EA011,Separate,"Nonestablishment of a common household, i.e., where both spouses remain in their natal households, sometimes called ""duolocal"" or ""natolocal"" residence"
 EA012-1,EA012,Avunculocal,"Avunculocal, i.e., normal residence with or near the maternal uncle or other male matrilineal kinsmen of the husband"
 EA012-2,EA012,Ambilocal,"Ambilocal, i.e., residence established optionally with or near the parents of either the husband or the wife, depending upon circumstances or personal choice, where neither alternative exceeds the other in actual frequency by a ratio greater than two to one."
@@ -111,7 +111,7 @@ EA012-11,EA012,Ambi-uxo,"Ambilocal, with a marked preponderance of uxorilocal pr
 EA012-12,EA012,Ambi-viri,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one)."
 EA013-1,EA013,Wife to husband,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)"
 EA013-2,EA013,Ambi/neo-local,Couple to either group or neolocal
-EA013-3,EA013,Husband to wife,Husband to wifeﾒs group
+EA013-3,EA013,Husband to wife,Husband to wife's group
 EA013-4,EA013,Separate,No common residence
 EA013-9,EA013,No alternate,No alternate form
 EA014-1,EA014,Avunculocal,"Avunculocal, i.e., normal residence with or near the maternal uncle or other male matrilineal kinsmen of the husband"
@@ -4982,6 +4982,7 @@ SCCS809-1,SCCS809,No,No (but not distinguished from missing data)
 SCCS809-2,SCCS809,Yes,Yes
 SCCS810-1,SCCS810,No,No (but not distinguished from missing data)
 SCCS810-2,SCCS810,Yes,Yes
+SCCS811-0,SCCS811,0,0
 SCCS811-1,SCCS811,1,1
 SCCS811-2,SCCS811,2,2
 SCCS811-3,SCCS811,3,3
@@ -8863,6 +8864,7 @@ SCCS1925-10,SCCS1925,Occurs always,Occurs always
 SCCS1926-0,SCCS1926,Absent,Absent
 SCCS1926-1,SCCS1926,1 (on a scale of 0-10),1 (on a scale of 0-10)
 SCCS1926-2,SCCS1926,2 (on a scale of 0-10),2 (on a scale of 0-10)
+SCCS1926-4,SCCS1926,4 (on a scale of 0-10),4 (on a scale of 0-10)
 SCCS1926-5,SCCS1926,5 (on a scale of 0-10),5 (on a scale of 0-10)
 SCCS1926-6,SCCS1926,6 (on a scale of 0-10),6 (on a scale of 0-10)
 SCCS1926-7,SCCS1926,7 (on a scale of 0-10),7 (on a scale of 0-10)
@@ -9295,10 +9297,10 @@ WNAI65-1,WNAI65,Lower Austral,Lower Austral
 WNAI65-2,WNAI65,Upper Austral,Upper Austral
 WNAI65-3,WNAI65,Transition,Transition
 WNAI65-4,WNAI65,Canadian,Canadian
-WNAI65-5,WNAI65,2 and 2,1 and 2
-WNAI65-6,WNAI65,3 and 3,2 and 3
-WNAI65-7,WNAI65,4 and 4,3 and 4
-WNAI65-8,WNAI65,"1,2 and 4",1 and 2 and 3
+WNAI65-5,WNAI65,1 and 2,1 and 2
+WNAI65-6,WNAI65,2 and 3,2 and 3
+WNAI65-7,WNAI65,3 and 4,3 and 4
+WNAI65-8,WNAI65,"1,2 and 3",1 and 2 and 3
 WNAI65-9,WNAI65,"2,3 and 4",2 and 3 and 4
 WNAI66-1,WNAI66,Absent or very rare,Absent or very rare
 WNAI66-2,WNAI66,Present,Present
@@ -9359,9 +9361,9 @@ WNAI93-2,WNAI93,Present,Present
 WNAI94-1,WNAI94,Absent or very rare,Absent or very rare
 WNAI94-2,WNAI94,Present,Present
 WNAI95-1,WNAI95,None,None
-WNAI95-2,WNAI95,11-15,1-5
+WNAI95-2,WNAI95,1-5,1-5
 WNAI95-3,WNAI95,6-10,6-10
-WNAI95-4,WNAI95,1-5,11-15
+WNAI95-4,WNAI95,11-15,11-15
 WNAI95-5,WNAI95,16-20,16-20
 WNAI95-6,WNAI95,21-25,21-25
 WNAI95-7,WNAI95,26-30,26-29
@@ -9406,9 +9408,9 @@ WNAI113-2,WNAI113,Present,Present
 WNAI114-1,WNAI114,Absent or very rare,Absent or very rare
 WNAI114-2,WNAI114,Present,Present
 WNAI115-1,WNAI115,Absent or very rare,Absent or very rare
-WNAI115-2,WNAI115,11-15,1-5
-WNAI115-3,WNAI115,5-10,6-10
-WNAI115-4,WNAI115,1-5,11-15
+WNAI115-2,WNAI115,1-5,1-5
+WNAI115-3,WNAI115,6-10,6-10
+WNAI115-4,WNAI115,11-15,11-15
 WNAI115-5,WNAI115,16-19,16-19
 WNAI116-1,WNAI116,Absent or very rare,Absent or very rare
 WNAI116-2,WNAI116,Present,Present

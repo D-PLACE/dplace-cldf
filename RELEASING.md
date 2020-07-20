@@ -6,7 +6,7 @@ dplace-cldf is done as follows:
 1. Check out a local clone of dplace-data to a release tag.
 2. Run `dplace cldf` as follows:
    ```shell script
-   dplace --repos ../dplace-data/ cldf ../../glottolog/glottolog v3.3 --cldf_repos ../dplace-cldf/
+   dplace --repos ../dplace-data/ cldf ../../glottolog/glottolog v3.3 --cldf-repos ../dplace-cldf/
    ```
    Notes:
    - The Glottolog version tag should be the one used to compile the dplace-data
