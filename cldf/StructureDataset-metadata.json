@@ -17,13 +17,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/D-PLACE/dplace-data",
-            "dc:created": "v2.1.0"
+            "dc:created": "v2.2.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Catalog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "dc:created": "v4.3"
         }
     ],
     "prov:wasGeneratedBy": [

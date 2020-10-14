@@ -75,9 +75,9 @@ EA008-8,EA008,Large extended,"Large extended families, i.e., corporate aggregati
 EA009-1,EA009,Monogamous,Monogamous
 EA009-2,EA009,Limited polygyny,"Polygynous, with polygyny occasional or limited"
 EA009-3,EA009,"Polygyny, sororal cohabit","Polygynous, with polygyny common and preferentially sororal, and co-wives not reported to occupy separate quarters"
-EA009-4,EA009,"Polygyny, sororal separate","Polygynous, with polygyny common and preferentially sororal, and co-wives typically occupying separate quarters"
-EA009-5,EA009,"Polygyny, non-sororal cohabit","Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives typically occupying separate quarters"
-EA009-6,EA009,"Polygyny, non-sororal separate","Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives not reported to occupy separate quarters"
+EA009-4,EA009,"Polygyny, sororal separate quarters","Polygynous, with polygyny common and preferentially sororal, and co-wives typically occupying separate quarters"
+EA009-5,EA009,"Polygyny, non-sororal separate quarters","Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives typically occupying separate quarters"
+EA009-6,EA009,"Polygyny, non-sororal cohabit","Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives not reported to occupy separate quarters"
 EA009-7,EA009,Polyandrous,Polyandrous
 EA010-1,EA010,Avunculocal,"Avunculocal, i.e., normal residence with or near the maternal uncle or other male matrilineal kinsmen of the husband"
 EA010-2,EA010,Ambilocal,"Ambilocal, i.e., residence established optionally with or near the parents of either the husband or the wife, depending upon circumstances or personal choice, where neither alternative exceeds the other in actual frequency by a ratio greater than two to one."
