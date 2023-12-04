@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Worrorran languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (ngar1284:1,wuna1249:2.0,worr1237:2.0):1;
+END;

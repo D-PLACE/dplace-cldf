@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Mixe-Zoque languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (isth1238:6.0,high1276:3.0):1;
+END;

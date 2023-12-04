@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Cariban languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((gali1262:1,maqu1238:2.0,(akur1238:1,trio1238:1):2.0,waya1269:2.0):1,((enap1235:1,(macu1259:1,pemo1248:1):1):1,yaba1248:3.0):1,kuik1246:3.0,yukp1241:3.0,waiw1244:3.0,baka1277:2.0):1;
+END;

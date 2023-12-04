@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Saharan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((kane1243:2.0,cent2050:2.0):1,(daza1242:1,teda1241:1):1):2.0;
+END;

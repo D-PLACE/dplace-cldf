@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Kiowa-Tanoan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (kiow1266:1,(ariz1237:1,tewa1260:1):1,jeme1245:1,(sout2961:1,(picu1248:1,nort1550:1):1):2.0):1;
+END;

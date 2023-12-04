@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Greater Kwerba languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (nucl1595:2.0,sama1240:2.0):2.0;
+END;

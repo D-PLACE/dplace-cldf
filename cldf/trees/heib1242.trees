@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Heibanic languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (((koal1240:1,otor1240:2.0):1,(moro1285:1,tira1254:1):1):1,kooo1244:2.0):1;
+END;

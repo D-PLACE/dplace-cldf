@@ -1,0 +1,6 @@
+#NEXUS
+[Summary tree of the Phlorest phylogeny derived from Lee 2015 'A Sketch of Language History in the Korean Peninsula']
+
+BEGIN TREES;
+TREE summary = [&R] (((lee2015_Hwanghae:247.208371,((lee2015_SouthPyongan:98.672752,lee2015_NorthPyongan:98.672752):105.450414,(lee2015_SouthHamgyong:92.148787,lee2015_NorthHamgyong:92.148787):111.974379):43.085205):108.070175,(lee2015_Gyeonggi:309.064502,((((lee2015_SouthGyeongsang:77.809615,lee2015_NorthGyeongsang:77.809615):101.613883,lee2015_Gangwon:179.423498):107.818994,((lee2015_SouthJeolla:73.319896,lee2015_NorthJeolla:73.319896):87.369039,lee2015_Jeju:160.688936):126.553556):3.604536,(lee2015_SouthChungcheong:90.547378,lee2015_NorthChungcheong:90.547378):200.29965):18.217474):46.214044):267.421793,lee2015_MiddleKorean:121.561808);
+END;

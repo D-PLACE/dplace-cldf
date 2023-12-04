@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Chukotko-Kamchatkan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((chuk1273:1,kory1246:3.0):1,itel1242:2.0):1;
+END;

@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Caddoan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (cadd1256:1,(wich1260:1,(arik1262:1,pawn1254:1):2.0):1):1;
+END;

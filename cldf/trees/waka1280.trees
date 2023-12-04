@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Wakashan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((hais1244:1,(heil1246:1,kwak1269:1):1):1,(nuuc1236:1,maka1318:2.0):1):1;
+END;

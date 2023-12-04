@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Pano-Tacanan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (chac1251:2.0,ship1254:3.0,amah1246:2.0):4.0;
+END;

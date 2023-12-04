@@ -3,6 +3,9 @@
     "communities": [
         {
             "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "dplace"
         }
     ],
     "contributors": [
@@ -12,61 +15,59 @@
         }
     ],
     "keywords": [
-        "cldf:StructureDataset"
+        "cldf:StructureDataset",
+        "linguistics"
     ],
     "upload_type": "dataset",
     "creators": [
-      {
-        "name": "Kathryn R. Kirby"
-      }, 
-      {
-        "affiliation": "Max Planck Institute for the Science of Human History", 
-        "name": "Russell D. Gray"
-      }, 
-      {
-        "affiliation": "Max Planck Institute for the Science of Human History", 
-        "name": "Simon J. Greenhill"
-      }, 
-      {
-        "name": "Fiona M. Jordan"
-      }, 
-      {
-        "name": "Stephanie Gomes-Ng"
-      }, 
-      {
-        "name": "Hans-J\u00f6rg Bibiko"
-      }, 
-      {
-        "name": "Dami\u00e1n E. Blasi"
-      }, 
-      {
-        "name": "Carlos A. Botero"
-      }, 
-      {
-        "name": "Claire Bowern"
-      }, 
-      {
-        "name": "Carol R. Ember"
-      }, 
-      {
-        "affiliation": "Duke University", 
-        "name": "Dan Leehr"
-      }, 
-      {
-        "name": "Bobbi S. Low"
-      }, 
-      {
-        "name": "Joe McCarter"
-      }, 
-      {
-        "name": "William Divale"
-      }, 
-      {
-        "name": "Michael C. Gavin"
-      }
+        {
+            "name": "Kathryn R. Kirby"
+        },
+        {
+            "name": "Russell D. Gray"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        },
+        {
+            "name": "Fiona M. Jordan"
+        },
+        {
+            "name": "Stephanie Gomes-Ng"
+        },
+        {
+            "name": "Hans-J\u00f6rg Bibiko"
+        },
+        {
+            "name": "Dami\u00e1n E. Blasi"
+        },
+        {
+            "name": "Carlos A. Botero"
+        },
+        {
+            "name": "Claire Bowern"
+        },
+        {
+            "name": "Carol R. Ember"
+        },
+        {
+            "name": "Dan Leehr"
+        },
+        {
+            "name": "Bobbi S. Low"
+        },
+        {
+            "name": "Joe McCarter"
+        },
+        {
+            "name": "William Divale"
+        },
+        {
+            "name": "Michael C. Gavin"
+        }
     ],
-    "title": "CLDF Dataset derived from D-PLACE",
-    "description": "This dataset contains the data from D-PLACE, the Database of Places, Language, Culture and Environment, serialized as CLDF StructureDataset.",
+    "title": "D-PLACE aggregated dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kathryn R. Kirby, Russell D. Gray, Simon J. Greenhill, Fiona M. Jordan, Stephanie Gomes-Ng, Hans-J\u00f6rg Bibiko, Dami\u00e1n E. Blasi, Carlos A. Botero, Claire Bowern, Carol R. Ember, Dan Leehr, Bobbi S. Low, Joe McCarter, William Divale, and Michael C. Gavin. (2016). D-PLACE: A Global Database of Cultural, Linguistic and Environmental Diversity. PLoS ONE, 11(7): e0158391. doi:10.1371/journal.pone.0158391.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-NC-4.0"
     }

@@ -1,0 +1,325 @@
+type,name,tag,doi,cit,bib
+datasets,binford,v3.0.1,10.5281/zenodo.10201125,Lewis R. Binford. (2023). D-PLACE dataset derived from Binford 2001 'Constructing Frames of Reference' (v3.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10201125,"@misc{binford,
+  title     = {D-PLACE dataset derived from Binford 2001 'Constructing Frames of Reference'},
+  DOI       = {10.5281/zenodo.10201125},
+  publisher = {Zenodo},
+  author    = {Lewis R. Binford},
+  year      = {2023},
+  edition   = {v3.0.1},
+  type      = {Data set}
+}"
+datasets,ccmc,v3.0,10.5281/zenodo.10201382,"Mila Bertolo, Martynas Snarskis, Manvir Singh, & Samuel Mehr. (2023). D-PLACE dataset derived from Bertolo et al. 2023 'Cross-cultural music corpus: The Expanded Natural History of Song Discography' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10201382","@misc{ccmc,
+  title     = {D-PLACE dataset derived from Bertolo et al. 2023 'Cross-cultural music corpus: The Expanded Natural History of Song Discography'},
+  DOI       = {10.5281/zenodo.10201382},
+  publisher = {Zenodo},
+  author    = {Mila Bertolo and Martynas Snarskis and Manvir Singh and Samuel Mehr},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+datasets,ea,v3.0,10.5281/zenodo.10177061,"Murdock, G. P., R. Textor, H. Barry, I., D. R. White, J. P. Gray, & W. T. Divale. (2023). D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10177061","@misc{ea,
+  title     = {D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas'},
+  DOI       = {10.5281/zenodo.10177061},
+  publisher = {Zenodo},
+  author    = {Murdock, G. P. and R. Textor and H. Barry, III and D. R. White and J. P. Gray and W. T. Divale},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+datasets,ecoclimate,v3.0,10.5281/zenodo.10179301,"Lima-Ribeiro MS, Varela S, González-Hernández J, Oliveira G, Diniz-Filho JAF, Peterson AT, & Terribile LC. (2023). D-PLACE dataset derived from Lima-Ribeiro et al. 2015 'ecoClimate' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10179301","@misc{ecoclimate,
+  title     = {D-PLACE dataset derived from Lima-Ribeiro et al. 2015 'ecoClimate'},
+  DOI       = {10.5281/zenodo.10179301},
+  publisher = {Zenodo},
+  author    = {Lima-Ribeiro MS and Varela S and González-Hernández J and Oliveira G and Diniz-Filho JAF and Peterson AT and Terribile LC},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+datasets,gmted2010,v3.0,10.5281/zenodo.10180043,Earth Resources Observation and Science (EROS) Center. (2023). D-PLACE dataset derived from 'Global Multi-resolution Terrain Elevation Data 2010' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10180043,"@misc{gmted2010,
+  title     = {D-PLACE dataset derived from 'Global Multi-resolution Terrain Elevation Data 2010'},
+  DOI       = {10.5281/zenodo.10180043},
+  publisher = {Zenodo},
+  author    = {Earth Resources Observation and Science (EROS) Center},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+datasets,gshhs,v3.0.1,10.5281/zenodo.10182319,"P. Wessel, & W. H. F. Smith. (2023). D-PLACE dataset derived from Wessel and Smith 2015 'Global Self-consistent, Hierarchical, High-resolution Geography Database' (v3.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10182319","@misc{gshhs,
+  title     = {D-PLACE dataset derived from Wessel and Smith 2015 'Global Self-consistent, Hierarchical, High-resolution Geography Database'},
+  DOI       = {10.5281/zenodo.10182319},
+  publisher = {Zenodo},
+  author    = {P. Wessel and W. H. F. Smith},
+  year      = {2023},
+  edition   = {v3.0.1},
+  type      = {Data set}
+}"
+datasets,jenkins,v3.0,10.5281/zenodo.10182356,"Jenkins, C., SL Pimm, & LN Joppa. (2023). D-PLACE dataset derived from Jenkins et al. 2013 'Global patterns of terrestrial vertebrate diversity and conservation' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10182356","@misc{jenkins,
+  title     = {D-PLACE dataset derived from Jenkins et al. 2013 'Global patterns of terrestrial vertebrate diversity and conservation'},
+  DOI       = {10.5281/zenodo.10182356},
+  publisher = {Zenodo},
+  author    = {Jenkins, CN and SL Pimm and LN Joppa},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+datasets,kreft,v3.0,10.5281/zenodo.10182361,"Kreft H., & Jetz W. (2023). D-PLACE dataset derived from Kreft and Jetz 2007 'Global patterns and determinants of vascular plant diversity' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10182361","@misc{kreft,
+  title     = {D-PLACE dataset derived from Kreft and Jetz 2007 'Global patterns and determinants of vascular plant diversity'},
+  DOI       = {10.5281/zenodo.10182361},
+  publisher = {Zenodo},
+  author    = {Kreft H. and Jetz W.},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+datasets,modis,v3.0,10.5281/zenodo.10183957,NASA TERRA/MODIS. (2023). D-PLACE dataset derived from NASA TERRA/MODIS 'Net Primary Productivity' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10183957,"@misc{modis,
+  title     = {D-PLACE dataset derived from NASA TERRA/MODIS 'Net Primary Productivity'},
+  DOI       = {10.5281/zenodo.10183957},
+  publisher = {Zenodo},
+  author    = {NASA TERRA/MODIS},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+datasets,sccs,v3.0,10.5281/zenodo.10201075,"Murdock, G. P., & White, D. R. (2023). D-PLACE dataset derived from Murdock and White 1969 'Standard Cross-Cultural Sample' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10201075","@misc{sccs,
+  title     = {D-PLACE dataset derived from Murdock and White 1969 'Standard Cross-Cultural Sample'},
+  DOI       = {10.5281/zenodo.10201075},
+  publisher = {Zenodo},
+  author    = {Murdock, George P. and White, Douglas R.},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+datasets,teow,v3.0,10.5281/zenodo.10201087,"Olson, D. M., Dinerstein, E., Wikramanayake, E. D., Burgess, N. D., Powell, G. V. N., Underwood, E. C., D'Amico, J. A., Itoua, I., Strand, H. E., Morrison, J. C., Loucks, C. J., Allnutt, T. F., Ricketts, T. H., Kura, Y., Lamoreux, J. F., Wettengel, W. W., Hedao, P., & Kassem, K. R. (2023). D-PLACE dataset derived from Olson et al. 2001 'Terrestrial Ecoregions of the World' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10201087","@misc{teow,
+  title     = {D-PLACE dataset derived from Olson et al. 2001 'Terrestrial Ecoregions of the World'},
+  DOI       = {10.5281/zenodo.10201087},
+  publisher = {Zenodo},
+  author    = {Olson, D. M. and Dinerstein, E. and Wikramanayake, E. D. and Burgess, N. D. and Powell, G. V. N. and Underwood, E. C. and D'Amico, J. A. and Itoua, I. and Strand, H. E. and Morrison, J. C. and et al.},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+datasets,wnai,v3.0,10.5281/zenodo.10201104,"Jorgensen, J. (2023). D-PLACE dataset derived from Jorgensen 1980 'Western Indians' (v3.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10201104","@misc{wnai,
+  title     = {D-PLACE dataset derived from Jorgensen 1980 'Western Indians'},
+  DOI       = {10.5281/zenodo.10201104},
+  publisher = {Zenodo},
+  author    = {Jorgensen, JG},
+  year      = {2023},
+  edition   = {v3.0},
+  type      = {Data set}
+}"
+phylogenies,atkinson2006,v1.2,10.5281/zenodo.10149488,Quentin D. Atkinson. (2023). Phlorest phylogeny derived from Atkinson 2006 'From Species to Languages: a phylogenetic approach to human prehistory' (v1.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149488,"@misc{dplace-phylogeny-atkinson2006,
+  title     = {Phlorest phylogeny derived from Atkinson 2006 'From Species to Languages: a phylogenetic approach to human prehistory'},
+  DOI       = {10.5281/zenodo.10149488},
+  publisher = {Zenodo},
+  author    = {Quentin D. Atkinson},
+  year      = {2023},
+  edition   = {v1.2},
+  type      = {Data set}
+}"
+phylogenies,birchall_et_al2016,v1.1,10.5281/zenodo.10149510,"Joshua Birchall, Michael Dunn, & Simon J. Greenhill. (2023). Phlorest phylogeny derived from Birchall et al. 2016 'A combined comparative and phylogenetic analysis of the Chapacuran language family' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149510","@misc{dplace-phylogeny-birchall_et_al2016,
+  title     = {Phlorest phylogeny derived from Birchall et al. 2016 'A combined comparative and phylogenetic analysis of the Chapacuran language family'},
+  DOI       = {10.5281/zenodo.10149510},
+  publisher = {Zenodo},
+  author    = {Joshua Birchall and Michael Dunn and Simon J. Greenhill},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,bouckaert_et_al2012,v1.1,10.5281/zenodo.10149518,"R. Bouckaert, P. Lemey, M. Dunn, A. V. Alekseyenko, A. J. Drummond, R. D. Gray, M. A. Suchard, Q. D. Atkinson, & Simon J. Greenhill. (2023). Phlorest phylogeny derived from Bouckaert et al. 2012 'Mapping the Origins and Expansion of the Indo-European Language Family' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149518","@misc{dplace-phylogeny-bouckaert_et_al2012,
+  title     = {Phlorest phylogeny derived from Bouckaert et al. 2012 'Mapping the Origins and Expansion of the Indo-European Language Family'},
+  DOI       = {10.5281/zenodo.10149518},
+  publisher = {Zenodo},
+  author    = {R. Bouckaert and P. Lemey and M. Dunn and A. V. Alekseyenko and A. J. Drummond and R. D. Gray and M. A. Suchard and Q. D. Atkinson and Simon J. Greenhill},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,bouckaert_et_al2018,v1.1,10.5281/zenodo.10149537,"Bouckaert, R. R., Bowern, C., & Atkinson, Q. D. (2023). Phlorest phylogeny derived from Bouckaert et al. 2018 'The origin and expansion of Pama–Nyungan languages across Australia' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149537","@misc{dplace-phylogeny-bouckaert_et_al2018,
+  title     = {Phlorest phylogeny derived from Bouckaert et al. 2018 'The origin and expansion of Pama–Nyungan languages across Australia'},
+  DOI       = {10.5281/zenodo.10149537},
+  publisher = {Zenodo},
+  author    = {Bouckaert, Remco R. and Bowern, Claire and Atkinson, Quentin D.},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,bowern_and_atkinson2012,v1.1,10.5281/zenodo.10149544,"Claire Bowern, & Quentin Atkinson. (2023). Phlorest phylogeny derived from Bowern & Atkinson 2012 'Computational phylogenetics and the internal structure of Pama-Nyungan' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149544","@misc{dplace-phylogeny-bowern_and_atkinson2012,
+  title     = {Phlorest phylogeny derived from Bowern & Atkinson 2012 'Computational phylogenetics and the internal structure of Pama-Nyungan'},
+  DOI       = {10.5281/zenodo.10149544},
+  publisher = {Zenodo},
+  author    = {Claire Bowern and Quentin Atkinson},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,chacon_and_list2015,v1.1,10.5281/zenodo.10149552,"Chacon, T. C., & List, J.-M. (2023). Phlorest phylogeny derived from Chacon & List 2015 'Improved computational models of sound change shed light on the history of the Tukanoan languages' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149552","@misc{dplace-phylogeny-chacon_and_list2015,
+  title     = {Phlorest phylogeny derived from Chacon & List 2015 'Improved computational models of sound change shed light on the history of the Tukanoan languages'},
+  DOI       = {10.5281/zenodo.10149552},
+  publisher = {Zenodo},
+  author    = {Chacon, Thiago Costa and List, Johann-Mattis},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,chang_et_al2015,v1.1,10.5281/zenodo.10149561,"Chang, W., Cathcart, C., Hall, D., & Garrett, A. (2023). Phlorest phylogeny derived from Chang et al. 2015 'Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149561","@misc{dplace-phylogeny-chang_et_al2015,
+  title     = {Phlorest phylogeny derived from Chang et al. 2015 'Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis'},
+  DOI       = {10.5281/zenodo.10149561},
+  publisher = {Zenodo},
+  author    = {Chang, Will and Cathcart, Chundra and Hall, David and Garrett, Andrew},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,defilippo_et_al2012,v1.1,10.5281/zenodo.10149579,"Cesare de Filippo, Koen Bostoen, Mark Stoneking, & Brigitte Pakendorf. (2023). Phlorest phylogeny derived from De Filippo et al. 2012 'Bringing together linguistic and genetic evidence to test the Bantu expansion' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149579","@misc{dplace-phylogeny-defilippo_et_al2012,
+  title     = {Phlorest phylogeny derived from De Filippo et al. 2012 'Bringing together linguistic and genetic evidence to test the Bantu expansion'},
+  DOI       = {10.5281/zenodo.10149579},
+  publisher = {Zenodo},
+  author    = {Cesare de Filippo and Koen Bostoen and Mark Stoneking and Brigitte Pakendorf},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,dunn_et_al2011,v1.1,10.5281/zenodo.10149621,"Michael Dunn, S.C. Levinson, Russell D. Gray, & Simon J. Greenhill. (2023). Phlorest phylogeny derived from Dunn et al. 2011 'Evolved structure of language shows lineage-specific trends in word-order universals' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149621","@misc{dplace-phylogeny-dunn_et_al2011,
+  title     = {Phlorest phylogeny derived from Dunn et al. 2011 'Evolved structure of language shows lineage-specific trends in word-order universals'},
+  DOI       = {10.5281/zenodo.10149621},
+  publisher = {Zenodo},
+  author    = {Michael Dunn and S.C. Levinson and Russell D. Gray and Simon J. Greenhill},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,gray_et_al2009,v1.1.1,10.5281/zenodo.10149668,"Russell D. Gray, ., Alexei J. Drummond, & Simon J. Greenhill. (2023). Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement' (v1.1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149668","@misc{dplace-phylogeny-gray_et_al2009,
+  title     = {Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement'},
+  DOI       = {10.5281/zenodo.10149668},
+  publisher = {Zenodo},
+  author    = {Russell D. Gray and Alexei J. Drummond and Simon J. Greenhill},
+  year      = {2023},
+  edition   = {v1.1.1},
+  type      = {Data set}
+}"
+phylogenies,greenhill2015,v1.1,10.5281/zenodo.10149678,Simon J. Greenhill. (2023). Phlorest phylogeny derived from Greenhill 2015 'TransNewGuinea.org: An Online Database of New Guinea Languages' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149678,"@misc{dplace-phylogeny-greenhill2015,
+  title     = {Phlorest phylogeny derived from Greenhill 2015 'TransNewGuinea.org: An Online Database of New Guinea Languages'},
+  DOI       = {10.5281/zenodo.10149678},
+  publisher = {Zenodo},
+  author    = {Simon J. Greenhill},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,grollemund_et_al2015,v1.1,10.5281/zenodo.10149683,"Rebecca Grollemund, Simon Branford, Koen Bostoen, Andrew Meade, Chris Venditti, & Mark Pagel. (2023). Phlorest phylogeny derived from Grollemund et al. 2015 'Bantu expansion shows habitat alters the route and pace of human dispersals' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149683","@misc{dplace-phylogeny-grollemund_et_al2015,
+  title     = {Phlorest phylogeny derived from Grollemund et al. 2015 'Bantu expansion shows habitat alters the route and pace of human dispersals'},
+  DOI       = {10.5281/zenodo.10149683},
+  publisher = {Zenodo},
+  author    = {Rebecca Grollemund and Simon Branford and Koen Bostoen and Andrew Meade and Chris Venditti and Mark Pagel},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,honkola_et_al2013,v1.1,10.5281/zenodo.10149686,"Honkola, T., Vesakoski, O., Korhonen, K., Lehtinen, J., Syrjänen, K., & Wahlberg, N. (2023). Phlorest phylogeny derived from Honkola et al. 2013 'Cultural and climatic changes shape the evolutionary history of the Uralic languages' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149686","@misc{dplace-phylogeny-honkola_et_al2013,
+  title     = {Phlorest phylogeny derived from Honkola et al. 2013 'Cultural and climatic changes shape the evolutionary history of the Uralic languages'},
+  DOI       = {10.5281/zenodo.10149686},
+  publisher = {Zenodo},
+  author    = {Honkola, T and Vesakoski, O and Korhonen, K and Lehtinen, J and Syrjänen, K and Wahlberg, N},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,hruschka_et_al2015,v1.1,10.5281/zenodo.10149695,"Daniel J. Hruschka, Simon Branford, Eric D. Smith, Jon Wilkins, Andrew Meade, Mark Pagel, & Tanmoy Bhattacharya. (2023). Phlorest phylogeny derived from Hruschka et al. 2015 'Detecting regular sound changes in linguistics as events of concerted evolution' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149695","@misc{dplace-phylogeny-hruschka_et_al2015,
+  title     = {Phlorest phylogeny derived from Hruschka et al. 2015 'Detecting regular sound changes in linguistics as events of concerted evolution'},
+  DOI       = {10.5281/zenodo.10149695},
+  publisher = {Zenodo},
+  author    = {Daniel J. Hruschka and Simon Branford and Eric D. Smith and Jon Wilkins and Andrew Meade and Mark Pagel and Tanmoy Bhattacharya},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,kitchen_et_al2009,v1.1,10.5281/zenodo.10149760,"A. Kitchen, C. Ehret, S. Assefa, & C. J. Mulligan. (2023). Phlorest phylogeny derived from Kitchen et al. 2009 'Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149760","@misc{dplace-phylogeny-kitchen_et_al2009,
+  title     = {Phlorest phylogeny derived from Kitchen et al. 2009 'Bayesian phylogenetic analysis of Semitic languages identifies an Early Bronze Age origin of Semitic in the Near East'},
+  DOI       = {10.5281/zenodo.10149760},
+  publisher = {Zenodo},
+  author    = {A. Kitchen and C. Ehret and S. Assefa and C. J. Mulligan},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,kolipakam_et_al2018,v1.1,10.5281/zenodo.10149769,"Kolipakam, V., Jordan, F. M., Dunn, M., Bouckaert, R., Gray, R. D., Verkerk, A., & Simon J. Greenhill. (2023). Phlorest phylogeny derived from Kolipakam et al. 2018 'A Bayesian phylogenetic study of the Dravidian language family' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149769","@misc{dplace-phylogeny-kolipakam_et_al2018,
+  title     = {Phlorest phylogeny derived from Kolipakam et al. 2018 'A Bayesian phylogenetic study of the Dravidian language family'},
+  DOI       = {10.5281/zenodo.10149769},
+  publisher = {Zenodo},
+  author    = {Kolipakam, Vishnupriya and Jordan, Fiona M. and Dunn, Michael and Bouckaert, Remco and Gray, Russell D. and Verkerk, Annemarie and Simon J. Greenhill},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,lee2015,v1.1,10.5281/zenodo.10149812,"Lee, S. (2023). Phlorest phylogeny derived from Lee 2015 'A Sketch of Language History in the Korean Peninsula' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149812","@misc{dplace-phylogeny-lee2015,
+  title     = {Phlorest phylogeny derived from Lee 2015 'A Sketch of Language History in the Korean Peninsula'},
+  DOI       = {10.5281/zenodo.10149812},
+  publisher = {Zenodo},
+  author    = {Lee, Sean},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,lee_and_hasegawa2011,v1.1,10.5281/zenodo.10149409,"Lee, S., & Hasegawa, T. (2023). Phlorest phylogeny derived from Lee & Hasegawa 2011 'Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149409","@misc{dplace-phylogeny-lee_and_hasegawa2011,
+  title     = {Phlorest phylogeny derived from Lee & Hasegawa 2011 'Bayesian phylogenetic analysis supports an agricultural origin of Japonic languages'},
+  DOI       = {10.5281/zenodo.10149409},
+  publisher = {Zenodo},
+  author    = {Lee, Sean and Hasegawa, Toshikazu},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,lee_and_hasegawa2013,v1.1,10.5281/zenodo.10149825,"Sean Lee, & Toshikazu Hasegawa. (2023). Phlorest phylogeny derived from Lee & Hasegawa 2013 'Evolution of the Ainu Language in Space and Time' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149825","@misc{dplace-phylogeny-lee_and_hasegawa2013,
+  title     = {Phlorest phylogeny derived from Lee & Hasegawa 2013 'Evolution of the Ainu Language in Space and Time'},
+  DOI       = {10.5281/zenodo.10149825},
+  publisher = {Zenodo},
+  author    = {Sean Lee and Toshikazu Hasegawa},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,robinson_and_holton2012,v1.1,10.5281/zenodo.10149839,"Laura C. Robinson, & Gary Holton. (2023). Phlorest phylogeny derived from Robinson and Holton 2012 'Internal Classification of the Alor-Pantar Language Family Using Computational Methods Applied to the Lexicon' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149839","@misc{dplace-phylogeny-robinson_and_holton2012,
+  title     = {Phlorest phylogeny derived from Robinson and Holton 2012 'Internal Classification of the Alor-Pantar Language Family Using Computational Methods Applied to the Lexicon'},
+  DOI       = {10.5281/zenodo.10149839},
+  publisher = {Zenodo},
+  author    = {Laura C. Robinson and Gary Holton},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,sagart_et_al2019,v1.1,10.5281/zenodo.10149865,"Sagart, L., Jacques, G., Lai, Y., Ryder, R. J., Thouzeau, V., List, J.-M., & Simon J. Greenhill. (2023). Phlorest phylogeny derived from Sagart et al. 2019 'Dated language phylogenies shed light on the ancestry of Sino-Tibetan' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149865","@misc{dplace-phylogeny-sagart_et_al2019,
+  title     = {Phlorest phylogeny derived from Sagart et al. 2019 'Dated language phylogenies shed light on the ancestry of Sino-Tibetan'},
+  DOI       = {10.5281/zenodo.10149865},
+  publisher = {Zenodo},
+  author    = {Sagart, Laurent and Jacques, Guillaume and Lai, Yunfan and Ryder, Robin J. and Thouzeau, Valentin and List, Johann-Mattis and Simon J. Greenhill},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,sicoli_and_holton2014,v1.1,10.5281/zenodo.10149871,"Sicoli, M. A., & Holton, G. (2023). Phlorest phylogeny derived from Sicoli & Holton 2014 'Linguistic phylogenies support back-migration from Beringia to Asia' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149871","@misc{dplace-phylogeny-sicoli_and_holton2014,
+  title     = {Phlorest phylogeny derived from Sicoli & Holton 2014 'Linguistic phylogenies support back-migration from Beringia to Asia'},
+  DOI       = {10.5281/zenodo.10149871},
+  publisher = {Zenodo},
+  author    = {Sicoli, Mark A. and Holton, Gary},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,walker_and_ribeiro2011,v1.1,10.5281/zenodo.10149891,"R. S. Walker, & L. A. Ribeiro. (2023). Phlorest phylogeny derived from Walker & Ribeiro 2011 'Bayesian phylogeography of the Arawak expansion in lowland South America' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149891","@misc{dplace-phylogeny-walker_and_ribeiro2011,
+  title     = {Phlorest phylogeny derived from Walker & Ribeiro 2011 'Bayesian phylogeography of the Arawak expansion in lowland South America'},
+  DOI       = {10.5281/zenodo.10149891},
+  publisher = {Zenodo},
+  author    = {R. S. Walker and L. A. Ribeiro},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"
+phylogenies,zhang_et_al2019,v1.1,10.5281/zenodo.10149910,"Menghan Zhang, Shi Yan, Wuyun Pan, & Li Jin. (2023). Phlorest phylogeny derived from Zhang et al 2019 'Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic' (v1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10149910","@misc{dplace-phylogeny-zhang_et_al2019,
+  title     = {Phlorest phylogeny derived from Zhang et al 2019 'Phylogenetic evidence for Sino-Tibetan origin in northern China in the Late Neolithic'},
+  DOI       = {10.5281/zenodo.10149910},
+  publisher = {Zenodo},
+  author    = {Menghan Zhang and Shi Yan and Wuyun Pan and Li Jin},
+  year      = {2023},
+  edition   = {v1.1},
+  type      = {Data set}
+}"

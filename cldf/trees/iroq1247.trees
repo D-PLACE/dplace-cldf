@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Iroquoian languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (cher1273:1,(cayu1261:1,wyan1247:1,onon1246:1,sene1264:1,onei1249:2.0):1):1;
+END;

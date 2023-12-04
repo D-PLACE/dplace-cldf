@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Kartvelian languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (svan1243:1,nucl1302:3.0):1;
+END;

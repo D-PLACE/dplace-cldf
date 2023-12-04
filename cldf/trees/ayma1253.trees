@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Aymaran languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (cent2142:1,sout2996:1):2.0;
+END;

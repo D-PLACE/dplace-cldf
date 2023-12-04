@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Sahaptian languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (nezp1238:1,((teni1238:1,umat1237:1):1,yaki1237:2.0):1):1;
+END;

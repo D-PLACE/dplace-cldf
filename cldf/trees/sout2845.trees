@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of South Omotic languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((aari1239:2.0,hame1242:2.0):1,dime1235:1):1;
+END;

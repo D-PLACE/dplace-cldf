@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Algic languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (((chey1247:1,((sout2978:1,swam1239:1,plai1258:2.0):1,mont1268:1,nask1242:1):1,(unam1242:3.0,(east2544:2.0,mikm1235:2.0):2.0):1,((kick1244:1,mesk1242:1):1,miam1252:1,((((cent2136:1,chip1241:1,east2542:1):1,(nort2961:1,west1510:1):1):1,otta1242:1,seve1240:2.0):1,pota1247:1):1,shaw1249:1):1,meno1252:1,(arap1274:1,gros1243:1):2.0):1,siks1238:1):1,wiyo1248:1,yuro1248:1):1;
+END;

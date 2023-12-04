@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Khoe-Kwadi languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((((naro1249:1,gwii1239:2.0):1,kxoe1243:2.0):1,kuaa1238:3.0):1,(haio1238:1,nama1264:1):2.0):2.0;
+END;

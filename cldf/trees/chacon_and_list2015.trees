@@ -1,0 +1,6 @@
+#NEXUS
+[Summary tree of the Phlorest phylogeny derived from Chacon & List 2015 'Improved computational models of sound change shed light on the history of the Tukanoan languages']
+
+BEGIN TREES;
+TREE summary = [&R] (((chacon_and_list2015_Tan:0.045454547,chacon_and_list2015_Kub:0.045454547):0.045454547,(((chacon_and_list2015_Pis:0.045454547,(chacon_and_list2015_Tuy:0.045454547,chacon_and_list2015_Yur:0.045454547):0.045454547,(chacon_and_list2015_Kar:0.045454547,(chacon_and_list2015_Tat:0.045454547,chacon_and_list2015_Bar:0.045454547):0.045454547):0.045454547):0.045454547,(chacon_and_list2015_Pir:0.045454547,chacon_and_list2015_Tuk:0.045454547,chacon_and_list2015_Wan:0.045454547):0.045454547):0.045454547,((chacon_and_list2015_Yup:0.045454547,(chacon_and_list2015_Sir:0.045454547,chacon_and_list2015_Des:0.045454547):0.045454547):0.045454547,(chacon_and_list2015_Mak:0.045454547,chacon_and_list2015_Bas:0.045454547):0.045454547):0.045454547):0.045454547):0.022727273,((chacon_and_list2015_Sek:0.045454547,chacon_and_list2015_Sio:0.045454547):0.045454547,(chacon_and_list2015_Mai:0.045454547,(chacon_and_list2015_Kor:0.045454547,chacon_and_list2015_Kue:0.045454547):0.030303031):0.030303031):0.022727273);
+END;

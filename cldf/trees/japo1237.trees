@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Japonic languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (((nort2935:4.0,cent2126:2.0):1,(miya1259:1,yaey1239:2.0):1):1,nucl1643:3.0):1;
+END;

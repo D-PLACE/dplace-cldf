@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Chinookan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (wasc1239:1,chin1286:2.0):1;
+END;

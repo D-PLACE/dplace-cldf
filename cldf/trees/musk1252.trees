@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Muskogean languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (cree1270:1,mika1239:1,(chic1270:1,choc1276:1):1):1;
+END;

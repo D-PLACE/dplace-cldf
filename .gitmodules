@@ -1,0 +1,108 @@
+[submodule "raw/datasets/binford"]
+	path = raw/datasets/binford
+	url = https://github.com/D-PLACE/dplace-dataset-binford
+[submodule "raw/datasets/ccmc"]
+	path = raw/datasets/ccmc
+	url = https://github.com/D-PLACE/dplace-dataset-ccmc
+[submodule "raw/datasets/ea"]
+	path = raw/datasets/ea
+	url = https://github.com/D-PLACE/dplace-dataset-ea
+[submodule "raw/datasets/ecoclimate"]
+	path = raw/datasets/ecoclimate
+	url = https://github.com/D-PLACE/dplace-dataset-ecoclimate
+[submodule "raw/datasets/gmted2010"]
+	path = raw/datasets/gmted2010
+	url = https://github.com/D-PLACE/dplace-dataset-gmted2010
+[submodule "raw/datasets/gshhs"]
+	path = raw/datasets/gshhs
+	url = https://github.com/D-PLACE/dplace-dataset-gshhs
+[submodule "raw/datasets/jenkins"]
+	path = raw/datasets/jenkins
+	url = https://github.com/D-PLACE/dplace-dataset-jenkins
+[submodule "raw/datasets/kreft"]
+	path = raw/datasets/kreft
+	url = https://github.com/D-PLACE/dplace-dataset-kreft
+[submodule "raw/datasets/modis"]
+	path = raw/datasets/modis
+	url = https://github.com/D-PLACE/dplace-dataset-modis
+[submodule "raw/datasets/sccs"]
+	path = raw/datasets/sccs
+	url = https://github.com/D-PLACE/dplace-dataset-sccs
+[submodule "raw/datasets/teow"]
+	path = raw/datasets/teow
+	url = https://github.com/D-PLACE/dplace-dataset-teow
+[submodule "raw/datasets/wnai"]
+	path = raw/datasets/wnai
+	url = https://github.com/D-PLACE/dplace-dataset-wnai
+[submodule "raw/phylogenies/atkinson2006"]
+	path = raw/phylogenies/atkinson2006
+	url = https://github.com/phlorest/atkinson2006
+[submodule "raw/phylogenies/birchall_et_al2016"]
+	path = raw/phylogenies/birchall_et_al2016
+	url = https://github.com/phlorest/birchall_et_al2016
+[submodule "raw/phylogenies/bouckaert_et_al2018"]
+	path = raw/phylogenies/bouckaert_et_al2018
+	url = https://github.com/phlorest/bouckaert_et_al2018
+[submodule "raw/phylogenies/bouckaert_et_al2012"]
+	path = raw/phylogenies/bouckaert_et_al2012
+	url = https://github.com/phlorest/bouckaert_et_al2012
+[submodule "raw/phylogenies/bowern_and_atkinson2012"]
+	path = raw/phylogenies/bowern_and_atkinson2012
+	url = https://github.com/phlorest/bowern_and_atkinson2012
+[submodule "raw/phylogenies/chacon_and_list2015"]
+	path = raw/phylogenies/chacon_and_list2015
+	url = https://github.com/phlorest/chacon_and_list2015
+[submodule "raw/phylogenies/chang_et_al2015"]
+	path = raw/phylogenies/chang_et_al2015
+	url = https://github.com/phlorest/chang_et_al2015
+[submodule "raw/phylogenies/defilippo_et_al2012"]
+	path = raw/phylogenies/defilippo_et_al2012
+	url = https://github.com/phlorest/defilippo_et_al2012
+[submodule "raw/phylogenies/dunn_et_al2011"]
+	path = raw/phylogenies/dunn_et_al2011
+	url = https://github.com/phlorest/dunn_et_al2011
+[submodule "raw/phylogenies/gray_et_al2009"]
+	path = raw/phylogenies/gray_et_al2009
+	url = https://github.com/phlorest/gray_et_al2009
+[submodule "raw/phylogenies/greenhill2015"]
+	path = raw/phylogenies/greenhill2015
+	url = https://github.com/phlorest/greenhill2015
+[submodule "raw/phylogenies/grollemund_et_al2015"]
+	path = raw/phylogenies/grollemund_et_al2015
+	url = https://github.com/phlorest/grollemund_et_al2015
+[submodule "raw/phylogenies/honkola_et_al2013"]
+	path = raw/phylogenies/honkola_et_al2013
+	url = https://github.com/phlorest/honkola_et_al2013
+[submodule "raw/phylogenies/hruschka_et_al2015"]
+	path = raw/phylogenies/hruschka_et_al2015
+	url = https://github.com/phlorest/hruschka_et_al2015
+[submodule "raw/phylogenies/kitchen_et_al2009"]
+	path = raw/phylogenies/kitchen_et_al2009
+	url = https://github.com/phlorest/kitchen_et_al2009
+[submodule "raw/phylogenies/kolipakam_et_al2018"]
+	path = raw/phylogenies/kolipakam_et_al2018
+	url = https://github.com/phlorest/kolipakam_et_al2018
+[submodule "raw/phylogenies/lee2015"]
+	path = raw/phylogenies/lee2015
+	url = https://github.com/phlorest/lee2015
+[submodule "raw/phylogenies/lee_and_hasegawa2011"]
+	path = raw/phylogenies/lee_and_hasegawa2011
+	url = https://github.com/phlorest/lee_and_hasegawa2011
+[submodule "raw/phylogenies/lee_and_hasegawa2013"]
+	path = raw/phylogenies/lee_and_hasegawa2013
+	url = https://github.com/phlorest/lee_and_hasegawa2013
+[submodule "raw/phylogenies/robinson_and_holton2012"]
+	path = raw/phylogenies/robinson_and_holton2012
+	url = https://github.com/phlorest/robinson_and_holton2012
+[submodule "raw/phylogenies/sagart_et_al2019"]
+	path = raw/phylogenies/sagart_et_al2019
+	url = https://github.com/phlorest/sagart_et_al2019
+[submodule "raw/phylogenies/sicoli_and_holton2014"]
+	path = raw/phylogenies/sicoli_and_holton2014
+	url = https://github.com/phlorest/sicoli_and_holton2014
+[submodule "raw/phylogenies/walker_and_ribeiro2011"]
+	path = raw/phylogenies/walker_and_ribeiro2011
+	url = https://github.com/phlorest/walker_and_ribeiro2011
+[submodule "raw/phylogenies/zhang_et_al2019"]
+	path = raw/phylogenies/zhang_et_al2019
+	url = https://github.com/phlorest/zhang_et_al2019

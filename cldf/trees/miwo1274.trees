@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Miwok-Costanoan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((coas1301:1,lake1258:1):1,(cent2140:1,nort2968:1,sout2985:1):2.0):2.0;
+END;

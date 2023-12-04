@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Mayan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((((ixil1251:2.0,mamm1241:2.0):1,((kaqc1270:3.0,kich1262:2.0):1,kekc1242:1,poqo1253:2.0):1):1,(((tzel1254:1,tzot1259:1):1,chor1273:3.0):1,popt1235:4.0):1,(laca1243:1,yuca1254:1):2.0):1,huas1242:2.0):1;
+END;

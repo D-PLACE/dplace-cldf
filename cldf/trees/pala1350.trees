@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Palaihnihan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (achu1247:1,atsu1245:1):1;
+END;

@@ -7,39 +7,258 @@
     ],
     "dc:bibliographicCitation": "Kathryn R. Kirby, Russell D. Gray, Simon J. Greenhill, Fiona M. Jordan, Stephanie Gomes-Ng, Hans-J\u00f6rg Bibiko, Dami\u00e1n E. Blasi, Carlos A. Botero, Claire Bowern, Carol R. Ember, Dan Leehr, Bobbi S. Low, Joe McCarter, William Divale, and Michael C. Gavin. (2016). D-PLACE: A Global Database of Cultural, Linguistic and Environmental Diversity. PLoS ONE, 11(7): e0158391. doi:10.1371/journal.pone.0158391.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:description": "This dataset contains the data from D-PLACE, the Database of Places, Language, Culture and Environment, serialized as CLDF StructureDataset. D-PLACE societies are formally treated as languages, i.e. society metadata is written to the CLDF LanguageTable and the data on language phylogenies aggregated in D-PLACE is excluded.",
-    "dc:related": "https://d-place.org",
+    "dc:identifier": "https://d-place.org",
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "CLDF Dataset derived from D-PLACE",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-cldf",
+    "dc:title": "D-PLACE aggregated dataset",
+    "dcat:accessURL": "https://github.com/d-place/dplace-cldf",
     "prov:wasDerivedFrom": [
         {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-binford",
             "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
-            "rdf:about": "https://github.com/D-PLACE/dplace-data",
-            "dc:created": "v2.2.0"
+            "dc:created": "v3.0.1",
+            "dc:title": "Repository"
         },
         {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ccmc",
             "rdf:type": "prov:Entity",
-            "dc:title": "Catalog",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ecoclimate",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-gmted2010",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-gshhs",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-jenkins",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-kreft",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-modis",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-sccs",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-teow",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-wnai",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/atkinson2006",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.2",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/birchall_et_al2016",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/bouckaert_et_al2012",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/bouckaert_et_al2018",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/bowern_and_atkinson2012",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/chacon_and_list2015",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/chang_et_al2015",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/defilippo_et_al2012",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/dunn_et_al2011",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/gray_et_al2009",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/greenhill2015",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/grollemund_et_al2015",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/honkola_et_al2013",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/hruschka_et_al2015",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/kitchen_et_al2009",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/kolipakam_et_al2018",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/lee2015",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/lee_and_hasegawa2011",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/lee_and_hasegawa2013",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/robinson_and_holton2012",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/sagart_et_al2019",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/sicoli_and_holton2014",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/walker_and_ribeiro2011",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/zhang_et_al2019",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/d-place/dplace-cldf",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.2.1",
+            "dc:title": "Repository"
+        },
+        {
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.8",
+            "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.10.12"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
         }
     ],
+    "rdf:ID": "dplace",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 586165,
+            "dc:description": "Values are coded datapoints, i.e. measurements of a variable for a society.\n\n**Note:** Missing data is signaled by an empty Value column.",
+            "dc:extent": 587172,
             "tableSchema": {
                 "columns": [
                     {
@@ -52,27 +271,29 @@
                         "name": "ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
                         "required": true,
-                        "name": "Language_ID"
+                        "name": "Soc_ID"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "required": true,
-                        "name": "Parameter_ID"
+                        "name": "Var_ID"
                     },
                     {
+                        "dc:description": "Values for categorical and ordinal variables reference the corresponding code via the Code_ID column. Values for continuous variables have the measured number in the Value column and an empty Code_ID.",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
-                        "null": [
-                            "NA"
-                        ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": false,
                         "name": "Value"
                     },
                     {
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#codeReference",
                         "required": false,
@@ -92,33 +313,32 @@
                         "name": "Source"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Sub_Case"
+                        "dc:description": "More specific description of the population the data refer to in terms of society or area.",
+                        "name": "sub_case"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Year"
+                        "dc:description": "Focal year, i.e. the time period to which the data refer.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "-?[0-9]{1,4}(-[0-9]{4})?"
+                        },
+                        "name": "year"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Source_Coded_Data"
+                        "dc:description": "The source of the coded data, which was aggregated in this dataset.",
+                        "name": "source_coded_data"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Admin_Comment"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Dataset_ID"
+                        "name": "admin_comment"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Language_ID"
+                            "Soc_ID"
                         ],
                         "reference": {
-                            "resource": "languages.csv",
+                            "resource": "societies.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -126,10 +346,10 @@
                     },
                     {
                         "columnReference": [
-                            "Parameter_ID"
+                            "Var_ID"
                         ],
                         "reference": {
-                            "resource": "parameters.csv",
+                            "resource": "variables.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -145,28 +365,18 @@
                                 "ID"
                             ]
                         }
-                    },
-                    {
-                        "columnReference": [
-                            "Dataset_ID"
-                        ],
-                        "reference": {
-                            "resource": "datasets.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
                     }
                 ],
                 "primaryKey": [
                     "ID"
                 ]
             },
-            "url": "values.csv"
+            "url": "data.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1988,
+            "dc:description": "The aggregated D-PLACE data lists two kinds of entities in its LanguageTable: Societies, i.e. cultural groups for which D-PLACE datasets provide data, and Languoids, i.e. language (varieties) which are referenced in Phlorest phylogenies. The two kinds are marked as \"society\" and \"languoid\"respectively in the type column.",
+            "dc:extent": 6099,
             "tableSchema": {
                 "columns": [
                     {
@@ -185,16 +395,10 @@
                         "name": "Name"
                     },
                     {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-                        "required": false,
-                        "name": "Macroarea"
-                    },
-                    {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -90,
-                            "maximum": 90
+                            "minimum": "-90",
+                            "maximum": "90"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
                         "required": false,
@@ -203,8 +407,8 @@
                     {
                         "datatype": {
                             "base": "decimal",
-                            "minimum": -180,
-                            "maximum": 180
+                            "minimum": "-180",
+                            "maximum": "180"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
                         "required": false,
@@ -217,70 +421,94 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
+                    },
+                    {
+                        "dc:description": "Society names identified as pejorative have been replaced with a preferred, English-language ethnonym. The name (and ID) as given in the source dataset is kept in this field.",
+                        "name": "Name_and_ID_in_source"
+                    },
+                    {
+                        "dc:description": "\u201ccross-data-set\u201d identifier, used to link societies present in different datasets, if they share a focal location. Note: If this field is empty, other fields such as Name, Glottocode, focal year and location may be used to identify societies across datasets if appropriate.",
+                        "name": "xd_id"
+                    },
+                    {
+                        "dc:description": "A list of \u2018alternate\u2019 names for the society; includes, where available, one or more autonyms in the society\u2019s own language, as well as other commonly encountered ethnonyms.",
+                        "separator": "; ",
+                        "name": "alt_names_by_society"
+                    },
+                    {
+                        "dc:description": "Focal year specifying the time period to which the data refer, given as number of years BCE - if negative - or CE.",
+                        "datatype": "integer",
+                        "name": "main_focal_year"
+                    },
+                    {
+                        "dc:description": "Name(s) and ID(s) of the corresponding society in HRAF (the Human Relations Area Files)",
+                        "name": "HRAF_name_ID"
+                    },
+                    {
+                        "dc:description": "ID of the corresponding society in HRAF",
+                        "valueUrl": "https://ehrafworldcultures.yale.edu/cultures/{HRAF_ID}/description",
+                        "name": "HRAF_ID"
+                    },
+                    {
+                        "dc:description": "Uncorrected latitude as given in the source.",
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-90",
+                            "maximum": "90"
+                        },
+                        "name": "origLat"
+                    },
+                    {
+                        "dc:description": "Uncorrected longitude as given in the source.",
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": "-270",
+                            "maximum": "180"
+                        },
+                        "name": "origLong"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "comment"
+                    },
+                    {
+                        "dc:description": "Comment on the Glottocode assignment.",
+                        "name": "glottocode_comment"
+                    },
+                    {
+                        "dc:description": "World Geographical Scheme for Recording Plant Distributions level2 region",
+                        "name": "region"
                     },
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "[a-z]{3}"
+                            "format": "society|languoid"
                         },
+                        "name": "type"
+                    },
+                    {
+                        "dc:description": "Glottocode(s) of the language-level languoid(s) in Glottolog associated with the languoid specified by Glottocode. Matches the \"Glottocode\" column for languages, but differs for dialects and lists all contained languages for subgroups. The language-level Glottocodes can be used to match societies to languages in the Glottolog classification trees.",
+                        "separator": " ",
+                        "name": "Language_Level_Glottocodes"
+                    },
+                    {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "required": false,
                         "name": "ISO639P3code"
                     },
                     {
-                        "datatype": "string",
-                        "name": "xd_id"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ORIG_name_and_ID_in_this_dataset"
-                    },
-                    {
-                        "separator": ";",
-                        "name": "alt_names_by_society"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Dataset_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "main_focal_year"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "HRAF_NameHRAF_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "HRAF_Link"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "origLat"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "origLong"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Comment"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Glottocode_Comment"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contribution_ID"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Dataset_ID"
+                            "Contribution_ID"
                         ],
                         "reference": {
-                            "resource": "datasets.csv",
+                            "resource": "contributions.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -291,17 +519,18 @@
                     "ID"
                 ]
             },
-            "url": "languages.csv"
+            "url": "societies.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 2368,
+            "dc:description": "Variables are cultural features or practices, or environmental descriptors.",
+            "dc:extent": 2369,
             "tableSchema": {
                 "columns": [
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "[a-zA-Z0-9_\\-]+"
+                            "format": "[A-Za-z.0-9_]+([0-9]+)?"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
@@ -320,44 +549,56 @@
                         "name": "Description"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Dataset_ID"
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
                     },
                     {
-                        "separator": ",",
-                        "name": "Category"
+                        "dc:description": "",
+                        "datatype": {
+                            "base": "string",
+                            "format": "Anthropometry|Ceremony|Childhood|Class|Climate|Clothing|Community|Community organization|Data Quality|Death|Demography|Dwelling|Dwellings|Ecology|Economy|Games|Gender|Gossip|Health|Household|Housing|Infancy|Kinship|Labor|Labour|Leadership|Life cycle|Marriage|Material culture|Modernization|Mourning|Physical Landscape|Politics|Population|Property|Religion|Ritual|Settlement|Sexual practices|Subsistence|Technology|War|Warfare|Wealth Transactions|Wealth transactions"
+                        },
+                        "separator": ", ",
+                        "name": "category"
                     },
                     {
+                        "dc:description": "Variables may be categorical (and then must be accompanied by a list of possible \u2018codes\u2019, i.e. rows in Codetable. Variables can also be continuous (e.g. Population size) or ordinal. Ordinal variables are accompanied by a list of codes (like categorical variables). The order of codes is encoded as `ord` column in CodeTable.",
                         "datatype": {
                             "base": "string",
                             "format": "Continuous|Categorical|Ordinal"
                         },
-                        "name": "Type"
+                        "name": "type"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Units"
+                        "dc:description": "The unit of measurement",
+                        "name": "unit"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Source"
+                        "dc:description": "A note about the source of this variable.",
+                        "name": "source_comment"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Changes"
+                        "dc:description": "Notes about how a variable may have been derived from the source.",
+                        "name": "changes"
                     },
                     {
-                        "datatype": "string",
-                        "name": "Notes"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "comment"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contribution_ID"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Dataset_ID"
+                            "Contribution_ID"
                         ],
                         "reference": {
-                            "resource": "datasets.csv",
+                            "resource": "contributions.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -368,11 +609,11 @@
                     "ID"
                 ]
             },
-            "url": "parameters.csv"
+            "url": "variables.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 11938,
+            "dc:extent": 14214,
             "tableSchema": {
                 "columns": [
                     {
@@ -385,10 +626,12 @@
                         "name": "ID"
                     },
                     {
+                        "dc:description": "The parameter or variable the code belongs to.",
+                        "dc:extent": "singlevalued",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
                         "required": true,
-                        "name": "Parameter_ID"
+                        "name": "Var_ID"
                     },
                     {
                         "datatype": "string",
@@ -401,15 +644,19 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "ord"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Parameter_ID"
+                            "Var_ID"
                         ],
                         "reference": {
-                            "resource": "parameters.csv",
+                            "resource": "variables.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -423,87 +670,203 @@
             "url": "codes.csv"
         },
         {
-            "dc:extent": 11,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:description": "For better re-usability, D-PLACE provides the Glottolog classification trees and Phlorest phylogenies in the NEXUS file format.",
+            "dc:extent": 109,
             "tableSchema": {
                 "columns": [
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
                         "name": "ID"
                     },
                     {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
                         "name": "Name"
                     },
                     {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
                         "name": "Description"
                     },
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "environmental|cultural"
+                            "format": "[^/]+/.+"
                         },
-                        "name": "Type"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
                     },
                     {
-                        "propertyUrl": "http://purl.org/dc/terms/date",
-                        "name": "Year"
-                    },
-                    {
-                        "propertyUrl": "http://purl.org/dc/elements/1.1/creator",
-                        "name": "Author"
-                    },
-                    {
-                        "propertyUrl": "http://purl.org/dc/terms/bibliographicCitation",
-                        "name": "Reference"
+                        "datatype": "anyURI",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false,
+                        "name": "Download_URL"
                     },
                     {
                         "datatype": "string",
-                        "name": "URL"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "required": false,
+                        "name": "Path_In_Zip"
                     }
                 ],
                 "primaryKey": [
                     "ID"
                 ]
             },
-            "url": "datasets.csv"
+            "url": "media.csv"
         },
         {
-            "dc:extent": 1524,
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
+            "dc:description": "Both, individual D-PLACE datasets as well as Phlorest phylogenies and Glottolog classification trees are citable units - and should be cited, if their data is used.",
+            "dc:extent": 121,
             "tableSchema": {
                 "columns": [
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
                         "name": "ID"
                     },
                     {
                         "datatype": "string",
-                        "name": "Society_ID"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
                     },
                     {
                         "datatype": "string",
-                        "name": "Related_Society_ID"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
                     },
                     {
                         "datatype": "string",
-                        "name": "Related_Society_External_ID"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributor",
+                        "required": false,
+                        "name": "Contributor"
                     },
                     {
                         "datatype": "string",
-                        "name": "Related_Society_Name"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#citation",
+                        "required": false,
+                        "name": "Citation"
+                    },
+                    {
+                        "valueUrl": "https://doi.org/{DOI}",
+                        "name": "DOI"
+                    },
+                    {
+                        "dc:description": "D-PLACE aggregates two kinds of data: D-PLACE datasets, i.e. lists variables and coded values for cultural groups and language phylogenies from Phlorest. ",
+                        "datatype": {
+                            "base": "string",
+                            "format": "dataset|phylogeny"
+                        },
+                        "name": "type"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contributions.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TreeTable",
+            "dc:description": "D-PLACE contains the summary trees of Phlorest phylogenies and classification trees for Glottolog families which are associated with at least two societies in D-PLACE.",
+            "dc:extent": 109,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "Name of tree as used in the tree file, i.e. the tree label in a Nexus file or the 1-based index of the tree in a newick file",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "dc:description": "Describe the method that was used to create the tree, etc.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "dc:description": "Whether the tree is rooted (Yes) or unrooted (No) (or no info is available (null))",
+                        "datatype": {
+                            "base": "boolean",
+                            "format": "Yes|No"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#treeIsRooted",
+                        "required": false,
+                        "name": "Tree_Is_Rooted"
+                    },
+                    {
+                        "dc:description": "Whether the tree is a summary (or consensus) tree, i.e. can be analysed in isolation, or whether it is a sample, resulting from a method that creates multiple trees",
+                        "datatype": {
+                            "base": "string",
+                            "format": "summary|sample"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#treeType",
+                        "required": false,
+                        "name": "Tree_Type"
+                    },
+                    {
+                        "dc:description": "The unit used to measure evolutionary time in phylogenetic trees.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "change|substitutions|years|centuries|millennia"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#treeBranchLengthUnit",
+                        "required": false,
+                        "name": "Tree_Branch_Length_Unit"
+                    },
+                    {
+                        "dc:description": "References a file containing a Newick representation of the tree, labeled with identifiers as described in the LanguageTable (the [Media_Type](https://cldf.clld.org/v1.0/terms.html#mediaType) column of this table should provide enough information to chose the appropriate tool to read the newick)",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+                        "name": "Media_ID"
                     },
                     {
                         "datatype": "string",
-                        "name": "Related_Society_Dataset"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "required": false,
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
+                        "name": "Contribution_ID"
                     }
                 ],
                 "foreignKeys": [
                     {
                         "columnReference": [
-                            "Society_ID"
+                            "Media_ID"
                         ],
                         "reference": {
-                            "resource": "languages.csv",
+                            "resource": "media.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -511,10 +874,10 @@
                     },
                     {
                         "columnReference": [
-                            "Related_Society_ID"
+                            "Contribution_ID"
                         ],
                         "reference": {
-                            "resource": "languages.csv",
+                            "resource": "contributions.csv",
                             "columnReference": [
                                 "ID"
                             ]
@@ -525,7 +888,7 @@
                     "ID"
                 ]
             },
-            "url": "society_relations.csv"
+            "url": "trees.csv"
         }
     ]
 }

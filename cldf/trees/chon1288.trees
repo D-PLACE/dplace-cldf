@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Chonan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (tehu1242:2.0,onaa1245:2.0):1;
+END;

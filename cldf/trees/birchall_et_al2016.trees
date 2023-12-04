@@ -1,0 +1,6 @@
+#NEXUS
+[Summary tree of the Phlorest phylogeny derived from Birchall et al. 2016 'A combined comparative and phylogenetic analysis of the Chapacuran language family']
+
+BEGIN TREES;
+TREE summary = [&R] ((((birchall_et_al2016_More:258.01530265870315,birchall_et_al2016_Cojubim:258.01530265870315):228.39493944976368,birchall_et_al2016_Tora:396.41024210846683):196.6368015794577,((birchall_et_al2016_Jaru:194.33428364557028,birchall_et_al2016_Urupa:184.33428364557028):259.87847461415095,((birchall_et_al2016_Wari:286.7558371585035,birchall_et_al2016_OroWin:286.7558371585035):178.77323881648698,birchall_et_al2016_Wanyam:465.52907597499046):68.68368228473076):148.83428542820332):315.36770204678896,(birchall_et_al2016_Kitemoka:275.6127994069391,birchall_et_al2016_Tapakura:275.6127994069391):542.8019463277744);
+END;

@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Tungusic languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((nana1257:1,(orok1265:1,ulch1241:1):1):1,((even1259:1,oroq1238:1,negi1245:2.0):1,(oroc1248:1,udih1248:1):2.0):1,manc1252:3.0):1;
+END;

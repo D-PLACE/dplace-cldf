@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Central Sudanic languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] ((lomb1254:1,mang1394:2.0):1,((logo1259:1,lugb1240:1):1,moru1253:1,madi1260:2.0):1,(bong1285:1,((sarr1246:2.0,laka1254:3.0):1,bagi1246:2.0):3.0):1,lend1245:3.0,((efee1239:1,lese1243:1):1,mamv1243:1):2.0):1;
+END;

@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Tsimshian languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (nucl1649:1,gitx1241:2.0):1;
+END;

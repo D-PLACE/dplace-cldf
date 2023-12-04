@@ -1,0 +1,6 @@
+#NEXUS
+[Classification of Nuclear Torricelli languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+
+BEGIN TREES;
+TREE summary = [&R] (buki1249:5.0,oloo1241:6.0):1;
+END;
