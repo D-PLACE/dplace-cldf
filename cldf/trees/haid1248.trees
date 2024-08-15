@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Haida languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Haida languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (nort2938:1,sout2956:1):1;

@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Kadugli-Krongo languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Kadugli-Krongo languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (tuli1249:1,kron1241:2.0):2.0;

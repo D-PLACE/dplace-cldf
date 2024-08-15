@@ -338,6 +338,78 @@ B224,Antelope Valley Shoshoni,40.19,-114.24,west2622,Antelope Valley Shoshoni (B
 B272,Chehalis,46.87,-123.67,lowe1427,Chehalis (B272),xd997,,1880,,,46.87,-123.67,Original,,Northwestern U.S.A.,society,lowe1427,,dplace-dataset-binford
 B293,Gitxsan,55.65,-128.06,gitx1241,Gitksan (B293),xd998,Gitksan,1880,,,55.65,-128.06,Original,,Western Canada,society,gitx1241,,dplace-dataset-binford
 B294,Koniag,57.93,-153.16,koni1262,Koniag (B294),xd999,,1840,,,57.93,-153.16,Original,"1Oct2018 - change to dialect and language mapping from beri1255 (no longer exists) to koni1262 (dialect of language paci1278) following update to Glottolog version 3.3.2. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction.",Subarctic America,society,paci1278,,dplace-dataset-binford
+CARNEIRO_C1,Ancient Romans,41.9,12.5,lati1261,Roman Empire,,,125,Imperial Romans (EI09),,,,,,Southeastern Europe,society,lati1261,,dplace-dataset-carneiro
+CARNEIRO_C2,Ancient India,25.6,85.1,clas1258,Ancient India (Mauryan Empire),,,-250,,,,,Coordinates for capital city of Pataliputra (modern Patna),,Indian Subcontinent,society,sans1269,,dplace-dataset-carneiro
+CARNEIRO_C3,Ancient Egyptians,30,31,egyp1246,New Kingdom Egypt,,,-1350,,,,,,,Northern Africa,society,egyp1246,,dplace-dataset-carneiro
+CARNEIRO_C4,Classical Athens,38,23.7,anci1242,Periclean Athens,,,-450,,,,,,,Southeastern Europe,society,anci1242,,dplace-dataset-carneiro
+CARNEIRO_C5,Vikings,59,11.1,oldn1244,Vikings,,,,,,,,,,Northern Europe,society,oldn1244,,dplace-dataset-carneiro
+CARNEIRO_C6,Ashanti,7,-2,asan1239,Ashanti,,,,Akan (FE12),,,,,,West Tropical Africa,society,akan1250,,dplace-dataset-carneiro
+CARNEIRO_C7,Tahitians,-17.71,-149.54,tahi1242,Tahitians,,,,,,,,,,South-Central Pacific,society,tahi1242,,dplace-dataset-carneiro
+CARNEIRO_C8,Ganda,1,32,gand1255,Baganda,,,,Ganda (FK07),,,,,,East Tropical Africa,society,gand1255,,dplace-dataset-carneiro
+CARNEIRO_C9,Dogon,15,-3,bank1259,Dogon,,,,Dogon (FA16),,,,,,West Tropical Africa,society,bank1259,,dplace-dataset-carneiro
+CARNEIRO_C10,Azande,5,27,zand1248,Azande,,,,Azande (FO07),,,,,,West-Central Tropical Africa,society,zand1248,,dplace-dataset-carneiro
+CARNEIRO_C11,Tsonga,-24,32,tson1249,Thonga,,,,Tsonga (FT06),,,,,,South Tropical Africa,society,tson1249,,dplace-dataset-carneiro
+CARNEIRO_C12,Venda,-23,30,vend1245,Bavenda,,,,,,,,,,Southern Africa,society,vend1245,,dplace-dataset-carneiro
+CARNEIRO_C13,Batak,2,98.5,toba1265,Batak,,,,,,,,"Probably more general than Toba Batak (Ib4, xd753) but there should be overlap between them",,Malesia,society,bata1288 bata1289 bata1290 bata1291 bata1294 bata1293 bata1292,,dplace-dataset-carneiro
+CARNEIRO_C14,Shilluk,10,32,shil1265,Shilluk,,,,Shilluk (FJ23),,,,,,Northeast Tropical Africa,society,shil1265,,dplace-dataset-carneiro
+CARNEIRO_C15,Mru,21.47,92.32,mruu1242,Mru,,,1955,,,,,,,Indian Subcontinent,society,mruu1242,,dplace-dataset-carneiro
+CARNEIRO_C16,Mangarevans,-23.12,-134.97,mang1401,Mangarevans,,,,,,,,,,South-Central Pacific,society,mang1401,,dplace-dataset-carneiro
+CARNEIRO_C17,Muscogee,33,-84,cree1270,Creek,,,,Creek (NN11),,,,,,Southeastern U.S.A.,society,cree1270,,dplace-dataset-carneiro
+CARNEIRO_C18,Ao,27,94,aona1235,Ao Naga,,,,,,,,,,Indian Subcontinent,society,aona1235,,dplace-dataset-carneiro
+CARNEIRO_C20,Futunans,-14.31,-178.11,east2447,Futunans,,,,,,,,,,Southwestern Pacific,society,east2447,,dplace-dataset-carneiro
+CARNEIRO_C22,Maasai,-3.5,36.75,masa1300,Masai,,,,Maasai (FL12),,,,,,East Tropical Africa,society,masa1300,,dplace-dataset-carneiro
+CARNEIRO_C23,Seneca,43,-77,sene1264,Iroquois,,,,Iroquois (NM09),,,,"Probably match to Seneca, based on references (Morgan 1901, Noon 1949)",,Northeastern U.S.A.,society,sene1264,,dplace-dataset-carneiro
+CARNEIRO_C25,Nuu chah nulth,49.16,-125.85,nuuc1236,Nootka,,,,Nuu-Chah-Nulth (NE11),,,,,,Western Canada,society,nuuc1236,,dplace-dataset-carneiro
+CARNEIRO_C26,Mandan,47,-101,mand1446,Mandan,,,,Mandan (NQ17),,,,,,North-Central U.S.A.,society,mand1446,,dplace-dataset-carneiro
+CARNEIRO_C27,Callinago,15.41,-61.27,isla1278,Callinago,,,1650,Island Carib (ST13),,,,,,Caribbean,society,isla1278,,dplace-dataset-carneiro
+CARNEIRO_C28,Trobriands,-8.6,151,kili1267,Trobriands,,,,Trobriands (OL06),,,,,,Papuasia,society,kili1267,,dplace-dataset-carneiro
+CARNEIRO_C29,Kiwai,-9,143,sout2949,Kiwai,,,,,,,,,,Papuasia,society,sout2949,,dplace-dataset-carneiro
+CARNEIRO_C30,Mala,-9,161,mala1542,Mala,,,,,,,,"Probably more general than Kwaio (Ig18, xd850) but there should be overlap between them",,Papuasia,society,gula1270 kwar1239 wala1266 kwai1243 fata1245 lauu1247 toab1237 bael1237 baeg1237 area1240 oroh1237 dori1246,,dplace-dataset-carneiro
+CARNEIRO_C31,Nama,-26,18,nama1265,Nama Hottentots,,,,Khoi (FX13),,,,,,Southern Africa,society,nama1264,,dplace-dataset-carneiro
+CARNEIRO_C32,Navajo,36.5,-110,nava1243,Navajo,,,1850,Navajo (NT13),,,,,,Southwestern U.S.A.,society,nava1243,,dplace-dataset-carneiro
+CARNEIRO_C34,Manobo,8,126,agus1235,Manóbo,,,,,,,,,,Malesia,society,agus1235,,dplace-dataset-carneiro
+CARNEIRO_C35,Atayal,24,121,atay1247,Atayal,,,,Atayal (AD08),,,,,,Eastern Asia,society,atay1247,,dplace-dataset-carneiro
+CARNEIRO_C36,Toda,12,77,toda1252,Toda,,,,Toda (AW60),,,,,,Indian Subcontinent,society,toda1252,,dplace-dataset-carneiro
+CARNEIRO_C37,Nuer,8,32,nuer1246,Nuer,,,,Nuer (FJ22),,,,,,Northeast Tropical Africa,society,nuer1246,,dplace-dataset-carneiro
+CARNEIRO_C38,Tolowa,42,-124,tolo1259,Tolowa,,,,,,,,,,Northwestern U.S.A.,society,tolo1259,,dplace-dataset-carneiro
+CARNEIRO_C40,Omaha,41,-96,omah1248,Omaha,,,,Omaha (NQ21),,,,,,North-Central U.S.A.,society,omah1247,,dplace-dataset-carneiro
+CARNEIRO_C41,Delaware,41,-75,unam1242,Delaware,,,,Delaware (NM07),,,,,,Northeastern U.S.A.,society,unam1242,,dplace-dataset-carneiro
+CARNEIRO_C42,Tupinambá,-22.81,-42.11,tupi1273,Tupinambá,,,,Tupinamba (SO09),,,,,,Brazil,society,tupi1273,,dplace-dataset-carneiro
+CARNEIRO_C43,Chachi,1,-79,chac1249,Cayapa,,,,Chachi (SD06),,,,,,Western South America,society,chac1249,,dplace-dataset-carneiro
+CARNEIRO_C45,Kutenai,50,-117,kute1249,Kutenai,,,,Kutenai (NF08),,,,,,Western Canada,society,kute1249,,dplace-dataset-carneiro
+CARNEIRO_C46,Tehuelche,-46,-70,tehu1242,Tehuelche,,,,Tehuelche (SH05),,,,,,Southern South America,society,tehu1242,,dplace-dataset-carneiro
+CARNEIRO_C47,Abipón,-29,-61,abip1241,Abipones,,,,Abipón (SI04),,,,,,Southern South America,society,abip1241,,dplace-dataset-carneiro
+CARNEIRO_C48,Guaraní,-23.5,-56.5,tupi1282,Guaraní,,,,Guaraní (SM04),,,,"Guaraní in Paraguay, but not clear wheter closer to Paraguayan Guaraní (para1311) or Mbyá Guaraní (mbya1239)",,Southern South America,society,mbya1239 chir1286 para1311 pait1247 kaiw1246,,dplace-dataset-carneiro
+CARNEIRO_C49,Blackfoot,51,-112,pieg1239,Blackfoot,,,1800,Blackfoot (NF06),,,,,,Western Canada,society,siks1238,,dplace-dataset-carneiro
+CARNEIRO_C50,Ticuna,-3,-70,ticu1245,Tukuna,,,,Ticuna (SQ20),,,,,,Western South America,society,ticu1245,,dplace-dataset-carneiro
+CARNEIRO_C51,Kuikuru,-13,-54,kuik1246,Kuikuru,,,,,,,,,,Brazil,society,kuik1246,,dplace-dataset-carneiro
+CARNEIRO_C52,Cubeo,1,-71,cube1242,Cubeo,,,,Tucano (SQ19),,,,,,Western South America,society,cube1242,,dplace-dataset-carneiro
+CARNEIRO_C53,Havasupai,36,-112,hava1249,Havasupai,,,1870,Havasupai (NT14),,,,,,Southwestern U.S.A.,society,hava1248,,dplace-dataset-carneiro
+CARNEIRO_C54,Aeta,15.23,120.16,boto1242,Zambales Negrito,,,,,,,,,,Malesia,society,boto1242,,dplace-dataset-carneiro
+CARNEIRO_C55,Yanomami,2,-65,yano1261,Yanomamö,,,,Yanoama (SQ18),,,,,,Northern South America,society,yano1261,,dplace-dataset-carneiro
+CARNEIRO_C56,Shavante,-14,-52,xava1240,Shavante,,,,Xavante (SP26),,,,,,Brazil,society,xava1240,,dplace-dataset-carneiro
+CARNEIRO_C57,Barama River Carib,5,-59,mura1272,Barama River Caribs,,,,Barama River Carib (SR09),,,,,,Northern South America,society,gali1262,,dplace-dataset-carneiro
+CARNEIRO_C58,Chippewa,47.35,-94.27,chip1241,Chippewa (Northcentral Minnesota),,,,Ojibwa (NG06),,,,"Coordinates from glottolog chip1241, cross-id to Minnesota Ojibwa (EA Na36)",,North-Central U.S.A.,society,chip1241,,dplace-dataset-carneiro
+CARNEIRO_C59,Lengua,-23,-59,nort2971,Lengua,,,,Enxet And Enlhet (SK15),,,,,,Southern South America,society,nort2971,,dplace-dataset-carneiro
+CARNEIRO_C60,Karankawa,29,-96,kara1289,Karankawa,,,,,,,,,,South-Central U.S.A.,society,kara1289,,dplace-dataset-carneiro
+CARNEIRO_C61,"Yolngu, Dhuwal",-12.48,135.96,dhuw1249,Murngin,,,,Yolngu (OI17),,,,,,Australia,society,dhuw1249,,dplace-dataset-carneiro
+CARNEIRO_C62,Tasiilaq,66,-37,tunu1234,Ammassalik Eskimo,,,,,,,,,,Subarctic America,society,tunu1234,,dplace-dataset-carneiro
+CARNEIRO_C63,Amahuaca,-10,-72,amah1246,Amahuaca,,,,Amahuaca (SE06),,,,,,Brazil,society,amah1246,,dplace-dataset-carneiro
+CARNEIRO_C64,Andamanese,12,93,akab1249,Andamanese,,,,Andamans (AZ02),,,,,,Indo-China,society,akab1249,,dplace-dataset-carneiro
+CARNEIRO_C65,Vedda,8,81,vedd1240,Vedda,,,,Vedda (AX05),,,,,,Indian Subcontinent,society,vedd1240,,dplace-dataset-carneiro
+CARNEIRO_C66,Pitjantjatjara,-26,130,pitj1243,Pitjantjatjara,,,,,,,,,,Australia,society,pitj1243,,dplace-dataset-carneiro
+CARNEIRO_C67,!Kung,-20,21,juho1239,Bushmen (NW groups),,,,San (FX10),,,,,,Southern Africa,society,juho1239,,dplace-dataset-carneiro
+CARNEIRO_C68,Semang,5,101,kens1248,Semang,,,,Semang (AN07),,,,,,Malesia,society,kens1248,,dplace-dataset-carneiro
+CARNEIRO_C69,Sirionó,-16,-64,siri1273,Sirionó,,,,Sirionó (SF21),,,,,,Western South America,society,siri1273,,dplace-dataset-carneiro
+CARNEIRO_C70,Ona,-54,-69,onaa1245,Ona,,,,Ona (SH04),,,,,,Southern South America,society,onaa1245,,dplace-dataset-carneiro
+CARNEIRO_C71,Tasmanians,-42,146,port1278,Tasmanians,,,,Tasmanians (OI19),,,,"Not specified whether ""Northwestern (xd783)"" or ""Southeastern (xd980)"", but matched to EA - Tasmanians (Id8) (xd783)",,Australia,society,port1278,,dplace-dataset-carneiro
+CARNEIRO_C72,Alacaluf,-52,-74,qawa1238,Alacaluf,,,,,,,,,,Southern South America,society,qawa1238,,dplace-dataset-carneiro
+CARNEIRO_C73,Zulu,-29,31,zulu1248,Zulu (Tsaka Classic),,,,Zulu (FX20),,,,,,Southern Africa,society,zulu1248,,dplace-dataset-carneiro
+CARNEIRO_C74,Eauripik,6.69,143.04,wole1240,Eauripik,,,,,,,,,,Northwestern Pacific,society,wole1240,,dplace-dataset-carneiro
+CARNEIRO_C75,Klallam,48,-123,clal1241,Klallam,,,,,,,,,,Northwestern U.S.A.,society,clal1241,,dplace-dataset-carneiro
+CARNEIRO_C76,Seri,29,-112,seri1257,Seri,,,,Seri (NU31),,,,,,Mexico,society,seri1257,,dplace-dataset-carneiro
+CARNEIRO_C77,Agta (Casiguran),17.33,122.13,casi1235,Agta (NE Luzon),,,,,,,,The main source (Tom N. Headland) studied Casiguran Agta,,Malesia,society,casi1235,,dplace-dataset-carneiro
+CARNEIRO_C78,Dene,60,-105,chip1261,Chipewyan,,,,Chipewyans (ND07),,,,,,Subarctic America,society,chip1261,,dplace-dataset-carneiro
 CCMCabkh1244,Abkhaz,43.056218,41.159115,abkh1244,,,,,,,,,,,Caucasus,society,abkh1244,,dplace-dataset-ccmc
 CCMCacol1236,Acoli,3.57738,32.5147,acol1236,,,,,,,,,,,East Tropical Africa,society,acol1236,,dplace-dataset-ccmc
 CCMCafar1241,Afar,12.2281,41.8083,afar1241,,,,,,,,,,,Northeast Tropical Africa,society,afar1241,,dplace-dataset-ccmc
@@ -352,7 +424,7 @@ CCMCamis1246,Amis,23.0917,121.348,amis1246,,,,,,,,,,,Eastern Asia,society,amis12
 CCMCanga1288,Angami Naga,25.6841,93.8668,anga1288,,,,,,,,,,,Indian Subcontinent,society,anga1288,,dplace-dataset-ccmc
 CCMCanta1255,Antankarana Malagasy,-13.2164,49.2402,anta1255,,,,,,,,,,,Western Indian Ocean,society,anta1255,,dplace-dataset-ccmc
 CCMCanti1245,Antigua and Barbuda Creole English,17.068263,-61.821863,anti1245,,,,,,,,,,,Caribbean,society,anti1245,,dplace-dataset-ccmc
-CCMCarab1395,Arabic,28.54883209863231,33.89900988007798,arab1395,,,,,,,,,,,Western Asia,society,stan1318 east2690 said1239 egyp1253 chad1249 suda1236 nubi1253 suda1237 meso1252 taji1248 uzbe1248 khor1274 nort3142 jude1266 hadr1236 hija1235 taiz1242 shih1239 oman1239 baha1259 najd1235 dhof1235 gulf1241 jude1267 sana1295 nort3139 cypr1248 jude1265 alge1239 liby1240 alge1240 hass1238 jude1264 malt1254 tuni1259 anda1287 moro1292,,dplace-dataset-ccmc
+CCMCarab1395,Arabic,28.507551830840796,33.4868100331096,arab1395,,,,,,,,,,,Western Asia,society,stan1318 east2690 said1239 egyp1253 chad1249 suda1236 nubi1253 suda1237 meso1252 taji1248 uzbe1248 khor1274 nort3142 jude1266 hadr1236 hija1235 taiz1242 oman1239 baha1259 najd1235 gulf1241 dhof1235 shih1239 jude1267 sana1295 nort3139 cypr1248 jude1265 alge1239 liby1240 alge1240 hass1238 jude1264 malt1254 tuni1259 anda1287 moro1292,,dplace-dataset-ccmc
 CCMCarhu1242,Arhuaco,10.7018,-73.6363,arhu1242,,,,,,,,,,,Western South America,society,arhu1242,,dplace-dataset-ccmc
 CCMCarom1237,Aromanian,40.616,21.2,arom1237,,,,,,,,,,,Southeastern Europe,society,arom1237,,dplace-dataset-ccmc
 CCMCatay1247,Atayal,24.5209,121.388,atay1247,,,,,,,,,,,Eastern Asia,society,atay1247,,dplace-dataset-ccmc
@@ -475,7 +547,7 @@ CCMCjamb1236,Jambi Malay,-2.6469,103.13,jamb1236,,,,,,,,,,,Malesia,society,jamb1
 CCMCjaun1243,Jaunsari,30.5587,77.9084,jaun1243,,,,,,,,,,,Indian Subcontinent,society,jaun1243,,dplace-dataset-ccmc
 CCMCjava1254,Javanese,-7.001,109.287,java1254,,,,,,,,,,,Malesia,society,java1254,,dplace-dataset-ccmc
 CCMCjeha1242,Jehai,5.63695,101.541,jeha1242,,,,,,,,,,,Malesia,society,jeha1242,,dplace-dataset-ccmc
-CCMCjiva1245,Chicham,-4.361705000000001,-77.8664,jiva1245,,,,,,,,,,,Western South America,society,agua1253 achu1248 shua1257 huam1247,,dplace-dataset-ccmc
+CCMCjiva1245,Chicham,-4.2871412499999995,-77.79803749999999,jiva1245,,,,,,,,,,,Western South America,society,agua1253 achu1248 shua1257 huam1247,,dplace-dataset-ccmc
 CCMCjola1263,Jola-Fonyi,12.75752,-15.7354766667,jola1263,,,,,,,,,,,West Tropical Africa,society,jola1263,,dplace-dataset-ccmc
 CCMCjuho1239,South-Eastern Ju,-19.688,20.7673,juho1239,,,,,,,,,,,Southern Africa,society,juho1239,,dplace-dataset-ccmc
 CCMCjuru1256,Jurúna,-10.9354,-53.3472,juru1256,,,,,,,,,,,Brazil,society,juru1256,,dplace-dataset-ccmc
@@ -591,7 +663,7 @@ CCMCnort3139,Levantine Arabic,34.1709,36.0468,nort3139,,,,,,,,,,,Western Asia,so
 CCMCnort3233,Northern Sotho,-23.136205,28.3879725,nort3233,,,,,,,,,,,Southern Africa,society,birw1238 tswa1237 pedi1238,,dplace-dataset-ccmc
 CCMCnorw1258,Norwegian,59.92,10.71,norw1258,,,,,,,,,,,Northern Europe,society,norw1258,,dplace-dataset-ccmc
 CCMCnsen1242,Nsenga,-15.3946,31.3544,nsen1242,,,,,,,,,,,South Tropical Africa,society,nsen1242,,dplace-dataset-ccmc
-CCMCnubi1251,Nubian,17.908792074263246,29.90375360897506,nubi1251,,,,,,,,,,,Northeast Tropical Africa,society,mido1240 birk1242 kenu1236 hara1258 ghul1238 dair1239 kada1282 dill1242 kark1256 elhu1238 wali1262 nobi1240 oldn1245,,dplace-dataset-ccmc
+CCMCnubi1251,Nubian,16.34286500615588,29.126707595234738,nubi1251,,,,,,,,,,,Northeast Tropical Africa,society,mido1240 kenu1236 nobi1240 oldn1245 birk1242 hara1258 ghul1238 dair1239 kada1282 dill1242 kark1256 elhu1238 wali1262,,dplace-dataset-ccmc
 CCMCnucl1235,Eastern Armenian,40.0,45.0,nucl1235,,,,,,,,,,,Caucasus,society,nucl1235,,dplace-dataset-ccmc
 CCMCnucl1301,Turkish,39.8667,32.8667,nucl1301,,,,,,,,,,,Western Asia,society,nucl1301,,dplace-dataset-ccmc
 CCMCnucl1302,Georgian,41.850397,43.78613,nucl1302,,,,,,,,,,,Caucasus,society,nucl1302,,dplace-dataset-ccmc
@@ -670,7 +742,7 @@ CCMCsout2866,South Marquesan,-9.75663,-138.979,sout2866,,,,,,,,,,,South-Central 
 CCMCsout2922,Southern Land Dayak,0.07422495268254246,110.45539075831692,sout2922,,,,,,,,,,,Malesia,society,jang1257 sema1269 kemb1249 ribu1241 sang1339,,dplace-dataset-ccmc
 CCMCsout2991,South Bolivian Quechua,-20.9201,-66.3331,sout2991,,,,,,,,,,,Western South America,society,sout2991,,dplace-dataset-ccmc
 CCMCsout2996,Southern Aymara,-17.1417,-70.3442,sout2996,,,,,,,,,,,Western South America,society,sout2996,,dplace-dataset-ccmc
-CCMCsout3184,Southwestern Tai,18.874401235217768,100.49567614976544,sout3184,,,,,,,,,,,Indo-China,society,laoo1244 thai1261 sout2746 nort2741 yoyy1238 phua1239 phut1244 taiy1242 ahom1240 tail1247 khun1259 nort2740 kham1291 turu1249 kham1290 aito1238 phak1238 tail1248 shan1277 tain1252 taih1246 thai1259 taid1247 luuu1242 yong1277 taid1249 tayt1241 taip1250 taid1248 taid1250 tait1248 padi1241,,dplace-dataset-ccmc
+CCMCsout3184,Southwestern Tai,18.06248191048901,102.32684699422616,sout3184,,,,,,,,,,,Indo-China,society,laoo1244 thai1261 sout2746 nort2741 yoyy1238 phua1239 phut1244 tayk1238 kuan1246 shan1277 khun1259 nort2740 taiy1242 taih1246 ahom1240 turu1249 tail1248 phak1238 aito1238 tain1252 luuu1242 yong1277 kham1291 kham1290 thai1259 taid1247 taid1249 tayt1241 taip1250 taid1248 taid1250 tait1248 padi1241,,dplace-dataset-ccmc
 CCMCstan1288,Spanish,40.4414,-1.11788,stan1288,,,,,,,,,,,Southwestern Europe,society,stan1288,,dplace-dataset-ccmc
 CCMCstan1290,French,48.0,2.0,stan1290,,,,,,,,,,,Southwestern Europe,society,stan1290,,dplace-dataset-ccmc
 CCMCstan1293,English,53.0,-1.0,stan1293,,,,,,,,,,,Northern Europe,society,stan1293,,dplace-dataset-ccmc
@@ -2406,22 +2478,22 @@ chib1270,Chibcha,6.24999,-74.1666,chib1270,,,,,,,,,,,,languoid,,chb,chib1249
 cent2150,Central Tunebo,6.8867,-72.097,cent2150,,,,,,,,,,,,languoid,,tuf,chib1249
 cogu1240,Cogui,10.9485,-73.8043,cogu1240,,,,,,,,,,,,languoid,,kog,chib1249
 arhu1242,Arhuaco,10.7018,-73.6363,arhu1242,,,,,,,,,,,,languoid,,arh,chib1249
+kara1464,Karaim,54.5534,25.1054,kara1464,,,,,,,,,,,,languoid,,kdr,turk1311
+kumy1244,Kumyk,43.0,47.0,kumy1244,,,,,,,,,,,,languoid,,kum,turk1311
 bash1264,Bashkir,53.59671,56.55937,bash1264,,,,,,,,,,,,languoid,,bak,turk1311
 tata1255,Tatar,55.79592,49.11577,tata1255,,,,,,,,,,,,languoid,,tat,turk1311
 kara1467,Kara-Kalpak,39.98005,63.32233,kara1467,,,,,,,,,,,,languoid,,kaa,turk1311
 kaza1248,Kazakh,51.17,71.454,kaza1248,,,,,,,,,,,,languoid,,kaz,turk1311
-kara1464,Karaim,54.5534,25.1054,kara1464,,,,,,,,,,,,languoid,,kdr,turk1311
-kumy1244,Kumyk,43.0,47.0,kumy1244,,,,,,,,,,,,languoid,,kum,turk1311
 kirg1245,Kirghiz,42.0,74.0,kirg1245,,,,,,,,,,,,languoid,,kir,turk1311
-tuvi1240,Tuvinian,51.7,94.36667,tuvi1240,,,,,,,,,,,,languoid,,tyv,turk1311
-yaku1245,Sakha,61.69744,133.98031,yaku1245,,,,,,,,,,,,languoid,,sah,turk1311
+uigh1240,Uighur,43.88,87.38,uigh1240,,,,,,,,,,,,languoid,,uig,turk1311
+nort2690,Northern Uzbek,40.886,69.211,nort2690,,,,,,,,,,,,languoid,,uzn,turk1311
 qash1240,Qashqa'i,28.25931,52.83349,qash1240,,,,,,,,,,,,languoid,,qxq,turk1311
 gaga1249,Gagauz,44.59876,28.02769,gaga1249,,,,,,,,,,,,languoid,,gag,turk1311
 nucl1301,Turkish,39.8667,32.8667,nucl1301,,,,,,,,,,,,languoid,,tur,turk1311
 nort2697,North Azerbaijani,40.97768,46.4737,nort2697,,,,,,,,,,,,languoid,,azj,turk1311
 turk1304,Turkmen,37.08719,59.17574,turk1304,,,,,,,,,,,,languoid,,tuk,turk1311
-uigh1240,Uighur,43.88,87.38,uigh1240,,,,,,,,,,,,languoid,,uig,turk1311
-nort2690,Northern Uzbek,40.886,69.211,nort2690,,,,,,,,,,,,languoid,,uzn,turk1311
+yaku1245,Sakha,61.69744,133.98031,yaku1245,,,,,,,,,,,,languoid,,sah,turk1311
+tuvi1240,Tuvinian,51.7,94.36667,tuvi1240,,,,,,,,,,,,languoid,,tyv,turk1311
 chuv1255,Chuvash,55.48701,47.16298,chuv1255,,,,,,,,,,,,languoid,,chv,turk1311
 kane1243,Kanembu,13.8749,14.8437,kane1243,,,,,,,,,,,,languoid,,kbl,saha1256
 cent2050,Central Kanuri,11.8,13.13,cent2050,,,,,,,,,,,,languoid,,knc,saha1256
@@ -2529,6 +2601,7 @@ nucl1235,Eastern Armenian,40.0,45.0,nucl1235,,,,,,,,,,,,languoid,,hye,indo1319
 iris1253,Irish,53.2186,-7.61509,iris1253,,,,,,,,,,,,languoid,,gle,indo1319
 scot1245,Scottish Gaelic,56.7574,-5.24366,scot1245,,,,,,,,,,,,languoid,,gla,indo1319
 norw1258,Norwegian,59.92,10.71,norw1258,,,,,,,,,,,,languoid,,nor,indo1319
+oldn1244,Old Norse,63.42,10.38,oldn1244,,,,,,,,,,,,languoid,,non,indo1319
 icel1247,Icelandic,63.4837,-19.0212,icel1247,,,,,,,,,,,,languoid,,isl,indo1319
 swed1254,Swedish,59.800634,17.389526,swed1254,,,,,,,,,,,,languoid,,swe,indo1319
 dani1285,Danish,54.8655,9.36284,dani1285,,,,,,,,,,,,languoid,,dan,indo1319
@@ -2546,6 +2619,7 @@ jama1262,Jamaican Creole English,18.13,-77.2612,jama1262,,,,,,,,,,,,languoid,,ja
 sara1340,Saramaccan,4.54729,-54.0238,sara1340,,,,,,,,,,,,languoid,,srm,indo1319
 ndyu1242,Aukan,4.3126,-54.6419,ndyu1242,,,,,,,,,,,,languoid,,djk,indo1319
 tokp1240,Tok Pisin,-9.41971,147.303,tokp1240,,,,,,,,,,,,languoid,,tpi,indo1319
+anci1242,Ionic-Attic Ancient Greek,39.8155,21.9129,anci1242,,,,,,,,,,,,languoid,,grc,indo1319
 mode1248,Modern Greek,38.36,23.13,mode1248,,,,,,,,,,,,languoid,,ell,indo1319
 lati1261,Latin,41.9026,12.4502,lati1261,,,,,,,,,,,,languoid,,lat,indo1319
 arom1237,Aromanian,40.616,21.2,arom1237,,,,,,,,,,,,languoid,,rup,indo1319
@@ -2803,8 +2877,8 @@ udih1248,Udihe,46.63086,135.67762,udih1248,,,,,,,,,,,,languoid,,ude,tung1282
 manc1252,Manchu,47.31225,126.55713,manc1252,,,,,,,,,,,,languoid,,mnc,tung1282
 bell1243,Bella Coola,52.3448,-126.689,bell1243,,,,,,,,,,,,languoid,,blc,sali1255
 como1259,Comox,49.7233,-124.967,como1259,,,,,,,,,,,,languoid,,coo,sali1255
-halk1245,Halkomelem,49.250402,-122.443668,halk1245,,,,,,,,,,,,languoid,,hur,sali1255
 pent1242,Pentlatch,49.1936,-124.689,pent1242,,,,,,,,,,,,languoid,,ptw,sali1255
+halk1245,Halkomelem,49.250402,-122.443668,halk1245,,,,,,,,,,,,languoid,,hur,sali1255
 squa1248,Squamish,49.3231,-123.014,squa1248,,,,,,,,,,,,languoid,,squ,sali1255
 clal1241,Clallam,48.0707,-123.511,clal1241,,,,,,,,,,,,languoid,,clm,sali1255
 stra1244,Northern Straits Salish,48.51614,-123.757114,stra1244,,,,,,,,,,,,languoid,,str,sali1255
@@ -2895,9 +2969,9 @@ nort2952,Northeast Maidu,40.4102,-120.645,nort2952,,,,,,,,,,,,languoid,,nmu,maid
 nort2951,Northwest Maidu,39.6721,-121.368,nort2951,,,,,,,,,,,,languoid,,mjd,maid1262
 vall1252,Valley Maidu,39.8078,-121.191,vall1252,,,,,,,,,,,,languoid,,vmv,maid1262
 mand1446,Mandan,46.83,-101.0,mand1446,,,,,,,,,,,,languoid,,mhq,siou1252
-assi1247,Assiniboine,49.2923,-106.068,assi1247,,,,,,,,,,,,languoid,,asb,siou1252
 dako1258,Dakota,45.86,-96.58,dako1258,,,,,,,,,,,,languoid,,dak,siou1252
 lako1247,Lakota,46.3699,-103.95,lako1247,,,,,,,,,,,,languoid,,lkt,siou1252
+assi1247,Assiniboine,49.2923,-106.068,assi1247,,,,,,,,,,,,languoid,,asb,siou1252
 hoch1243,Ho-Chunk,43.5,-88.5,hoch1243,,,,,,,,,,,,languoid,,win,siou1252
 iowa1245,Iowa-Oto,40.0511,-95.5213,iowa1245,,,,,,,,,,,,languoid,,iow,siou1252
 omah1247,Omaha-Ponca,42.0944,-96.5295,omah1247,,,,,,,,,,,,languoid,,oma,siou1252
@@ -2970,9 +3044,9 @@ dime1235,Dime,6.20951,36.3329,dime1235,,,,,,,,,,,,languoid,,dim,sout2845
 chac1251,Chácobo,-12.133,-66.7164,chac1251,,,,,,,,,,,,languoid,,cao,pano1259
 ship1254,Shipibo-Conibo,-7.17105,-74.8219,ship1254,,,,,,,,,,,,languoid,,shp,pano1259
 amah1246,Amahuaca,-10.2012,-72.3208,amah1246,,,,,,,,,,,,languoid,,amc,pano1259
-kenu1236,Kenuzi-Dongola,21.2837,31.8992,kenu1236,,,,,,,,,,,,languoid,,kzh,nubi1251
-dill1242,Dilling,12.0347,29.6056,dill1242,,,,,,,,,,,,languoid,,dil,nubi1251
 mido1240,Midob,14.789,27.2236,mido1240,,,,,,,,,,,,languoid,,mei,nubi1251
+dill1242,Dilling,12.0347,29.6056,dill1242,,,,,,,,,,,,languoid,,dil,nubi1251
+kenu1236,Kenuzi-Dongola,21.2837,31.8992,kenu1236,,,,,,,,,,,,languoid,,kzh,nubi1251
 nina1238,Ninam,4.03894,-62.7801,nina1238,,,,,,,,,,,,languoid,,shb,yano1268
 yano1261,Yanomamö,1.67967,-64.8781,yano1261,,,,,,,,,,,,languoid,,guu,yano1268
 yano1262,Yanomám,2.48999,-62.8522,yano1262,,,,,,,,,,,,languoid,,wca,yano1268
@@ -2992,6 +3066,8 @@ sian1257,Siane,-6.13188,145.247,sian1257,,,,,,,,,,,,languoid,,snp,nucl1709
 eipo1242,Eipomek,-4.33691,140.045,eipo1242,,,,,,,,,,,,languoid,,eip,nucl1709
 ekar1243,Ekari,-3.88974,136.018,ekar1243,,,,,,,,,,,,languoid,,ekg,nucl1709
 bunu1267,Bunun,23.4116,121.025,bunu1267,,,,,,,,,,,,languoid,,bnn,aust1307
+bali1278,Balinese,-8.35714,115.075,bali1278,,,,,,,,,,,,languoid,,ban,aust1307
+sumb1241,Sumbawa,-8.71919,117.472,sumb1241,,,,,,,,,,,,languoid,,smw,aust1307
 lioo1240,Li'o,-8.68615,121.832,lioo1240,,,,,,,,,,,,languoid,,ljl,aust1307
 mang1405,Manggarai,-8.55748,120.329,mang1405,,,,,,,,,,,,languoid,,mqy,aust1307
 kamb1299,Kambera,-9.88447,120.235,kamb1299,,,,,,,,,,,,languoid,,xbr,aust1307
@@ -3015,11 +3091,11 @@ rapa1244,Rapanui,-27.113,-109.342,rapa1244,,,,,,,,,,,,languoid,,rap,aust1307
 nort2845,North Marquesan,-8.89412,-140.108,nort2845,,,,,,,,,,,,languoid,,mrq,aust1307
 sout2866,South Marquesan,-9.75663,-138.979,sout2866,,,,,,,,,,,,languoid,,mqm,aust1307
 hawa1245,Hawaiian,19.6297,-155.43,hawa1245,,,,,,,,,,,,languoid,,haw,aust1307
-maor1246,Maori,-38.2881,176.541,maor1246,,,,,,,,,,,,languoid,,mri,aust1307
 penr1237,Māngarongaro,-9.082238,-157.922908,penr1237,,,,,,,,,,,,languoid,,pnh,aust1307
 raka1237,Rakahanga-Manihiki,-10.03,-161.09,raka1237,,,,,,,,,,,,languoid,,rkh,aust1307
 raro1241,Southern Cook Island Maori,-21.23,-159.78,raro1241,,,,,,,,,,,,languoid,,rar,aust1307
 tuam1242,Tuamotuan,-16.17259,-146.321755,tuam1242,,,,,,,,,,,,languoid,,pmt,aust1307
+maor1246,Maori,-38.2881,176.541,maor1246,,,,,,,,,,,,languoid,,mri,aust1307
 tahi1242,Tahitian,-17.6485,-149.45,tahi1242,,,,,,,,,,,,languoid,,tah,aust1307
 onto1237,Luangiua,-5.49029,159.701,onto1237,,,,,,,,,,,,languoid,,ojv,aust1307
 renn1242,Rennell-Bellona,-11.6237,160.265,renn1242,,,,,,,,,,,,languoid,,mnv,aust1307
@@ -3085,6 +3161,16 @@ tagb1258,Tagbanwa,9.54263,118.497,tagb1258,,,,,,,,,,,,languoid,,tbw,aust1307
 bata1301,Batak,10.1115,119.025,bata1301,,,,,,,,,,,,languoid,,bya,aust1307
 hanu1241,Hanunoo,12.4159,121.221,hanu1241,,,,,,,,,,,,languoid,,hnn,aust1307
 cent2089,Central Subanen,8.12701,123.018,cent2089,,,,,,,,,,,,languoid,,syb,aust1307
+jamb1236,Jambi Malay,-2.6469,103.13,jamb1236,,,,,,,,,,,,languoid,,jax,aust1307
+mina1268,Minangkabau,-0.896,100.44,mina1268,,,,,,,,,,,,languoid,,min,aust1307
+nege1240,Negeri Sembilan Malay,2.66503,102.291,nege1240,,,,,,,,,,,,languoid,,zmi,aust1307
+kubu1239,Kubu,-2.42661,102.193,kubu1239,,,,,,,,,,,,languoid,,kvb,aust1307
+mala1479,Central Malay,1.85856,103.0,mala1479,,,,,,,,,,,,languoid,,zlm,aust1307
+indo1316,Standard Indonesian,-7.33458,109.716,indo1316,,,,,,,,,,,,languoid,,ind,aust1307
+ambo1250,Ambonese Malay,-3.71342,128.184,ambo1250,,,,,,,,,,,,languoid,,abs,aust1307
+iban1264,Iban,2.09041,112.934,iban1264,,,,,,,,,,,,languoid,,iba,aust1307
+east2563,Eastern Cham,11.2853,108.49,east2563,,,,,,,,,,,,languoid,,cjm,aust1307
+rade1240,Rade,12.979,108.41,rade1240,,,,,,,,,,,,languoid,,rad,aust1307
 kela1258,Kelabit,3.31783,115.428,kela1258,,,,,,,,,,,,languoid,,kzi,aust1307
 west2563,Western Penan,3.4667,114.523,west2563,,,,,,,,,,,,languoid,,pne,aust1307
 puna1275,Punan Bah-Biau,2.27377,113.156,puna1275,,,,,,,,,,,,languoid,,pna,aust1307
@@ -3119,18 +3205,6 @@ pamo1252,Pamona,-1.62663,121.268,pamo1252,,,,,,,,,,,,languoid,,pmf,aust1307
 boto1242,Botolan Sambal,15.2315,120.164,boto1242,,,,,,,,,,,,languoid,,sbl,aust1307
 kema1243,Kemak,-9.00299,125.159,kema1243,,,,,,,,,,,,languoid,,kem,aust1307
 java1254,Javanese,-7.001,109.287,java1254,,,,,,,,,,,,languoid,,jav,aust1307
-bali1278,Balinese,-8.35714,115.075,bali1278,,,,,,,,,,,,languoid,,ban,aust1307
-sumb1241,Sumbawa,-8.71919,117.472,sumb1241,,,,,,,,,,,,languoid,,smw,aust1307
-jamb1236,Jambi Malay,-2.6469,103.13,jamb1236,,,,,,,,,,,,languoid,,jax,aust1307
-mina1268,Minangkabau,-0.896,100.44,mina1268,,,,,,,,,,,,languoid,,min,aust1307
-nege1240,Negeri Sembilan Malay,2.66503,102.291,nege1240,,,,,,,,,,,,languoid,,zmi,aust1307
-kubu1239,Kubu,-2.42661,102.193,kubu1239,,,,,,,,,,,,languoid,,kvb,aust1307
-mala1479,Central Malay,1.85856,103.0,mala1479,,,,,,,,,,,,languoid,,zlm,aust1307
-indo1316,Standard Indonesian,-7.33458,109.716,indo1316,,,,,,,,,,,,languoid,,ind,aust1307
-ambo1250,Ambonese Malay,-3.71342,128.184,ambo1250,,,,,,,,,,,,languoid,,abs,aust1307
-iban1264,Iban,2.09041,112.934,iban1264,,,,,,,,,,,,languoid,,iba,aust1307
-east2563,Eastern Cham,11.2853,108.49,east2563,,,,,,,,,,,,languoid,,cjm,aust1307
-rade1240,Rade,12.979,108.41,rade1240,,,,,,,,,,,,languoid,,rad,aust1307
 moke1242,Moken,10.1474,98.6765,moke1242,,,,,,,,,,,,languoid,,mwt,aust1307
 maka1311,Makasar,-5.65551,119.838,maka1311,,,,,,,,,,,,languoid,,mak,aust1307
 keii1239,Kei,-5.63948,133.02,keii1239,,,,,,,,,,,,languoid,,kei,aust1307
@@ -3525,6 +3599,7 @@ rakh1245,Rakhine,20.527429,93.145906,rakh1245,,,,,,,,,,,,languoid,,rki,sino1245
 pwow1235,Pwo Western Karen,17.3622,97.7044,pwow1235,,,,,,,,,,,,languoid,,pwo,sino1245
 cent2004,Central Bai,26.1666,99.7052,cent2004,,,,,,,,,,,,languoid,,bca,sino1245
 bori1243,Bori-Karko,27.62812,94.3538,bori1243,,,,,,,,,,,,languoid,,adi,sino1245
+mruu1242,Mru,21.472,92.318,mruu1242,,,,,,,,,,,,languoid,,mro,sino1245
 chuk1273,Chukchi,68.6436,170.045,chuk1273,,,,,,,,,,,,languoid,,ckt,chuk1271
 kory1246,Koryak,63.8977,166.695,kory1246,,,,,,,,,,,,languoid,,kpy,chuk1271
 itel1242,West Itelmen,56.046173,156.30704,itel1242,,,,,,,,,,,,languoid,,itl,chuk1271

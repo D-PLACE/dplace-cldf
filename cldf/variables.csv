@@ -39,6 +39,624 @@ B039,"Height (male, mm)",Stature (mm) - Male,"{""datatype"": ""decimal""}",Anthr
 B040,"Height (female, mm)",Stature (mm) - Female,"{""datatype"": ""decimal""}",Anthropometry,Continuous,mm,Binford (2001) Table 6.03; variable 'STATURE (CM*) - FEMALE' (*should be mm),,,dplace-dataset-binford
 B041,"Weight (male, kg)",Weight (kg) - Male,"{""datatype"": ""decimal""}",Anthropometry,Continuous,kg,Binford (2001) Table 6.03; variable 'WEIGHT (KG) - MALE',,,dplace-dataset-binford
 B042,"Weight (female, kg)",Weight (kg) - Female,"{""datatype"": ""decimal""}",Anthropometry,Continuous,kg,Binford (2001) Table 6.03; variable 'WEIGHT (KG) - FEMALE',,,dplace-dataset-binford
+CARNEIRO_001,Agriculture present,"Agriculture (horticulture) present (i.e., domesticated food plants cultivated)",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_002,Agriculture and domestic animals are primary subsistence,Agriculture and/or domesticated animals provide the major part of subsistence (about 75% or more),,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_003,Agricultural plots repeatedly cultivated,Agricultural plots repeatedly cultivated except for periods of fallow (if they occur),,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_004,Improved techniques of planting,"Improved techniques of planting (e.g., mounds, planting in rows, breaking of clods, plowing, fertilization)",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_005,Soil-working tools,"Soil-working tools other than the digging stick (e.g., hoe, spade, rake, foot plow)",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_006,Harvesting tools,"Harvesting tools other than a simple beating stick used in reaping or threshing domesticated plants (e.g., flail, sickle, rice header, winnowing tray)",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_007,Animal-drawn plow,Animal-drawn plow,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_008,Fertilization of land,"Fertilization of land with material other than wood ashes (e.g., animal manure, night soil, green manure, compost, fresh soil or mud)",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_009,Fences built to protect crops,Fences built around fields or gardens to protect crops,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_010,Major male contribution to agriculture,Men do as much or more of the agricultural work as women (beyond clearing),,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_011,Increasing agricultural land through drainage,Drainage employed to increase the area of available agricultural land,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_012,Irrigation of agricultural land,Irrigation of agricultural land,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_013,Permanent dams or dikes,"Permanent dams or dikes to impound water for irrigation, drinking, etc.",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_014,Terracing,Terracing (including the erection of barriers to reduce soil slippage),,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_015,Agricultural land reverted,"Agricultural land reverts to kinship group (e.g., lineage, sib), chief or tribe, king or state, as personal property or for reassignment when owner abandons the land or dies without heirs",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_016,Agricultural land reapportioned,"Most of the agricultural land systematically reapportioned from time to time by the village, chief, tribe, or state to insure equitable distribution and/or a high degree of cultivation, rather than for services rendered",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_017,Measures to promote or maintain agricultural production,"Chief, king, or other official(s) takes measures to promote or maintain agricultural production (e.g., requires land to be worked efficiently and punishes failure to do so)",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_018,Planting and harvesting times determined by specialists,Political or religious officials or other specialists determine the time of planting and harvesting,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_019,State or church provides farmers with equipment,State or church provides farmers with seed or tools for agricultural purposes,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_020,State surveying of agricultural land,State surveying of agricultural land,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_021,Regular food surplus accumulation,"Surplus of food regularly accumulated over and above the annual subsistence needs of the food producers, and not consumed by them",,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_022,Agricultural estates,Agricultural estates which regularly produce a sizable surplus of food for sale to urban centers,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_023,Cash crops,Cash crops raised entirely or largely for sale rather than for domestic consumption,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_024,Government granaries,Granaries erected by the government and food distributed from them by a government official,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_025,Domesticated animals serve as a source of food,Domesticated animals serve as a source of food (exclude the eating during famines or other unusual occasions of domesticated animals not normally used as food),,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_026,Domesticated animals used for packing,Domesticated animals used for packing,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_027,Domesticated animals used for traction,Domesticated animals used for traction,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_028,Domesticated animals used for riding,Domesticated animals used for riding,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_029,Domesticated animals kept for wool or hair,Domesticated animals kept for wool or hair,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_030,Selective breeding of domesticated animals,Selective breeding of domesticated animals,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_031,Specialized herdsmen or dairymen,Specialized herdsmen or dairymen,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_032,Fisheries or fish ponds,Fisheries or fish ponds stocked and maintained to provide a regular supply of fish for food,,Subsistence,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_033,Settlements occupied for more than 10 years,"Settlements occupied for more than 10 years, on the average (but not necessarily all year around but at least 40 percent of the year)",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_034,Settlements occupied for at least 50 years,Settlements occupied for at least 50 years (but not necessarily all year around but at least 40 percent of the year),,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_035,Settlements arranged in regular patterns,"Settlement(s) arranged in regular pattern(s), (e.g., long house, houses in rows or streets, houses built around a square or plaza)",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_036,Communities of 100 or more,Permanent communities (settled or nomadic) of about 100 or more members,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_037,Communities of 500 or more,Permanent communities (settled or nomadic) of about 500 or more members,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_038,"Towns of 2,000 or more","Towns: nucleated settlements of 2,000 or more residents",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_039,Two or more towns,Two or more towns,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_040,"City of 10,000 or more","City: administrative and commercial population center of at least 10,000 residents",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_041,Two or more cities,Two or more cities,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_042,"City of 100,000 or more","City of 100,000 or more residents",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_043,Planned cities,Planned cities,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_044,Paved streets,Paved streets,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_045,Paved sidewalks,Paved sidewalks,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_046,Paved plaza,Paved plaza (exclude patios surrounded by house walls or exclusive to individual houses),,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_047,Civic or ceremonial structures,"Civic or ceremonial structures (including mens house) not ordinarily used as dwellings by family units (excluding structures built for specific occasions and later abandoned, dismantled, or destroyed)",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_048,Permanent cemeteries,"Permanent cemeteries, where the graves of the interred are marked",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_049,Stone monuments commemorating persons or events,"Stone monuments or stelae (excluding cairns of unworked stones) to mark or commemorate important persons or events (e.g., megaliths, obelisks, triumphal arches, pyramids)",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_050,"Grandstands, theathers, amphitheaters, or stadiums","Grandstands, theathers, amphitheaters, or stadiums where spectators can witness contests or performances",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_051,Formal or landscape gardens,Formal or landscape gardens,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_052,Ornamental fountains,Ornamental fountains,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_053,Aqueducts or conduits,Aqueducts or conduits of stone or brick to supply water for domestic use,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_054,Running water piped into buildings,Running water piped into dwellings or public buildings,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_055,Rain-catching or water-holding cisterns,Cisterns: rain-catching or water-holding basins artificially lined with stone or other hard or impervious material (excluding clay),,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_056,"Baths of stone, brick, or tile","Baths of stone, brick, or tile",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_057,Drains,"Drains: lined channels, covered or uncovered, or pipes used to carry off rain or bath water",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_058,Sewers,"Sewers: lined and covered channels or pipes, primarily for carrying away human waste",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_059,Apartment houses,Apartment houses: multi-storied dwellings in which rooms are customarily rented to tenants,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_060,Permanent fortifications,"Permanent fortifications (including palisades around settlements, blockhouses, citadels, and fortified boundaries, but excluding structures whose primary purpose is not defensive, e.g., compounds, fortifications around dwellings which are normally occupied by only one or a few families)",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_061,Stone or brick fortification walls,"Walls of stone, brick, adobe, or beaten earth (including earthworks) used in fortification",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_062,Frontiers fortified with stone walls,Frontiers fortified with stone walls,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_063,Moats,Moats (excluding dry ditches but including diverted rivers) used to protect settlements or fortifications,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_064,Taverns,"Taverns, inns, or eating houses providing food, drink, and/or lodging",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_065,Brothels,Brothels,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_066,Fire brigade,Fire brigade,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_067,Well-maintained roads connecting settlements,Broad and well-maintained roads connecting settlements,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_068,Network of paved roads connecting settlements,Network of paved roads connecting settlements,,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_069,Bridges or causeways,"Bridges or causeways (excluding log spans, vine ropes, and simple pole frameworks)",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_070,Way stations or resthouses,"Way stations or resthouses, not necessarily staffed, which provide lodging for travelers",,Settlements,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_071,Rectangular ground plan for dwellings,Rectangular ground plan for dwellings,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_072,Houses occupied for at least 10 years,"Substantial houses which are lived in for at least 10 years without being permanently abandoned, dismantled, or rebuilt",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_073,House interior divided by walls or partitions,Interior space of houses permanently divided by means of walls or partitions (include lofts),,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_074,Multi-room dwellings,"Dwellings divided into three or more walled-off and separate rooms, with some degree of functional differentiation between them",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_075,Multi-family dwellings,Dwellings which customarily house four or more family units,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_076,Multi-storied structures,Multi-storied structures (not meant to include high storage platforms or lofts which do not form a complete story),,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_077,Parts of dwellings extensively painted or carved,"Walls, ceiling, roof, or other part of dwellings or other structures extensively painted or carved",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_078,Cut stone masonry,Cut stone masonry,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_079,Stone or brick bases for civic or ceremonial structures,"Cut stone or brick substructures (e. g., platforms, truncated pyramids) used as bases for civic or ceremonial structures",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_080,Dwellings of stone or brick,Dwellings (including walls) constructed of cut stone or fired brick,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_081,Civic or ceremonial buildings of stone or brick,Civic or ceremonial buildings constructed of cut stone or fired brick,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_082,Monumental architecture of stone or brick,"Monumental architecture of stone or brick (e.g., pyramids, palaces, temples, fortresses, amphitheaters, but excluding solid platforms)",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_083,Quarrying of stone for construction,Quarrying of stone for construction (rather than merely dressing loose stones),,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_084,Megalithic construction,"Megalithic construction using blocks of stone too heavy to be moved without mechanical devices such as rollers, sledges, ramps, or pulleys",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_085,Stone coursing,Stone coursing (blocks of cut stone laid in successive horizontal layers),,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_086,Rubble used between walls in stone or brick construction,Rubble or some other fill used between walls in stone or brick construction,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_087,Fired brick used in construction,Fired brick used in construction,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_088,Walls of beaten earth or adobe,Walls of beaten earth or adobe,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_089,True mortar used in construction,"True mortar (i.e., a plastic substance with a chemical bonding action) used in construction",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_090,Facing of stone or brick walls or columns,"Facing of stone or brick walls or columns with plaster, alabaster, tile, etc.",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_091,"Roof of tile, brick, dressed stone, planks, etc.","Roof of tile, brick, dressed stone, planks, etc. (i.e., not bark, mud, thatching, or similar material)",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_092,"House floors made of stone, brick, tile, wood etc.","House floors made of stone, brick, tile, flagstone, or wood (including palm and bamboo)",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_093,Stone lintels,Stone lintels,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_094,Arches of stone or brick,Arches of stone or brick (corbeled or keystone),,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_095,True arch,True (keystone) arch,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_096,Stone or brick pillars or columns used structurally,Stone or brick pillars or columns used structurally,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_097,Stone or brick stairways,"Stone or brick stairways (of cut blocks, or carved into living rock)",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_098,Buttresses used to strengthen stone or brick walls,Buttresses used to strengthen stone or brick walls,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_099,Ornamental carving of stone architectural features,"Ornamental carving of stone columns, walls, lintels, or other architectural features of stone",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_100,Architectural features cut into living rock,"Architectural features (e.g., tombs, stairways) cut into living rock",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_101,Fortresses built of stone or brick,"Fortresses built of stone or brick (including walled cities and citadels, where people take refuge in time of war)",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_102,Elaborations in fortified walls,"Elaborations in fortified walls (including, e.g., towers, salients, merlons, but excluding loopholes)",,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_103,Professional carpenters or woodworkers,Professional (full-time) carpenters or woodworkers (excluding canoemakers and thatchers),,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_104,Professional stone masons or bricklayers,Professional (full-time) stone masons or bricklayers,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_105,Professional architects or engineers,Professional (full-time) architects or engineers,,Architecture,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_106,Landed property,"Landed property: individual or familial ownership rights over improved land (e.g., cultivated plots, house sites) continue to be exercised, even if land ceases to be occupied or worked",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_107,Boundary markers to indicate private property limits,Boundary markers (excluding growing crop plants but including hedges) set up in order to indicate the limits of a piece of private property,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_108,Agricultural land commonly bought and sold,Agricultural land commonly bought and sold,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_109,Economic speculation in commodities,"Economic speculation in land, foodstuffs, or other commodities a common practice",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_110,Inscription of land or other forms of property,Inscription of land or other forms of property (registry of deeds),,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_111,Rental of land or dwellings,Rental of land or dwellings by landlords to tenants as a system of tenure,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_112,Share-cropping,Share-cropping: a system of land tenure in which the tenant (who is not a serf) pays the landlord a specific proportion or amount of the crop as rent,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_113,Leasing of land or dwellings,Leasing of land or dwellings: a formal agreement (not merely observance of custom) in which a tenants right of occupancy is guaranteed for a specified period,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_114,Serfs,"Serfs: tenants and their descendants legally bound to land which they farm for the benefit of private persons or corporate groups (e.g., feudal lords, temples, monasteries)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_115,Private or government control over natural resources,"Private ownership (not ownership by a sib or a local group) or government control exercised over scarce or limited natural resources (e.g., clay pits, clam beds, salt, water holes, mineral deposits, grove of wild fruit trees) rather than free access to them",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_116,Distinctive marks used to indicate property ownership,"Seals, brands, or other distinctive marks used to indicate ownership of manufactured property",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_117,Wealth differences among society members,"Marked differences in wealth (e.g., real property, livestock, precious metals, slaves; but excluding wives, ceremonial bundles) among members of the society (other than the difference between the principal political leader or religious specialist and everyone else)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_118,Feasts or gift-giving ceremonies showcasing wealth,"Feasts or gift-giving ceremonies in which much wealth is displayed or consumed, including those for state purposes",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_119,Recorded inventories of property owned,"Recorded inventories of property owned (e.g., with pebbles, knotted cords, notched sticks, clay tablets, ledgers)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_120,Most individual property inherited,"Most individual (not family) property owned and in the possession of a person at the time of his death (exclude property lent out and still outstanding) transmitted by inheritance rather than being buried, destroyed, or otherwise disposed of at the death of the owner",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_121,Testamentary disposition of property,"Testamentary disposition of property, by a written will, through a formal executor, or orally in the presence of a witness (excluding incorporeal property)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_122,Craft specialization,"Craft specialization: some craft(s) which only a limited number of persons in the society practice (excluding the making of religious or ceremonial objects by shamans or priests, or chiefs)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_123,Craft production for economic exchange,A significant amount of craft production primarily for economic exchange rather than for personal consumption,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_124,Full-time craft specialists,"Full-time craft specialists (e.g., brewer, lapidary, tailor, baker, tanner)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_125,Service specialization,"Service specialization: some services which only a limited number of persons in the society provide (excluding religious specialists and curers, but including clans and other groups that perform specialized services)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_126,Full-time service specialists,"Full-time service specialists other than religious practitioners (e.g., tattooer, barber, accountant, lawyer, physician)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_127,Professional barbers or hairdressers,Professional barbers or hairdressers,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_128,Professional porters or bearers,Professional porters or bearers,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_129,Full-time food production specialists,"Processing or preparation of food by full-time specialists (e.g., millers, butchers, cooks, bakers) other than household servants or slaves",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_130,Professional brewers or wine makers,Professional brewers or wine makers,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_131,Full-time clothing or shoes makers,Clothing or shoes manufactured by full-time specialists,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_132,Medium of exchange used in trade,"Medium of exchange, which is frequently used in trade for a variety of commodities",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_133,Currency,"Currency: a medium valued primarily for its use in economic exchanges rather than as an ornamental or consumable good, and which may be exchanged freely for any goods or commodities which are traded",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_134,Economic exchange in currency or money,A significant amount of economic exchange carried out by means of currency or money,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_135,Metallic currency valued according to weight,Metallic currency valued according to weight (including coins),,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_136,Two or more metals used as currency,Two or more metals of different monetary value used as currency,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_137,Coined money,Coined money,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_138,Coins of different denominations,Coins of different denominations,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_139,Animals or foodstuffs lent out at interest,"Animals, seed crops, or foodstuffs lent out at interest",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_140,Money or goods lent out at interest,Money or goods (not including animals or foodstuffs) lent out at interest,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_141,Professional moneylenders,Professional moneylenders,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_142,Banks,"Banks, which pay interest on deposits and make loans",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_143,Pledging of movable property as debt security,Pledging of items of movable property as security on a debt,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_144,Pledging of oneself or family member as debt security,Pledging of oneself or members of ones family as security on a debt,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_145,Mortgage,Mortgage: a legal instrument offering land or houses as security to guarantee the repayment of a loan,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_146,Insurance,"Insurance: protection against calamities (e.g., fire, theft, loss of merchandise at sea) offered by an underwriter for a premium",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_147,Trade between communities,Trade between communities,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_148,Economically important trade between communities or regions,Economically important trade carried out between communities or regions (including that conducted through itinerant merchants),,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_149,Economically important trade in finished goods between communities,Economically important trade in which finished goods (excluding food) are traded to other communities or societies (including exchanges conducted through itinerant merchants),,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_150,Full-time specialists in trade,Full-time specialist(s) in trade,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_151,Trading outposts,Trading outposts maintained outside the territory of the society,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_152,Markets,"Markets, in which a variety of goods are traded",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_153,Daily and permanent markets,Daily and permanent markets,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_154,Specialized urban markets,"Specialized market(s) within a town or city (e.g., fish market, cattle market, textile market, flower market)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_155,Itinerant merchants or specialized traders,"Itinerant merchants or specialized traders who are members of the society itself (rather than foreigners), and who remain such even if they trade outside the society",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_156,Sedentary merchants,Sedentary merchants who operate fixed commercial establishments outside the market area,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_157,Wholesale merchants,Wholesale merchants,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_158,Professional merchants undertake large-scale trading expeditions,Professional merchants undertake large-scale trading expeditions,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_159,Merchants form a significant segment of the society,Merchants form a significant segment of the society,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_160,Merchant class with particular rights or restrictions,"Merchants constitute a class, with prescribed advantages (e.g., exemption from military service or corvée labor) and/or disabilities (e.g., exclusion from holding office, subjection to discriminatory taxation)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_161,Legally enforceable economic contracts,Contracts: economic agreements legally enforceable by a higher authority,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_162,Economic transactions formally witnessed or notarized,Economic transactions formally witnessed or notarized,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_163,Commercial agreements negotiated between states,Commercial agreements negotiated between states,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_164,"Commerical transactions authenticated with seals, signatures, or marks","Seals, signatures, or individual marks used to authenticate commercial transactions",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_165,Warehouses for privately-owned merchandise,Commercial warehouses used to store privately-owned merchandise,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_166,Written documents used for large-scale goods shipments,Bills of lading or other written documents used in large-scale shipments of goods,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_167,Long-term commercial records kept,Long-term commercial records kept,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_168,Companies,Companies: business enterprises including two or more persons who are organized to carry out commercial or industrial operations,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_169,Corporations,"Corporations: companies, chartered by the state, the members of which have limited liability",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_170,Labor mobilized by compensation,"Labor mobilized by the offer of compensation (rather than by a kinship obligation), e.g., food and drink, payment in kind or money, salary",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_171,Hire of individuals for unskilled manual labor,Individuals commonly hired to perform unskilled manual labor,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_172,Wage labor,"Wage labor, for which payment is made at definite rates and intervals",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_173,Enforced mobilization of labor for public projects,"Enforced mobilization of labor for community, tribal, or state projects (excluding military conscription)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_174,Corvée,Corvée (draft labor exacted by a supra-community authority or agency),,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_175,Institutional employment of artisans and laborers,"Artisans and laborers attached to or employed on a regular basis (rather than under the corvée) by political or religious institutions (tribe or state, temple or church)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_176,Labor overseers,"Overseers, who superintend the labor of slaves or other workers (other than majordomos on private estates)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_177,Factories,"Factories: enterprises in which workers, under unified supervision, produce goods by performing differentiated tasks (including temple workshops)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_178,Manufacturer trademarks,"Trademarks placed on articles to identify the maker or manufacturer (e.g., potters mark, swordsmiths signature, mint marks)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_179,Class of freemen artisans selling their products or services,Class of artisans who are freemen and who sell their products or services,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_180,Neighborhoods of specialized artisans within towns or cities,Neighborhoods of specialized artisans within towns or cities,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_181,"Certain industries concentrated in particular villages, towns, or cities","Certain industries concentrated in particular villages, towns, or cities",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_182,Guilds of craft or service specialists,"Guilds (i.e., cooperative associations) of craft or service specialists, including labor unions",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_183,Guilds of merchants or bankers,Guilds of merchants or bankers,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_184,Taxation in kind,"Taxation in kind (including produce from land farmed for the state, but excluding required contributions to community projects or ceremonies)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_185,Taxation in currency,Taxation in currency,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_186,"Official tax, tribute, or customs collectors","Official tax, tribute, or customs collectors (excluding local chiefs)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_187,Regular taxes,Collection of taxes in kind or currency on a regular schedule and at fixed rates,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_188,Special taxes,"Special taxes, in addition to regular taxes, levied for special needs (e.g., war expenses, public works, royal marriages; but excluding primarily religious taxes)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_189,Tax obligations commutable into state service,Tax obligations commutable into service to the state or its representative,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_190,Assessors appraising property for tax calculation,"Assessors (as distinct from tax collectors) who appraise land or other property, and determine the amount of taxes to be paid",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_191,Taxes on land,Taxes assessed on land,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_192,Taxes on movable property,Taxes assessed on movable property (including crops and livestock),,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_193,Taxes on commerce,"Taxes on commerce (e.g., sales taxes, taxes on goods brought to market, ground rents on places in market)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_194,Taxes on luxury goods,"Taxes on the manufacture, sale, or consumption of luxury goods",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_195,Inheritance taxes,Inheritance taxes,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_196,Duties on imported goods,"Duties on goods imported, or transported across internal boundaries",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_197,Tolls,"Tolls collected for the use of roads, bridges, or ferries",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_198,Produce from private lands for the ruler or state,"Produce of certain privately-worked lands set aside for the chief, king, tribe, or state (exclufing chief's land worked by the people at large for his support)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_199,"Superintendent of royal or state herds, lands, or forests","Superintendent who supervises the maintenance of royal or state herds, lands, or forests",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_200,The extent of landholdings limited by law or decree,The extent of landholdings limited by law or decree,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_201,State-regulated rent on private property,State fixes rent or rent ceilings on privately owned lands or dwellings,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_202,Government operates industries or exploits resources directly,"Government operates industries or exploits resources directly (e.g., weaving, armoring, goldsmithing; mines, salt deposits)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_203,Government derives revenue from industries and resources indirectly,"Government derives revenue from industries and resources indirectly (e.g., licenses salt production, wine making, ironworking, mining)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_204,Government registration or licensing of specialists or merchants,"Government registration or licensing of craft specialists, service specialists, or merchants for purposes of taxation or control",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_205,State contracts private enterprises for certain functions or goods,"State lets out contracts to private enterprises for the performance of certain functions (e.g., public works, tax collection) or the supply of certain goods",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_206,State sells or auctions public property,"State sells or auctions public property (e.g., public lands, confiscated property, captured war booty) to raise revenue",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_207,Government trades commodities on the open market,Government buys or sells commodities on the open market,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_208,State obtains loans from private or foreign sources,State obtains loans from private sources or from other states,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_209,Governmental supervision or regulation of commerce,"Governmental supervision or regulation of commerce (e.g., inspecting weights and measures, maintaining order in markets, settling commercial disputes, enforcing payment of debts, fixing price levels)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_210,Government inspection or regulation of places of entertainment,"Government inspection, licensing, or regulation of places of entertainment (e.g., taverns, gambling houses, brothels)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_211,State-directed trade,"State-directed trade (i.e., trade carried on by agents of the state with other societies)",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_212,Wage levels of certain occupations fixed by law,Wage levels of certain occupations fixed by law,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_213,Interest rates fixed by law and usury punishable,Interest rates fixed by law and usury punishable,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_214,Distraint of property for debt default or tax nonpayment,"Distraint of property (by government officials, not private seizure) for default of debts or nonpayment of taxes",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_215,Government distributes food in times of shortage or famine,Government relieves conditions of food shortage or famine by distributing or selling foodstuffs,,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_216,Public or church support of the destitute,"Public, government, or church support (as against support by kinsmen or tribesmen only) of the destitute (e.g., widows, orphans, aged, or infirm), excluding becoming wards or servants of the chief or king by indigent person",,Economics,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_217,Social segments above family,"Social (rather than territorial) segments above the level of the extended family or household (e.g., lineages, sibs, moieties, marriage classes, social classes, castes, age grades, mens clubs, secret societies, warrior societies, ceremonial teams, craft guilds)",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_218,Two or more social segments,Two or more different types of social segments,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_219,Unilineal kin groups beyond families,Unilineal kin groups (segments) beyond extended families (including royal or chiefly lineages),,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_220,Genealogies for at least five generations,Genealogies traced back reliably for at least five generations,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_221,Voluntary associations,"Voluntary associations, permanent and corporate, based on principles other than kinship or age",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_222,Blood brotherhood,Blood brotherhood or other special friendships solemnized by ceremonies,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_223,"Occupational classes, castes, or descent groups","Occupational classes, castes, or descent groups (excluding slaves, but including clans with specific duties)",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_224,"Bride price, bride service, or gift exchange","Marriage formalized by bride price, bride service, or gift exchange between the bride and groom or their families",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_225,Dowry,Dowry (as distinguished from the contribution of the bride or her family in gift exchange),,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_226,Marriage celebrated with a feast,Marriage celebrated with a feast,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_227,Marriages performed by priests or state officials,Marriages performed or registered by priests or officials of the state (not including the mere blessing of the couple by a priest),,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_228,Significant social status differences,"Well-defined and significant differences in social status (other than the difference between the principal political leader or shaman and everyone else, or differences based on age or sex)",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_229,Wealth accumulation brings prestige or influence,"The accumulation of wealth in movable property or land, even without its redistribution, brings considerable prestige or influence",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_230,Social stratification into distinct classes,"Stratification of the society into distinct social classes (excluding status distinctions based only on age or sex, and the ranking of clans or subclans)",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_231,Social stratification into at least three classes,Stratification of the society into at least three distinct social classes,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_232,Differences of rank within the upper classes,Differences of rank within the upper class(es) other than that based on political or religious office or sex,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_233,Class distinctions in legal liability for offenses,"Class distinctions in legal liability for offenses (i.e., members of the various social classes have different rights under the law)",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_234,"Ornaments, clothing or other marks distinguishing social classes","Special ornaments, differences in clothing, or other marks, which distinguish members of one class from the rest of the society",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_235,Insignia of noble or high rank,"Insignia of noble or high rank (e.g, ear plugs, special hairdos, coats of arms) meant primarily to indicate status rather than being largely ornamental",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_236,Sumptuary laws,"Sumptuary laws concerning dress, adornment, or other manifestations of wealth and serving to maintain class distinctions",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_237,Some society members have superior residences,Some members of the society (other than the political leader) have categorically superior residences,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_238,Some society members own more land,Some members of the society (other than the political leader) own significantly more land than others,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_239,Majordomos,Majordomos supervise staffs of private households or estates (other than that of the political leader),,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_240,Some society members have numerous wives or concubines,Some members of the society (other than the political leader) have numerous wives or concubines (at least 8 or 10),,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_241,Some society members have servants or retainers,Some members of the society (other than the political leader) have permanent servants or retainers (other than slaves),,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_242,Persons of high rank have special privileges,"Persons of high rank (other than the political leader) have special privileges (e.g., exemption from taxation or corvée, right to hold political office, right to remain seated in the kings presence) excluding privileges relating to dress and ornament",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_243,Competitive sports or spectacles staged by the upper classes,Competitive sports or spectacles staged by the political leader or members of the upper classes,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_244,Hunting primarily an upper class pastime,"Hunting primarily a pastime of the chief, king, or upper classes",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_245,Codes of social conduct distinguishing class or status,Elaborate code of social conduct serves to distinguish between social classes or individuals of different social positions,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_246,Class differences in disposal of the dead,"Status (excluding age and sex) class, or caste differences in disposal of the dead (based on social rather than religious status; exclude shamans and priests)",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_247,Some society members buried with wealth or animal sacrifices,"Some members of the society (other than the political leader) buried with large amounts of wealth, or have a considerable number of animals sacrificed at their death",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_248,"Some society members buried with wives, retainers or slaves","Some members of the society (other than the political leader) buried with or accompanied in death by wives, concubines, retainers, or slaves",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_249,Some society members elaborately buried,"Some members of the society (other than the political leader) buried in elaborate tombs or graves (e.g., burial mounds, cist graves, thatched buildings)",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_250,Extrasocietal slavery,"War captives or persons bought outside the society kept as slaves without subsequently being liberated, killed, or granted equal status with native-born members of the society",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_251,Intrasocietal slavery,"Debtors or criminals made slaves, or other freeborn members of the society (including wives and children) sold into slavery",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_252,"Slaves branded, tonsured, or otherwise identified","Slaves branded, tonsured, or otherwise identified",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_253,Slaves as personal servants,Some slaves kept as personal servants and not used in economically productive activities (including cooking),,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_254,Slaves economically significant,"Slaves as a class economically significant, i.e., they add to the economy more than they consume (produce food, make goods, or yield a product in significant amounts, rather than merely doing odd work)",,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_255,Slaves bought and sold within the society,Slaves bought and sold within the society (excluding the selling into slavery of freeborn members of the society),,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_256,Slave markets,Slave markets,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_257,Hereditary slavery,Hereditary slavery,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_258,Manumission of slaves common,Manumission of slaves common,,Social Organization and Stratification,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_259,Supra-community political units,Communities (or camps) continuously grouped (year-round) into larger political units which recognize some central authority,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_260,Supra-provincial political organization,"Districts or provinces, each comprising several villages or communities, are permanently grouped into a larger political unit",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_261,Three or more levels of territorial administration,"Three or more levels of territorial administration above the community (e.g., 1. district, 2. province, 3. quarter, 4. kingdom)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_262,State,"State: permanent organization of a number of supra-community units (districts, tribes, or provinces) into a single political unit under centralized control, involving at least (a) some power to collect revenue, (b) the power to conscript men for work or war, (c) some centralized judicial authority, and (d) the power to formulate and execute policy",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_263,"Population of 100,000 or above","Population of the state 100,000 or above",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_264,"Population of 1,000,000 or above","Population of the state 1,000,000 or above",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_265,Citizenship,Citizenship: citizens have certain rights under the law which non-citizens do not have,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_266,Capital city or town,"State or tribe has capital city, town, or village",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_267,Municipal quarters,Towns or cities divided into quarters or wards for civil or judicial purposes,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_268,State redistricts or moves populations,State endeavors to maintain administrative units of approximately equal size at each of several levels by redistricting or by the movement of populations,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_269,Permission to move between administrative units,Government permission required to move from one administrative unit to another,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_270,Colonists,Colonists sent to settle in conquered or newly-opened territory,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_271,"Young persons sent to capital for training, service or as hostages",Young persons sent to capital for training or royal service or as hostages,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_272,"Headman, chief, king, or council of elders","A generally recognized agent or agency of the society (e.g., headman, chief, king, council of elders) makes decisions or policy affecting the society as a whole",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_273,Powerful political leaders,"Political leader(s) has the power, by threat or exercise of active sanctions, to make individuals comply with his decisions (e.g., can assign tasks, draft labor, impose taxes, command military service)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_274,Political leader exercises judicial power,"Political leader(s) exercises judicial power (decides guilt and decrees punishment, or settles cases appealed to him; does not merely mediate)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_275,Political leader exercises supreme judicial authority,"Political leader(s) exercises supreme judicial authority, e.g., has the power to reverse decisions of inferior judges or courts in civil or criminal cases",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_276,Leadership transmitted through royal line,Chiefly or kingly line through which political leadership is customarily transmitted,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_277,Heir apparent undergoes training for future office,"Heir apparent undergoes rigorous or intensive training or education as preparation for his future office, including, e.g. serving as governor of a province",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_278,Property qualifications required for public office,Property qualifications required for appointment or formal election to public office,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_279,Secondary political leaders,"Secondary political leader(s) who have authority over segments of the society (e.g., sub-chiefs, house chiefs, clan chiefs, governors)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_280,Advisory council for political leader,"Formally constituted council (permanent or ad hoc) or official who advises, deliberates with, or controls the political leader",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_281,Non-territorial advisors or administrative civil officials,"Non-territorial advisors or administrative civil officials: functionaries who advise or act at the direction of the political leader, but who are not personal servants or retainers (e.g., talking chiefs)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_282,Officials overseeing government-controlled activities,Specialized officials in charge of one or more activities or enterprises controlled or supervised by the government,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_283,Hierarchy of non-territorial administrative officials,Hierarchy of non-territorial administrative officials (excluding palace hierarchy),,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_284,Secondary political officials may appoint their subordinates,Secondary political officials may appoint their subordinates,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_285,Provincial administrative centers,Provincial or district administrative centers where officials appointed by the state (other than local chiefs) collect taxes or maintain order,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_286,Municipal governments,Towns or cities within a larger political unit have municipal governments,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_287,Secretariat administering laws or decrees,"Secretariat, in charge of drafting, promulgating, and circulating laws or royal decrees",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_288,State accountant or treasurer,"Accountant or treasurer who keeps track of the wealth accumulated by the chief, king, or state",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_289,"Inspectors, censors, or secret agents","Inspectors, censors, or secret agents who examine records or investigate the functioning of officials, popular discontent, etc.",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_290,Census taken,Census taken (including simple enumerations or head counts),,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_291,Organized messenger or courier system,Organized messenger or courier system which links together most of the societys territory,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_292,Ministries,Ministries: government departments headed by ministers and having full-time staffs of officials and clerks,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_293,Ministry of revenue or finance,Ministry of revenue or finance,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_294,Ministry of public works,Ministry of public works,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_295,Ministry of justice,Ministry of justice,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_296,"Ministry of religious affairs, rites, or ceremonials","Ministry of religious affairs, rites, or ceremonials",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_297,Ministry of foreign affairs,Ministry of foreign affairs,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_298,Ministry of war,Ministry of war,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_299,Prime minister,Prime minister: principal administrative official below the ruler who initiates or executes policy,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_300,Council of ministers advising the ruler,Council of ministers forming a regular advisory body to the ruler,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_301,Authentication devices for official actions,"Devices used to confirm or authenticate official orders, decrees, actions, and transactions (e.g., seals, signatures, rings, or other symbols)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_302,Auditing of government financial accounts,Auditing procedures to check for errors or embezzlement in government financial accounts,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_303,Government budget,"Budget: a comprehensive and itemized estimate of anticipated revenues and expenditures, periodically prepared by government officials",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_304,Annals of state affairs,Annals of state affairs regularly kept by official historian(s),,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_305,State archives,Archives in which official records and state papers are kept,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_306,State officials paid a fixed salary,State officials paid a fixed salary,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_307,Officials' salaries paid in currency,"Officials' salaries paid, at least in part, in currency rather than in kind",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_308,Codified regulations for administrative structure,Codified regulations minutely govern the constitution and operation of the administrative structure,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_309,Political leader is a full-time specialist,Political leader does not ordinarily engage in subsistence,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_310,Political leader abstains from low-status activities,"Political leader may not engage in certain common economic activities, which are considered to be beneath his status",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_311,Political leader entertains on a lavish scale,Political leader entertains on a lavish scale,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_312,"Political leader bestows land, slaves, rank","Political leader bestows land, slaves, wealth, women, or noble rank for services rendered",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_313,Political leader appoints officials,Political leader appoints and deposes subordinate political officials,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_314,Political leader promulgates laws,"Political leader promulgates laws, issues decrees, or makes proclamations to the populace (not just orders that are obeyed)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_315,Political leader grants audiences,Political leader grants formal audiences to hear grievances or petitions (exclude appeal in legal cases),,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_316,Political leader travels around the kingdom,"Political leader makes regular visits to various parts of the kingdom to examine conditions, hear cases, collect taxes, awe his subjects, etc.",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_317,Political leader travels with a retinue,Political leader travels with a retinue,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_318,Political leader controls religious institutions,"Political leader exercises considerable control over the activities of temples or the church (e.g., performs investiture of priests, endows temples)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_319,Political leader performs essential societal rituals,"Political leader performs rituals considered essential for the welfare of the society, and which only he can perform",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_320,Installation ceremony for political leader,"Special ceremony for installation or investiture of new political leader (e.g., oath of office, coronation)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_321,Political leader has special symbols of office,"Political leader has special symbols of office or authority (e.g., throne, crown, scepter, seal, robes)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_322,Deference to political leader,"Displays of special deference to political leader (e.g., carrying in a litter, averting the eyes, bowing)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_323,Officials or sub-chiefs swear allegiance to the leader,"Officials, vassals, sub-chiefs, or courtiers swear allegiance to the chief, king, or state",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_324,Political leader addressed by honorific titles,Political leader addressed or referred to by various honorific titles,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_325,Lese majesty severely punished,"Lese majesty  an offense against the dignity, person, or property of the ruler  severely punished",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_326,(Semi)divine ruler,"Ruler is considered divine, semi-divine, or sacred, or traces his descent from a god",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_327,Political leader buried with wealth,Political leader buried with large amounts of wealth,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_328,Political leader buried with wives or slaves,"Wives, concubines, retainers, or slaves of political leader buried with him or otherwise killed at the time of his death",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_329,Political leader elaborately buried,"Political leader buried in an elaborate tomb or grave (e.g., burial mound, cist grave, thatched building, pyramid)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_330,Special treatment to preserve leaders corpse,"Special treatment (e.g., desiccation, embalming) to preserve the political leaders corpse or part thereof (not just the bones)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_331,Deceased political leader reverenced,"Deceased former political leader especially reverenced (e.g., his spirit invoked or propitiated, monuments erected to his memory)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_332,"Ruler receives food and goods as gifts, tribute or taxes","Chief or king receives large amounts of food and/or other goods as gifts, tribute, taxes, or fines",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_333,Special residence for political leader,Political leader lives in a special residence or compound categorically superior to any other residence,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_334,Royal estates,"Royal estates, residences, or preserves outside the capital which are the property of the ruler",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_335,Full-time retainers for political leader,Political leader has full-time personal attendants or retainers,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_336,Royal household maintained by a steward and staff,Royal or chiefly household maintained by a steward and staff,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_337,Court,"Court, a body of officials, members of the upper classes, retainers, entertainers, etc., surrounding the chief or king",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_338,Ruler has significantly more wives or concubines,Chief or king has significantly more wives or concubines than anyone else,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_339,Ruler has a harem,"Chief or king has a harem (a special residence(s) supervised by a responsible official(s), e.g., a eunuch)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_340,Ruler has a bodyguard,Bodyguard to protect the rulers person,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_341,Private tutors for children of nobles,Private tutors retained at court to instruct prince(s) and/or children of nobles,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_342,Political leader has storehouse or treasury,"Political leader has storehouse or treasury (for hard goods or valuables, rather than for food)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_343,Formal treaties between societies,"Formal treaties (recorded or witnessed and sworn) concluded between societies to establish alliances, to settle disputes, or to end wars",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_344,Ambassadors,Ambassador(s): diplomatic representative acting in regular relations with a foreign government,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_345,Diplomatic missions,Diplomatic missions by government officials carried out for specific purposes,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_346,"Passports, visas, or tallies","Passports, visas, or tallies to control the entry or exit of persons, native or foreign",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_347,Superordinate tribe or state,"Superordinate tribe or state which receives tribute, labor, soldiers, or other recognition of obligation from subordinate or vassal tribe(s) or state(s)",,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_348,Resident officials overseeing native rulers of subordinate states,Resident political officials who oversee native rulers of feudatory or tributary states,,Political Organization,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_349,Composition,Composition: redress of death or bodily injury by payment of an indemnity to the victim or his relatives (with or without a formal judicial proceeding),,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_350,Ordeals or oaths to establish guilt or settle disputes,Ordeals or oaths to establish guilt or innocence or to settle disputes prescribed or enforced (exclude torture applied to extract a confession),,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_351,Mediation used to settle inter-community disputes,Mediation or formal legal procedure customarily used to settle at least one type of dispute within the political unit,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_352,Land disputes settled by political or judicial authority,"Disputes over land settled by political or judicial authority, rather than only by mediation or fighting",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_353,Judicial process,"Judicial process, in which an individual or limited group (e.g., council of elders, tribal chief, court of law) considers evidence and renders judgment in a dispute, or of an accused person, on behalf of the society",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_354,Court trials,"Court trials, held under specialized judges or magistrates who hear testimony and weigh evidence, interpret the law or customary law, and render a decision in civil or criminal cases",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_355,Judicial system of higher and lower courts,"Judicial system of higher and lower courts, cases being referred to one or the other according to their nature, with decisions of lower courts perhaps appealable to higher courts",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_356,Specialized courts,"Specialized courts (e.g., commercial courts, military courts, ecclesiastical courts, divorce courts)",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_357,Legal counsel,Legal counsel: specialized advocates or lawyers who interpret the law or act for clients in legal cases,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_358,Oaths or affirmations of truthful testimony,Oaths or affirmations of truthful testimony required of witnesses in legal trials,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_359,Oaths of compurgation accepted as evidence of innocence,Oaths of compurgation accepted as evidence of innocence at legal trials,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_360,Perjury or false testimony punishable by law,Perjury or false testimony in court legal cases punishable by law,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_361,Judges,Judges: officials whose sole function it is to apply the law and render decisions in civil or criminal cases,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_362,Police,"Police: specialized individual or force charged with keeping the peace, enforcement of norms, or the apprehension and detention of offenders",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_363,Specialized public executioner,Specialized public executioner,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_364,Law,"Law: a body of explicitly formulated secular norms, interpreted, applied, and enforced by a constituted authority",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_365,Recurrent decrees of laws,Laws recurrently decreed by a ruler or enacted by a legislative body,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_366,Code of laws,"Code of laws (explicit and recorded) which covers social, political, and/or economic relations",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_367,Offenses against persons punishable by law,"Offenses against persons (e.g., sorcery  if actually practiced, assault, maiming, rape, murder) punishable under law or custom by formal means",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_368,Offenses against property punishable by law,"Offenses against property (e.g., theft, arson, willful or inadvertent destruction) subject to indemnification or punishment under law or custom by formal means",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_369,Obstruction of justice punishable under law,"Obstruction of justice (e.g., harboring of criminals, refusing to give evidence) punishable under law",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_370,"Laws governing marriage, abortion, or adoption","Laws governing marriage, divorce, abortion, infanticide, or adoption",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_371,Laws governing inheritance,Laws governing inheritance,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_372,"Laziness, malingering, or vagrancy punishable by law","Laziness, malingering, or vagrancy punishable by law",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_373,"Libel, slander, or malicious lying punishable by law","Libel, slander, or malicious lying punishable by law",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_374,Laws regulating borrowing and lending,Laws regulating borrowing and lending,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_375,Building codes,"Building codes: laws regulating house construction (e.g., prescribing building materials, limiting number of stories)",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_376,Sacrilege severely punished,"Sacrilege  irreverence or disrespect toward a sacred person, place, custom, or object  severely punished",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_377,Religious law enforced by political officials,Religious law enforced by political officials,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_378,Statute of limitations,Statute of limitations specifying the time within which offenders must be brought to trial to be punishable,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_379,Offenses punished by a designated agent rather than by the offended party,Most offenses regularly punished by a designated or permanent agent of the society rather than by the offended parties themselves,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_380,Crimes punishable by public authorities only,Crimes legally punishable by public authorities only; private action illegal,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_381,Offenses punished by fines,"Certain offenses punished by fines (in currency or in kind) paid to the lineage, sib or village, tribe or state, of which part may go to the offended party (including penalty feasts)",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_382,Offenses punished by confiscation of property,"Certain offenses punished by confiscation of property, of which part may go to the offended party",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_383,Political authority retains fines or confiscated property,Fines collected or property confiscated by political authority and not shared with the offended party (unless he is the political leader),,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_384,Corporal punishment,"Corporal punishment (including mutilation, shaving off hair) meted out for certain offenses by an authorized agent of the society (other than the offended party or his kin unless he is the political leader)",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_385,Incarceration of convicted offenders,"Incarceration of convicted offenders (in shackles, stocks, pens, cages, or prisons)",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_386,Offenses punished by slavery or hard labor,Certain offenses punished by slavery or by terms at hard labor,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_387,Death penalty,"Death penalty decreed by custom or after judicial procedure for certain crimes, and exacted openly by someone acting with the explicit approval of the society",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_388,Commutation of certain sentences upon payment,Commutation of sentences for certain crimes may be granted upon payment of a fixed amount,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_389,Political leader sometimes pardons convicted offenders,Political leader sometimes pardons convicted offenders,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_390,General amnesties granted on special occasions,General amnesties granted on special occasions,,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_391,Violation of secular law incurs punishment by gods and secular punishment,"Violation of secular legal norms automatically incurs punishment by gods during the individuals lifetime, as well as secular punishment by a formally designated agent of the society",,Law and Judicial Process,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_392,Warfare for reasons beyond personal conflicts or preemptive defense,"Warfare initiated for considerations other than (or in addition to) the avenging of insults, personal injury, murder, witchcraft, the stealing of women, trespass, or forestalling an enemy attack",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_393,Economic reasons for warfare,"Economic considerations (e.g., territorial acquisition, the capture of booty, the taking of slaves) important in the initiation of warfare",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_394,Religious reasons for warfare,"Warfare initiated in order to impose religious dogma or to make religious observances (e.g., human sacrifice)",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_395,Formal warning or declaration of war,"Formal warning, challenges, or declaration of war, including the displaying of symbols, customarily given",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_396,War leaders,"Recognized war leader(s) (other than a political leader) who regularly leads the men of the society against the enemy (e.g., war chief, general)",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_397,Professional military commanders,"Professional military commanders (e.g., generals) who regularly lead the army in time of war",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_398,Professional middle-level military officials,"Professional middle-level military officials (e.g., centurions, lieutenants, captains)",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_399,Specially trained warriors,Body of specially trained or highly skilled warriors (as distinct from the rest of the fighting men),,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_400,Standing army,"Standing army, organized around a core of professional soldiers, and continuously maintained",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_401,Militia,Militia: a semimilitary organization with officers who keep its units in readiness to quell uprisings or repel invasions,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_402,Military conscription,"Military conscription (those disinclined to fight either coerced into doing so, allowed to commute, or else subject to punishment)",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_403,Military or corvée obligations fulfilled through substitutes or payments,Substitutes may be hired or commutation paid to fulfill military or corvée obligations,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_404,Troops receive fixed pay,"Troops receive fixed pay (over and above, or instead of, a share of the booty)",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_405,Mercenaries,"Mercenaries (i.e., paid foreign troops) used in warfare",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_406,Soldiers take oath of allegiance,Soldiers or officers take oath of allegiance,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_407,Fighting force divided into subunits,Fighting force customarily divided into subunits,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_408,Army organized into military units,"Army organized into groups of units which are successively more inclusive (e.g., platoons, companies, regiments, divisions)",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_409,Organized war preparation drills and exercises,Organized drills or exercises carried out to prepare for war,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_410,Differentiated military units,"Differentiated military units (e.g., spearmen, bowmen, slingers, cavalry)",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_411,Cavalry,Cavalry,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_412,Military engineers,Military engineers,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_413,Baggage trains used to transport the armys supplies,Baggage trains used to transport the armys supplies,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_414,Pitched battles,"Pitched battles, involving considerable hand-to-hand fighting, initiated, in which the objective is to destroy or drive off the enemy fighting force, or capture (rather than merely raid) enemy settlements",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_415,Fighters begin battle in formation,Fighters begin battle in formation (including arrangement in a straight line),,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_416,Soldiers fight as compact units,"Soldiers fight closely aligned or as compact units, rather than as separate individuals",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_417,Formal rules governing military conducts,Formal rules governing conduct of soldiers and officers in war,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_418,Government arsenals or armories,Arsenals or armories where government stockpiles of weapons are maintained,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_419,Cutting or thrusting weapons used in warfare,Cutting or thrusting weapons used in warfare,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_420,Defensive body armor,Defensive body armor (exclude shields and helmets),,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_421,Metal armor used in warfare,Metal armor used in warfare,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_422,Chariots used in warfare,Chariots used in warfare,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_423,Military emblems and banners,"Emblems, banners, or special objects which serve to identify military units, or act as rallying points, are carried into battle",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_424,Musical instruments used for battle signals,"Drums, horns, trumpets, etc., used to signal commands in battle or to encourage troops (excluding the use of these instruments merely to frighten the enemy)",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_425,Espionage,"Espionage, by special agents who gather strategic information in foreign territory by hiding their purpose and/or identity but not their persons",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_426,Sieges laid to enemy fortifications,Sieges laid to enemy fortifications strong enough to resist immediate assault,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_427,Permanently garrisoned forts,"Permanently garrisoned forts (excluding observation posts, walled towns and cities)",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_428,Battering rams,Battering rams,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_429,Assault ladders or towers used in sieges,Assault ladders or towers used in sieges,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_430,Siege ramps,Siege ramps,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_431,Catapult-type devices used as siege engines,Catapult-type devices used as siege engines,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_432,Body trophies,"Body trophies (e.g., heads, scalps, hands) taken in war or from sacrificed prisoners",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_433,Military booty,Considerable booty taken during successful military campaigns,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_434,Adult male war captives,Adult males frequently taken captive in warfare,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_435,Cannibalism of war captives,Cannibalism of war captives,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_436,War captives regularly sacrificed to gods,War captives regularly sacrificed to god(s),,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_437,War captives kept for ransom or held as hostages,War captives kept for ransom or held as hostages,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_438,Special ornaments for brave or wounded warriors,"Special ornaments, insignia, or appellations awarded for prowess or wounds received in battle",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_439,Rewards for outstanding warriors,"Outstanding warriors rewarded with gifts of property, women, or slaves, or appointment to official positions",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_440,Nobility attainable through war exploits,Nobility or distinctly high social status attainable through war exploits,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_441,"Penalty for cowardice, desertion, or insurrection","Death, confiscation of property, or other severe punishment may be penalty for cowardice in battle, desertion, or insurrection",,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_442,Formal ceremonies to conclude inter-societal hostilities,Formal ceremonies (including the making of treaties) to conclude hostilities with other societies,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_443,Military prowess exhibited in parades or reviews,Military parades or reviews in which military skill and prowess are exhibited (excluding celebrations held for returning warriors),,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_444,Territory of vanquished enemy annexed,Territory of vanquished enemy annexed,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_445,Vanquished enemies subjugated and controlled,Peoples of vanquished enemy subjugated and held under effective control,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_446,Defeated political leaders pledge allegiance to conquerors,Defeated political leader(s) or his relative(s) retained in authority over his territory on pledge of allegiance to conquerors,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_447,Indemnities exacted from defeated enemies,Indemnities or reparations (as distinct from tribute) exacted from defeated enemies,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_448,Permanent settlements built in conquered territory,Permanent settlements built in conquered territory,,Warfare,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_449,Supernatural beings intervening for supplicants,Supernatural being(s) who currently intervenes for the benefit of suppliants,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_450,Ancestral spirits propitiated and invoked,Ancestral spirits propitiated and invoked,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_451,Gods,"God(s): specifically personified supernatural being(s) (not impersonal force) who is not particular to locations or to kinship segments (exclude, e.g., ancestral, guardian, and other personal spirits), to whom prayers are directed and who intervenes for the benefit of the society or its members",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_452,Sun god,"Sun god worshipped (i.e., propitiated and invoked)",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_453,God of war,God of war (not necessarily connected exclusively with war) worshipped,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_454,Lawgiver god,"Lawgiver god, who on more than one occasion has enunciated extensive rules for governing human conduct, worshipped",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_455,Patron gods or saints,"Patron gods or saints (not including guardian spirits), who afford protection to groups of individuals engaged in particular occupations or activities (e.g., god of merchants, god of hunters, god of travelers, god of blacksmiths, god of war)",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_456,Pantheon of gods,"Pantheon of gods worshipped (propitiated and invoked); (applies only to differentiated gods who actively control spheres of life or nature, e.g., rain god, war god, fire god, fertility goddess, love goddess)",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_457,Paramount god in the pantheon,One god in the pantheon of differentiated gods worshipped as paramount,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_458,Life and death affects the afterlife,Manner of living or dying affects the status or condition of the soul after death,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_459,Offerings,Offerings (including libations and sacrifices),,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_460,Libations,"Libations: the ritual pouring, sprinkling, or drinking of a liquid",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_461,Animal sacrifices,Animal sacrifices directed to supernatural beings to placate them or gain their favor,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_462,Human sacrifice,Human sacrifice directed to supernatural beings to placate them or gain their favor,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_463,Private worship of supernatural beings,"Private worship of supernatural beings through personally owned (rather than societally maintained) idols, altars, or shrines",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_464,Priests perform private ceremonies for payment,Private ceremonies or sacrifices performed by priests (not shamans or medicine men) on behalf of individuals for payment,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_465,Priests conduct sacrifices on behalf of the society,"Priests conduct sacrifices on behalf of the society, or a significant segment thereof, to ward off calamities, solicit benefits, or offer thanks",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_466,Rites of passage performed by priests,Rites of passage performed by priests,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_467,Rites to promote farming success,"Rites to promote fertility of the soil, to bring rain, or to celebrate the harvest performed seasonally (rather than merely when the crop is in danger)",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_468,Thank offerings to supernatural beings,Thank offerings to supernatural being(s),,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_469,Pre-battle rituals performed by religious specialists,"Offerings, sacrifices, prayers, or other rituals carried out by religious specialists before battle",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_470,Post-victory offerings to supernatural beings,Victory offerings made to supernatural being(s) after successful military campaign,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_471,Housebuilding offerings or sacrifices,Offerings or sacrifices made in connection with housebuilding or the erection of other structures,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_472,Religious pilgrimages,Religious pilgrimages to distant shrines or sacred places,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_473,"Votive offerings, ceremonies or pilgrimages",Votive offerings or ceremonies or votive pilgrimages made,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_474,Idols,Idols: durable representations made in the likeness of supernatural beings through or in which they are worshipped,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_475,Oracles,"Oracles: shrines, places, or objects where, or by means of which, a medium transmits answers to questions posed to a god or spirit (exclude the use of animals for augury)",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_476,Shrines,"Shrines, altars, ceremonial platforms, or other sacred places where religious practices (e.g., offerings, rituals, prayers) are regularly or repeatedly carried out",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_477,Incense burned for ceremonial or ritual purposes,Incense burned for ceremonial or ritual purposes,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_478,Ritual or liturgical texts,Ritual or liturgical (written) texts,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_479,Special supernatural practitioners,"Special supernatural practitioners (e.g., shamans, diviners, priests, monks)",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_480,Religious specialists supported by individuals or society,"Religious specialist(s) supported (fully or almost fully) by individuals, the community, tribe, or state",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_481,Divination specialists consulted before important undertakings,"Specialists (e.g., astrologers) concerned exclusively with divination and related activities (exclude shamans) are consulted before undertakings important to the society or the political leader",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_482,Priests,Priests: religious practitioners connected with specific gods or with society-wide ancestral cults,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_483,Functionally specialized priests,"Functionally specialized priests (e.g., interpreters of oracles or dreams, sacrificial priests, funerary priests, war priests)",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_484,Priests formally invested in their office,"Priests formally invested in their office by chief, king, or higher priest",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_485,Head priest has considerable political influence,Head priest (including priest-chief or priest-king) has considerable political influence,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_486,Hierarchy of priests,Hierarchy of priests,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_487,Different orders of priests,Different orders of priests,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_488,Women consecrated to a temple or a god service,"Women consecrated to a temple or to the service of a god (e.g., priestesses, virgins, nuns)",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_489,Priests distinguished by visible status marks,"Priests or monks always distinguished by specific visible marks of their status (e.g., tonsure, special garments)",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_490,Priests follow strict rules of discipline,"Priests or monks ordinarily follow strict rules of discipline, including various forms of abnegation (e.g., fasting, continence), purification, or mortification of the flesh",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_491,Training school for priests,Training school for priests,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_492,Temples,"Temple(s): structure(s), at least as large as dwellings, where priests worship gods or practice society-wide ancestral cults",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_493,Temple has large staff,Temple has large staff of priests or attendants (more than 10),,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_494,Temple owns considerable property,Temple owns considerable property,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_495,Temples dedicated to specific gods or saints,Differentiated temples dedicated to specific gods or saints,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_496,"Monasteries, convents, or nunneries","Monasteries, convents, or nunneries where priests, monks, priestesses, etc., live, and which, unlike temples, are ordinarily closed to laymen",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_497,Ceremonial or religious center,Ceremonial or religious center: a complex of temples and associated buildings having an important role in the religious life of the society,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_498,Church,Church: religious institution which encompasses a number of priests and temples (or monks and monasteries) and which is unified by a set of common beliefs and observances,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_499,Temple or church receives donations,Temple or church receives donations (other than offerings left to supernatural beings),,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_500,Temple or church exacts tithes,"Temple or church exacts tithes, receives the produce of a fixed portion of cultivated lands, or claims a set part of personal incomes",,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_501,Church owns large amounts of land,Church owns large amounts of land,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_502,Ecclesiastical courts,Ecclesiastical courts,,Religion,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_503,Pottery (either made or commonly used),Pottery (either made or commonly used),,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_504,Painted pottery made,Painted pottery made,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_505,Effigy vessels made,Effigy vessels made,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_506,Large ceramic vessels for storing or transporting grain or liquids,Large ceramic vessels made expressly for storing or transporting grain or liquids,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_507,Mold-made pottery,Mold-made pottery,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_508,Wheel-made pottery,Wheel-made pottery,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_509,Pottery kilns,Pottery kilns,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_510,Professional potters,Professional (full-time) potters,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_511,Professional painters or sculptors,Professional (full-time) painters or sculptors,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_512,Terra-cotta figurines,"Terra-cotta (baked clay) figurines or statues as art or ceremonial objects (free-standing, not appliquéd on pots or walls)",,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_513,Wooden or ivory statues,Statues or figurines carved in hard wood or ivory,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_514,Stone statues,Stone statues (or figurines) as art or ceremonial objects,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_515,Heroic or gigantic stone sculpture,Heroic or gigantic stone sculpture,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_516,"Stone reliefs, intaglios, or friezes","Reliefs, intaglios, or friezes carved into dressed stone surfaces",,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_517,Wall murals or frescoes,Murals or frescoes painted on faced stone or brick walls,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_518,Glass manufactured,Glass manufactured,,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_519,"Mosaics of stone, brick, tile, or glass","Mosaics of stone, brick, tile, or glass",,Ceramics and Art,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_520,Ground or polished stone or shell cutting tools,Ground or polished stone or shell cutting tools,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_521,Metal axes or adzes made,Metal axes or adzes made,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_522,Metal-pointed plowshares,Metal-pointed plowshares,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_523,"Animal-, wind-, or water-powered grinding devices","Animal-, wind-, or water-powered devices for grinding grain",,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_524,Mechanical devices for raising water,"Mechanical devices for raising water (e.g., shadoof, water wheel, water screw)",,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_525,Wheeled vehicles,Wheeled vehicles,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_526,Scales or balances,Scales or balances,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_527,Techniques of wood joining,"Techniques of wood joining beyond lashing and gluing (e.g., use of pegs, nails, dovetailing, sewing)",,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_528,Furniture,"Furniture: e.g., stools, benches, platform beds, hammocks",,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_529,Lock and keys,Lock and keys,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_530,Mirrors,Mirrors,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_531,Spindle,Spindle,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_532,Heddle loom,Heddle loom,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_533,Plant fibers woven into cloth,Plant fibers woven into cloth,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_534,Animal fibers woven into cloth,"Animal fibers (e.g., hair, wool, fur, silk) woven into cloth (exclude unraveling and reweaving of woolen cloth obtained by trade)",,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_535,Patterns woven into cloth,Patterns (including warp and weft stripes) woven into cloth,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_536,Garments made of woven cloth,Garments (including capes and cloaks) made of woven cloth,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_537,Garments made of bark cloth,Garments made of bark cloth (including ceremonial garments),,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_538,Dyeing,"Dyeing (not painting or smearing) of textiles, yarn, bark cloth, or pandanus leaves",,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_539,Ornamented fabrics,"Fabrics for clothing ornamented with featherwork, elaborate painting, embroidery, jewelry",,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_540,Tapestries,Tapestries (woven or embroidered fabrics hung for decoration),,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_541,Professional weavers,Professional weavers,,"Tools, Utensils, and Textiles",Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_542,Forging,Forging (hammering metal into shape while hot),,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_543,Mining of ores,Mining of ores (excluding placers),,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_544,Mining of ores as a continuing operation,"Mining of ores carried out as a continuing operation (i.e., not merely to meet the needs of the moment)",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_545,Smelting of ores,Smelting of ores,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_546,Furnaces for smelting ores,Furnaces for smelting ores,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_547,Bellows used in working metal,Bellows used in working metal,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_548,Indigenous copper worked,Indigenous copper worked,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_549,Indigenous gold and/or silver worked,Indigenous gold and/or silver worked,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_550,Indigenous iron worked,Indigenous iron worked,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_551,Alloying of metals,Alloying of metals,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_552,Bronze or brass produced,Bronze or brass produced,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_553,Casting in molds,Casting in molds,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_554,Lost-wax casting,Lost-wax casting (cire perdue),,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_555,Metal hardening through annealing or tempering,Altering the hardness of metals by annealing (heating and slow cooling) or tempering (heating and rapid cooling by immersion in a liquid),,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_556,"Soldering, welding, or riveting used to join metals","Soldering, welding, or riveting used to join metals",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_557,Decorative metal-working techniques,"Decorative metal-working techniques (e.g., gilding, embossing, engraving, inlaying)",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_558,Copper tools in common use,"Copper weapons, utensils, or instruments in common use",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_559,Bronze tools in common use,"Bronze or brass weapons, utensils, or instruments in common use",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_560,Iron tools in common use,"Iron weapons, utensils, or instruments in common use",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_561,Non-utllitarian metal objects,"Non-utllitarian metal objects (e.g., jewelry, figurines or statues, ceremonial chalices, solar disks) made or used",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_562,Ornaments and jewelry of precious metals,"Ornaments and jewelry of gold, silver, or other precious metals made or used",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_563,Precious or semiprecious stones used for jewelry,Precious or semiprecious stones used for jewelry,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_564,Professional smiths,"Professional smiths, who work metal primarily for exchange",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_565,"Professional goldsmiths, silversmiths, or jewelers","Professional goldsmiths, silversmiths, or jewelers",,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_566,Armorers,Armorers: smiths specializing in making weapons,,Metalworking,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_567,Watercraft,Watercraft (excluding floating logs and simple rafts),,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_568,Vessel hulls built from several planks,Vessel hulls built from several planks (excluding wash strakes),,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_569,Vessels propelled by oars,Vessels propelled by oars (not paddles),,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_570,Vessels propelled by sails,Vessels propelled by sails,,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_571,Steering oar or rudder,Steering oar or rudder,,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_572,Devices for stabilizing vessels,"Devices for stabilizing vessels (e.g., keels, centerboards, outriggers)",,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_573,Cabins on board vessels,Cabins on board vessels,,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_574,Decked vessels,"Decked vessels, with cabin or storage space below decks",,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_575,Merchant vessels,"Merchant vessels, operated by professional merchants and specially designed to transport cargo",,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_576,Navy,Navy: fleet of specially designed warships maintained by the political unit,,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_577,Professional naval officers,Professional naval officers,,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_578,Professional boat builders,Professional boat builders (including part-time specialists),,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_579,Dryd docks,Dryd docks: permanent structures used during the construction and repair of vessels,,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_580,"Professional sailors, pilots, or navigators","Professional sailors, pilots, or navigators (including part-time specialists)",,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_581,Professional boatmen or ferrymen,"Professional boatmen, who earn a living ferrying passengers or goods over short distances",,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_582,Voyages undertaken out of sight of land,Voyages undertaken out of sight of land,,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_583,Canals built for navigation,Canals built for navigation,,Watercraft and Navigation,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_584,"Mnemonic devices for recording traditions, events, etc.","Traditions, events, etc., recorded by means of mnemonic devices (including writing, but excluding simple methods of recording elapsed time, events, or simple inventories)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_585,System of writing,System of writing (including extensive systems of standardized pictographs),,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_586,Essentially phonetic system of writing,Essentially phonetic system of writing,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_587,"Scribes, secretaries, or clerks","Scribes, secretaries, or clerks (other than priests)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_588,Teachers,"Teachers: professional instructors, secular or religious, who are paid for their services and who instruct others than candidates for the priesthood",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_589,Schools for secular subjects or vocational training,"Schools for instruction in secular (i.e., nonreligious) subjects or for vocational training (including, e.g., school for brides)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_590,Literacy general among the upper classes,Literacy general among the upper classes (not merely among scribes and priests),,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_591,Public primary schools,Public primary schools,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_592,Secular professional schools,"Secular professional schools (e.g., for the study of law, accounting, medicine, grammar)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_593,Literature,"Literature: speculative, esthetic, or historical writing as distinct from official records",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_594,Epic verse,Epic verse (excluding songs),,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_595,Philosophy,Philosophy: a system of beliefs about mans place in the world and about human conduct based on independent speculation and representing a departure from the prevailing or previously established system of beliefs,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_596,Technical treatises or manuals,"Technical treatises or manuals (e.g., on medicine, pharmacy, divination, agriculture, metalworking)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_597,Standardized weights and measures,"Standardized weights and measures (excluding measurement with parts of the body, and similarly variable measurements)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_598,System of numbers extending beyond 100,System of numbers extending beyond 100,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_599,Mathematics,Mathematics (beyond simple arithmetic),,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_600,Techniques of surveying and mensuration,"Techniques of surveying and mensuration (including, e.g., plumb lines, knowledge of right angle, stretched cords, but excluding the swinging of circles by means of a cord)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_601,Regular astronomical observations by specialists,Astronomical observations regularly made by priests or other specialists,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_602,Calendrical system,"Calendrical system, uniquely designating each day of the year",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_603,Calendrically fixed celebrations or religious observances,Calendrically fixed days of celebration or religious observance recurring annually,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_604,Regular schedule of work and rest beyond daily routine,"Regular schedule of work and rest other than daily routine (e.g., one day off every five)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_605,Musical instruments,Musical instruments (excluding whistles),,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_606,Games of calculation,Games of calculation,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_607,Team athletic contests,Team athletic contests in which there is coordination among the members of each side,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_608,Professional athletes,"Professional athletes (e.g., gladiators, ballplayers, acrobats)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_609,"Professional bards, musicians, or storytellers","Bards, minstrels, musicians, or storytellers, whose primary activity is to compose, play, or recite songs, poems, or stories",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_610,Professional dancers or musicians,Professional dancers or musicians,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_611,Professional comic entertainers,"Professional comic entertainers (e.g,, clowns, buffoons, jesters, dwarfs)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_612,Troupes of professional actors,Troupes of professional actors,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_613,Fermented beverages from cultivated plants,Fermented beverages brewed from cultivated plants,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_614,"Midwives, wet nurses, or foster nurses","Midwives, wet nurses, or foster nurses who are regularly called upon and paid for their services",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_615,Physicians,"Physicians: specialists who treat patients primarily by rational (i.e., non-supernaturalistic) means",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_616,Surgery practiced,"Surgery practiced (excluding, e.g., the setting of broken bones, removal of arrows, bloodletting)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_617,Papermaking,"Papermaking (including the making of papyrus, parchment, or vellum)",,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
+CARNEIRO_618,Zoos,Zoos or menageries in which a wide variety of wild animals are kept as curiosities,,Special Knowledge and Practices,Categorical,,,,,dplace-dataset-carneiro
 CCMC1,NHS2 song,"A Value for this parameter represents a song in the NHS discography, coded for type using one of 10 categories.",,,,,,,,dplace-dataset-ccmc
 EA001,Subsistence economy: gathering,"Dependence on the gathering of wild plants and small land fauna, relative to other subsistence activities.",,"Economy, Subsistence",Ordinal,,Murdock (1962-1971); Gray (1999),,,dplace-dataset-ea
 EA002,Subsistence economy: hunting,"Dependence on hunting, including trapping and fowling, relative to other subsistence activities.",,"Economy, Subsistence",Ordinal,,Murdock (1962-1971); Gray (1999),,,dplace-dataset-ea

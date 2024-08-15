@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Nuclear-Macro-Je languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Nuclear-Macro-Je languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (((xakr1238:1,xava1240:1,xere1240:1):1,(xokl1240:1,kain1272:2.0):2.0,(apin1244:1,kaya1330:1,cane1242:3.0):2.0):1,kara1500:1,kren1239:2.0):1;

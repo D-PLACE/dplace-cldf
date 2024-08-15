@@ -16,67 +16,73 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-binford",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0.1",
+            "dc:created": "v3.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-carneiro/",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ccmc",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ecoclimate",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-gmted2010",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-gshhs",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0.1",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-jenkins",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-kreft",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-modis",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-sccs",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-teow",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.1",
             "dc:title": "Repository"
         },
         {
@@ -232,13 +238,13 @@
         {
             "rdf:about": "https://github.com/d-place/dplace-cldf",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.1",
+            "dc:created": "v3.0.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.8",
+            "dc:created": "v5.0",
             "dc:title": "Glottolog"
         }
     ],
@@ -258,7 +264,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
             "dc:description": "Values are coded datapoints, i.e. measurements of a variable for a society.\n\n**Note:** Missing data is signaled by an empty Value column.",
-            "dc:extent": 587172,
+            "dc:extent": 631668,
             "tableSchema": {
                 "columns": [
                     {
@@ -376,7 +382,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
             "dc:description": "The aggregated D-PLACE data lists two kinds of entities in its LanguageTable: Societies, i.e. cultural groups for which D-PLACE datasets provide data, and Languoids, i.e. language (varieties) which are referenced in Phlorest phylogenies. The two kinds are marked as \"society\" and \"languoid\"respectively in the type column.",
-            "dc:extent": 6099,
+            "dc:extent": 6174,
             "tableSchema": {
                 "columns": [
                     {
@@ -524,7 +530,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
             "dc:description": "Variables are cultural features or practices, or environmental descriptors.",
-            "dc:extent": 2369,
+            "dc:extent": 2987,
             "tableSchema": {
                 "columns": [
                     {
@@ -558,7 +564,7 @@
                         "dc:description": "",
                         "datatype": {
                             "base": "string",
-                            "format": "Anthropometry|Ceremony|Childhood|Class|Climate|Clothing|Community|Community organization|Data Quality|Death|Demography|Dwelling|Dwellings|Ecology|Economy|Games|Gender|Gossip|Health|Household|Housing|Infancy|Kinship|Labor|Labour|Leadership|Life cycle|Marriage|Material culture|Modernization|Mourning|Physical Landscape|Politics|Population|Property|Religion|Ritual|Settlement|Sexual practices|Subsistence|Technology|War|Warfare|Wealth Transactions|Wealth transactions"
+                            "format": "Anthropometry|Architecture|Ceramics and Art|Ceremony|Childhood|Class|Climate|Clothing|Community|Community organization|Data Quality|Death|Demography|Dwelling|Dwellings|Ecology|Economics|Economy|Games|Gender|Gossip|Health|Household|Housing|Infancy|Kinship|Labor|Labour|Law and Judicial Process|Leadership|Life cycle|Marriage|Material culture|Metalworking|Modernization|Mourning|Physical Landscape|Political Organization|Politics|Population|Property|Religion|Ritual|Settlement|Settlements|Sexual practices|Social Organization and Stratification|Special Knowledge and Practices|Subsistence|Technology|Tools|Utensils|War|Warfare|Watercraft and Navigation|Wealth Transactions|Wealth transactions|and Textiles"
                         },
                         "separator": ", ",
                         "name": "category"
@@ -613,7 +619,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 14214,
+            "dc:extent": 15450,
             "tableSchema": {
                 "columns": [
                     {
@@ -727,7 +733,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "Both, individual D-PLACE datasets as well as Phlorest phylogenies and Glottolog classification trees are citable units - and should be cited, if their data is used.",
-            "dc:extent": 121,
+            "dc:extent": 122,
             "tableSchema": {
                 "columns": [
                     {

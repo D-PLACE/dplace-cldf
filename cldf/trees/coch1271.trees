@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Cochimi-Yuman languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Cochimi-Yuman languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (((coco1261:1,kumi1248:2.0):1,(hava1248:1,paip1241:1):1,(mari1440:1,moha1256:1,quec1382:1):1):1,kili1268:1):2.0;

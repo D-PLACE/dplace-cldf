@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Kru languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Kru languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((bakw1243:2.0,dalo1238:3.0):1,(klao1243:3.0,(sapo1251:1,west2488:1):2.0):3.0):1;

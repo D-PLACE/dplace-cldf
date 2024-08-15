@@ -1,6 +1,6 @@
 #NEXUS
-[Classification of Siouan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Siouan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
-TREE summary = [&R] ((mand1446:1,((assi1247:1,(dako1258:1,lako1247:1):1):1,(hoch1243:1,iowa1245:1):1,omah1247:2.0):1,(crow1244:1,hida1246:1):1):1,cata1286:2.0):1;
+TREE summary = [&R] ((mand1446:1,(((dako1258:1,lako1247:1):1,assi1247:2.0):1,(hoch1243:1,iowa1245:1):1,omah1247:2.0):1,(crow1244:1,hida1246:1):1):1,cata1286:2.0):1;
 END;

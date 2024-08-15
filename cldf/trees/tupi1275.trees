@@ -1,6 +1,6 @@
 #NEXUS
-[Classification of Tupian languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Tupian languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
-TREE summary = [&R] (((awet1244:1,(kama1373:1,((ache1246:1,xeta1241:1,mbya1239:2.0,east2555:3.0):1,(tupi1273:1,coca1259:2.0):1,(siri1273:1,yuqu1240:1):3.0):1,(tapi1254:1,temb1276:2.0):1):1):1,sate1243:1):1,mund1330:2.0,juru1256:2.0):1;
+TREE summary = [&R] (((awet1244:1,(kama1373:1,((ache1246:1,xeta1241:1,mbya1239:2.0,east2555:3.0):1,(tupi1273:1,coca1259:2.0):1,(siri1273:1,yuqu1240:1):3.0):1,(tapi1254:1,temb1276:2.0):1):1):1,sate1243:1):1,mund1330:2.0,juru1256:2.0):2.0;
 END;

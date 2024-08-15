@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Ta-Ne-Omotic languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Ta-Ne-Omotic languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((anfi1235:1,kafa1242:2.0):1,((bask1236:1,male1284:1,dorz1235:2.0):1,koor1239:2.0):1,yems1235:1):1;

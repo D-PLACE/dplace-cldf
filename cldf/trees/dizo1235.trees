@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Dizoid languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Dizoid languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (dizi1235:1,shek1245:1):1;

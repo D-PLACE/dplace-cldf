@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Tangkic languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Tangkic languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (lard1243:1,kaya1319:3.0):1;

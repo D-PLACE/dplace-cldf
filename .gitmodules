@@ -1,3 +1,6 @@
+[submodule "raw/datasets/carneiro"]
+	path = raw/datasets/carneiro
+	url = https://github.com/D-PLACE/dplace-dataset-carneiro
 [submodule "raw/datasets/binford"]
 	path = raw/datasets/binford
 	url = https://github.com/D-PLACE/dplace-dataset-binford

@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Tucanoan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Tucanoan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((tuca1252:2.0,guan1269:3.0):1,cube1242:3.0):2.0;

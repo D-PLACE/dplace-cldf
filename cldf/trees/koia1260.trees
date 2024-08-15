@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Koiarian languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Koiarian languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (gras1249:1,koit1244:1):3.0;

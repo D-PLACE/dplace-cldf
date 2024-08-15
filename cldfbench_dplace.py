@@ -89,14 +89,17 @@ class Dataset(DatasetWithSocieties):
         meta = self.contrib_meta[(dsdir.parent.name, dsdir.name)]
         if meta:
             src = Source.from_bibtex(meta['bib'])
+            #try:
             writer.cldf.add_sources(src)
+            #except:
+            #    assert meta['name'] == 'carneiro'
         res = dict(
             ID=('dplace-phylogeny-' if type_ == 'phylogeny' else '') + cldf.properties['rdf:ID'],
             Name=cldf.properties['dc:title'],
             Description=desc or cldf.properties.get('dc:description'),
             DOI=meta['doi'],
             Contributor=src['author'] if src else None,
-            Citation='{}\n{}'.format(meta.get('cit', ''), cldf.properties['dc:bibliographicCitation']),
+            Citation='{}\n{}'.format(meta.get('cit', ''), cldf.properties['dc:bibliographicCitation']) if meta['name'] != 'carneiro' else '',
             Source=[src.id] if src else [],
             type=type_,
         )
@@ -311,7 +314,12 @@ class Dataset(DatasetWithSocieties):
             writer.objects['ValueTable'].append(row)
 
         for src in ds.sources.items():
-            writer.cldf.add_sources(src)
+            if src.id in writer.cldf.sources._bibdata.entries:
+                # Merge!
+                if ('url' in src) and ('url' not in writer.cldf.sources._bibdata.entries[src.id].fields):
+                    writer.cldf.sources._bibdata.entries[src.id].fields['url'] = src['url']
+            else:
+                writer.cldf.add_sources(src)
 
     def add_nexus(self, writer, desc, nwk, mid):
         assert nwk

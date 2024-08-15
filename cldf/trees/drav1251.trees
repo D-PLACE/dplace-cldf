@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Dravidian languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Dravidian languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (((((mari1414:1,koya1251:2.0):1,west2408:4.0):1,(chen1255:1,mukh1238:1,telu1262:1):1,kuii1252:4.0):1,((kota1263:1,(toda1252:1,(koda1255:1,((kada1242:1,mala1464:1):1,(mala1468:1,(pali1274:1,tami1289:1):1):1):1):2.0):1):1,jenn1240:3.0):2.0):1,kuru1301:3.0):1;

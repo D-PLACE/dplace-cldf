@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Nuclear Trans New Guinea languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Nuclear Trans New Guinea languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((kamo1255:2.0,(ngal1298:1,sout2940:3.0):3.0):1,((umbu1258:2.0,melp1238:2.0):1,kuma1280:4.0):1,midg1235:4.0,enga1252:3.0,want1252:5.0,orok1269:6.0,(fore1270:2.0,sian1257:2.0):3.0,eipo1242:3.0,ekar1243:3.0):1;

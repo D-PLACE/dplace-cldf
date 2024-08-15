@@ -1,6 +1,6 @@
 #NEXUS
-[Classification of Nubian languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Nubian languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
-TREE summary = [&R] ((kenu1236:1,dill1242:3.0):1,mido1240:1):2.0;
+TREE summary = [&R] (mido1240:1,dill1242:4.0,kenu1236:2.0):1;
 END;

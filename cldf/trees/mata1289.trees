@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Matacoan languages in Glottolog v4.8 pruned to languages represented in D-PLACE]
+[Classification of Matacoan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((wich1264:1,wich1262:1):1,iyow1239:2.0):2.0;
