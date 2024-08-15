@@ -31,5 +31,10 @@ cldferd --format compact.svg cldf > erd.svg
 
 4. Edit `CHANGELOG.md`.
 5. Commit, tag and push the changes.
+   ```shell
+   git commit -a -m"release X.Y.Z"
+   git tag -a vX.Y.Z -m"release X.Y.Z"
+   git push origin --tags
+   ```
 6. Create a release on GitHub, thereby triggering archiving with Zenodo.
 7. Update the release description on GitHub with the DOI.

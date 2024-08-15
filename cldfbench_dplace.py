@@ -99,7 +99,7 @@ class Dataset(DatasetWithSocieties):
             Description=desc or cldf.properties.get('dc:description'),
             DOI=meta['doi'],
             Contributor=src['author'] if src else None,
-            Citation='{}\n{}'.format(meta.get('cit', ''), cldf.properties['dc:bibliographicCitation']) if meta['name'] != 'carneiro' else '',
+            Citation='{}\n{}'.format(meta.get('cit', ''), cldf.properties.get('dc:bibliographicCitation', '')).strip(),
             Source=[src.id] if src else [],
             type=type_,
         )

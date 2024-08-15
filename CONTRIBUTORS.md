@@ -19,4 +19,3 @@ William Divale |             | Author
 Michael C. Gavin |             | Author
 Václav Hrnčíř | @hrncirv    | Author
 Robert Forkel | @xrotwang   | DataCurator
-

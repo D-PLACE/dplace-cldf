@@ -238,7 +238,7 @@
         {
             "rdf:about": "https://github.com/d-place/dplace-cldf",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0.0",
+            "dc:created": "v3.1.0",
             "dc:title": "Repository"
         },
         {
