@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Yanomamic languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Yanomamic languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((nina1238:1,(yano1261:1,yano1262:1):2.0):1,sanu1240:1):1;

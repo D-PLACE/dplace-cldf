@@ -16,6 +16,13 @@ from pydplace.dataset import DatasetWithSocieties, data_schema
 from commonnexus import Nexus
 from commonnexus.blocks.trees import Trees
 
+OBSOLETE_CONTRIBUTIONS = {
+    'D-PLACE': [
+        'carneiro',  # Superseded by carneiro6
+        'pulotu',  # Keep separate for the time being
+    ],
+    'phlorest': [],
+}
 README = """
 The D-PLACE CLDF dataset aggregates data from
 - individual [D-PLACE datasets](https://zenodo.org/communities/phlorest),
@@ -46,35 +53,80 @@ in the [CLDF metadata](cldf/StructureDataset-metadata.json) - to refer to tables
 {}
 """
 
+
+def update(d, tag):
+    repo = Repository(d)
+    repo.update()
+    repo.checkout(tag)
+
+
+def glottolog_version(d):
+    ds = CLDFDataset.from_metadata(
+        d / 'cldf' / '{}-metadata.json'.format(
+            'StructureDataset' if d.parent.name == 'datasets' else 'Generic'))
+    for obj in ds.properties["prov:wasDerivedFrom"]:
+        if obj["rdf:about"] == 'https://github.com/glottolog/glottolog':
+            return obj['dc:created']
+
+
 class Dataset(DatasetWithSocieties):
     dir = pathlib.Path(__file__).parent
     id = "dplace"
 
-    def iter_contributions(self, type_):
-        for d in sorted(self.raw_dir.joinpath(type_).iterdir(), key=lambda p: p.name):
-            if d.is_dir():
-                yield d
+    def iter_contributions(self, args, type_=None):
+        import re
+        from cldfzenodo import API
+
+        DSID_PATTERN = re.compile(
+            r'files/(?P<org>(phlorest)|(D\-PLACE))/(?P<dsid>[a-z_\-0-9]+?)\-(?P<tag>v[0-9.]+)')
+        clones = {
+            'phlorest': {p.name: p for p in self.raw_dir.joinpath('phylogenies').iterdir()},
+            'D-PLACE': {p.name: p for p in self.raw_dir.joinpath('datasets').iterdir()},
+        }
+
+        def iter_records():
+            for rec in API.iter_records(community='dplace'):
+                m = DSID_PATTERN.search(rec.download_urls[0])
+                if not m:
+                    continue
+                dsid, org, tag = m.group('dsid'), m.group('org'), m.group('tag')
+                tag = tag.rstrip('.')
+                if not (org == 'phlorest' or dsid.startswith('dplace-dataset')):
+                    continue
+                dsid = dsid.replace('dplace-dataset-', '')
+                if dsid in OBSOLETE_CONTRIBUTIONS[org]:
+                    continue
+                if dsid not in clones[org]:
+                    args.log.warning('No clone for repository {}/{}'.format(org, dsid))
+                else:
+                    dsdir = clones[org][dsid]
+                    if (type_ is None) or (type_ == dsdir.parent.name):
+                        yield dsdir, rec, dsid, org, tag
+
+        yield from sorted(iter_records(), key=lambda i: (i[3], i[2]))
 
     def cmd_download(self, args: argparse.Namespace):
-        def get_release_info(d):
-            if d.parent.name == 'phylogenies':
-                repos = 'phlorest/{}'.format(d.name)
-                resid = 'dplace-phylogeny-' + d.name
-            else:
-                repos = 'D-PLACE/dplace-dataset-{}'.format(d.name)
-                resid = d.name
-            tag, doi, cit, bib = API.get_github_release_info(repos, bibid=resid)
-            if tag and tag != git_describe(d):
-                args.log.warning('{}: expected {} got {}'.format(d, tag, git_describe(d)))
-            return tag or '', doi or '', cit or '', bib.bibtex() if bib else ''
-
+        glottolog_versions = collections.defaultdict(list)
         with UnicodeWriter(self.etc_dir / 'contributions.csv') as writer:
             writer.writerow(['type', 'name', 'tag', 'doi', 'cit', 'bib'])
-            for d in itertools.chain(
-                self.iter_contributions('datasets'), self.iter_contributions('phylogenies')
-            ):
-                tag, doi, cit, bib = get_release_info(d)
-                writer.writerow([d.parent.name, d.name, tag, doi, cit, bib])
+            for d, rec, dsid, org, tag in self.iter_contributions(args):
+                update(d, tag)
+                glottolog_versions[glottolog_version(d)].append((org, dsid))
+                dsid = 'dplace-{}-{}'.format(
+            'phylogeny' if org == 'phlorest' else 'dataset', dsid)
+                writer.writerow([
+                    d.parent.name,
+                    d.name,
+                    tag,
+                    rec.doi,
+                    rec.get_citation(API),
+                    rec.get_bibtex(bibid=dsid)])
+        if len(glottolog_versions) > 1:
+            args.log.warning('multiple Glottolog versions!')
+            print(glottolog_versions)
+        else:
+            args.log.info('Contributions compiled with Glottolog version {}'.format(
+                list(glottolog_versions.keys())[0]))
 
     @functools.cached_property
     def contrib_meta(self):
@@ -122,7 +174,7 @@ class Dataset(DatasetWithSocieties):
             if l.level == args.glottolog.api.languoid_levels.language}
         assert glangs_in_dplace
         glangs_with_parents = {l.id: {li[1] for li in l.lineage} for l in glangs.values()}
-        for dsdir in self.iter_contributions('datasets'):
+        for dsdir, rec, dsid, org, tag in self.iter_contributions(args, type_='datasets'):
             self.add_dataset(
                 args.writer,
                 dsdir,
@@ -165,7 +217,7 @@ class Dataset(DatasetWithSocieties):
         # -------------------------
         # Add Phlorest phylogenies:
         # -------------------------
-        for dsdir in self.iter_contributions('phylogenies'):
+        for dsdir, rec, dsid, org, tag in self.iter_contributions(args, type_='phylogenies'):
             self.add_phlorest_phylogeny(args.writer, dsdir)
 
     def cmd_readme(self, args):
@@ -281,17 +333,20 @@ class Dataset(DatasetWithSocieties):
 
         if 'LanguageTable' in ds:
             for row in ds.iter_rows('LanguageTable'):
-                if row['Glottocode'] in glangs_in_dplace:
-                    glangs_in_dplace[row['Glottocode']].add(row['Glottocode'])
-                    llgcs = [row['Glottocode']]
-                else:
-                    for parent in glangs_with_parents[row['Glottocode']]:
-                        if parent in glangs_in_dplace:
-                            glangs_in_dplace[parent].add(row['Glottocode'])
-                            llgcs = [parent]
-                            break
+                if row['Glottocode']:
+                    if row['Glottocode'] in glangs_in_dplace:
+                        glangs_in_dplace[row['Glottocode']].add(row['Glottocode'])
+                        llgcs = [row['Glottocode']]
                     else:
-                        llgcs = [lg.id for lg in iter_child_languages(row['Glottocode'])]
+                        for parent in glangs_with_parents[row['Glottocode']]:
+                            if parent in glangs_in_dplace:
+                                glangs_in_dplace[parent].add(row['Glottocode'])
+                                llgcs = [parent]
+                                break
+                        else:
+                            llgcs = [lg.id for lg in iter_child_languages(row['Glottocode'])]
+                else:
+                    llgcs = []
                 row['type'] = 'society'
                 row['Language_Level_Glottocodes'] = llgcs
                 row['Contribution_ID'] = ds.properties['rdf:ID']

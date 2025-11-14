@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Salishan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Salishan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (bell1243:1,(((como1259:1,pent1242:1):1,(halk1245:1,squa1248:1):1,(clal1241:1,stra1244:1):1,twan1247:1,sout2965:2.0):1,till1254:1,(lowe1427:1,quin1251:1):2.0):1,((lill1248:1,(shus1248:1,thom1243:1):1):1,(coeu1236:1,colu1241:1,(okan1243:1,kali1308:2.0):1):1):1):1;

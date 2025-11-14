@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Hmong-Mien languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Hmong-Mien languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (horn1235:8.0,(iumi1238:1,kimm1245:1):2.0):1;

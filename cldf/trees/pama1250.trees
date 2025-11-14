@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Pama-Nyungan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Pama-Nyungan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (((lowe1436:1,(alya1239:1,east2379:2.0):1):2.0,kaur1267:4.0):1,((jaru1254:3.0,warl1254:2.0):1,((mart1256:1,wanm1242:1):2.0,(pint1250:1,(ngaa1240:1,pitj1243:1,yank1247:1):2.0):2.0,anta1253:2.0):1,kara1476:2.0):1,dyir1250:1,kala1377:1,(((flin1247:2.0,wikm1247:5.0,wika1238:2.0):1,ayab1239:3.0):1,(yiry1245:1,gugu1254:2.0):2.0):1,(ngad1258:2.0,kari1304:5.0):1,(((west2443:1,woiw1237:1):3.0,narr1259:3.0):1,(wang1291:1,gami1243:1):1,midd1357:5.0,(kabi1260:2.0,waka1274:2.0):2.0):1,(dhuw1249:5.0,djin1252:2.0):1,yaga1256:2.0,gana1278:2.0,waru1264:6.0,(karr1236:2.0,dier1241:4.0):2.0,darl1243:2.0,kuku1273:3.0):1;

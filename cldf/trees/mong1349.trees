@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Mongolic-Khitan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Mongolic-Khitan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (daur1238:1,mogh1245:1,((halh1238:1,kalm1243:1,peri1253:1):1,russ1264:2.0):2.0):2.0;

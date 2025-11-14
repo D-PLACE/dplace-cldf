@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Kxa languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Kxa languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (vase1234:1,juho1239:1):2.0;

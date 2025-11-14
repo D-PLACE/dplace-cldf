@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Uralic languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Uralic languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((udmu1245:1,komi1269:2.0):1,((nort2671:2.0,sout2674:2.0):1,kemi1239:3.0):1,(ngan1291:1,nene1249:3.0,selk1253:2.0):1,(livv1244:1,((esto1258:1,voti1245:1):1,(((livv1243:1,veps1250:1):1,ingr1248:1):1,finn1318:2.0):1):1):2.0,hung1274:2.0,khan1273:3.0,mans1258:3.0,east2328:2.0,erzy1239:2.0):1;

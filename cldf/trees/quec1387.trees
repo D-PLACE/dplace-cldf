@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Quechuan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Quechuan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (ayac1239:2.0,sout2991:3.0,cusc1236:2.0):2.0;

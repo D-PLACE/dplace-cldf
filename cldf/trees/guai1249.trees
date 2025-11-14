@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Guaicuruan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Guaicuruan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((abip1241:1,toba1269:3.0):1,kadi1248:1):1;

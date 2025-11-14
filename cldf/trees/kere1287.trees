@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Keresan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Keresan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (east1472:1,west2632:1):1;

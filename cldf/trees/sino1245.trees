@@ -1,6 +1,6 @@
 #NEXUS
-[Classification of Sino-Tibetan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Sino-Tibetan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
-TREE summary = [&R] (((garo1247:1,kach1279:4.0):1,kach1280:3.0):1,(lepc1244:1,west2418:4.0):1,((((sout2732:1,sumi1235:1):1,anga1288:3.0):1,(aona1235:1,loth1237:1):1):1,((lush1249:3.0,mara1382:3.0):1,(thad1238:3.0,asho1236:3.0):1,(aimo1244:1,puru1266:1):2.0):1,mani1292:1,karb1241:2.0):1,((mand1415:3.0,wuch1236:2.0,yuec1235:2.0):2.0,minn1241:3.0):1,(tibe1272:1,sher1255:4.0):6.0,((akha1245:6.0,sich1238:6.0):1,(nucl1310:1,rakh1245:2.0):4.0):2.0,pwow1235:5.0,cent2004:4.0,bori1243:4.0,mruu1242:2.0):1;
+TREE summary = [&R] (((garo1247:1,kach1279:4.0):1,kach1280:3.0):1,(lepc1244:1,west2418:4.0):1,(pwow1235:4.0,sgaw1245:3.0):1,((((sout2732:1,sumi1235:1):1,anga1288:3.0):1,(aona1235:1,loth1237:1):1):1,((lush1249:3.0,mara1382:3.0):1,(thad1238:3.0,asho1236:3.0):1,(aimo1244:1,puru1266:1):2.0):1,mani1292:1,karb1241:2.0):1,(oldc1244:1,(mand1415:3.0,wuch1236:3.0,yuec1235:2.0):2.0,minn1241:5.0):1,(tibe1272:1,sher1255:4.0):6.0,((akha1245:6.0,sich1238:6.0):1,(nucl1310:1,rakh1245:2.0):4.0):2.0,cent2004:4.0,bori1243:4.0,mruu1242:2.0):1;
 END;

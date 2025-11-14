@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Eskimo-Aleut languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Eskimo-Aleut languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((((nort2943:1,nort2945:1):1,east2534:1,(kala1399:1,tunu1234:1):1,west2618:1):1,(cent2127:1,cent2128:1,paci1278:1):1):1,aleu1260:2.0):1;

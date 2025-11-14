@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Otomanguean languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Otomanguean languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (((huau1238:4.0,yala1267:7.0):1,juxt1235:5.0):1,((chic1272:1,mezq1235:4.0):1,ojit1237:5.0):2.0):1;

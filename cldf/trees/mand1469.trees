@@ -1,6 +1,6 @@
 #NEXUS
-[Classification of Mande languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Mande languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
-TREE summary = [&R] (((biss1248:1,sout2844:3.0):1,(((dann1241:1,tour1242:2.0):1,guro1248:2.0):2.0,gagu1242:3.0):1):1,((((susu1250:1,yalu1240:1):1,((((bamb1269:1,dyul1238:1):1,(kita1249:2.0,xaas1235:2.0):1):1,kura1250:2.0):1,vaii1241:2.0):2.0):1,(((band1352:2.0,mend1266:2.0):1,toma1245:2.0):1,libe1247:2.0):1):1,(((jena1242:1,tiey1235:2.0):2.0,soni1259:2.0):1,nort2819:3.0):1):1):1;
+TREE summary = [&R] (((biss1248:1,sout2844:3.0):1,((((dann1241:1,tour1242:2.0):1,guro1248:2.0):1,mann1248:1):1,gagu1242:3.0):1):1,((((susu1250:1,yalu1240:1):1,((((bamb1269:1,dyul1238:1):1,(kita1249:2.0,xaas1235:2.0):1):1,kura1250:2.0):1,vaii1241:2.0):2.0):1,(((band1352:2.0,mend1266:2.0):1,toma1245:2.0):1,libe1247:2.0):1):1,(((jena1242:1,tiey1235:2.0):2.0,soni1259:2.0):1,nort2819:3.0):1):1):1;
 END;

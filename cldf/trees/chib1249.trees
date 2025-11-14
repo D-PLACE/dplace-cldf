@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Chibchan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Chibchan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (((ngab1239:2.0,sanb1242:2.0):1,brib1243:3.0):1,((chib1270:2.0,cent2150:2.0):1,(cogu1240:1,arhu1242:2.0):2.0):1):2.0;

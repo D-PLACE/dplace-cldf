@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Arawakan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Arawakan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (((((gari1256:1,isla1278:1):1,araw1276:1):1,tain1254:1):1,(para1316:1,wayu1243:1):1):1,((pare1272:3.0,yawa1261:2.0):1,pali1279:1):1,(tere1279:2.0,ajyi1238:7.0,yine1238:5.0):1,(curr1243:3.0,piap1246:2.0):3.0,wapi1253:5.0):1;

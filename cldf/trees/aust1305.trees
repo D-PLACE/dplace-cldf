@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Austroasiatic languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Austroasiatic languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((((lame1256:1,west2396:4.0):1,shwe1236:3.0):1,khas1269:4.0):1,(cent1989:1,oldk1249:1):1,(((birh1242:1,(hooo1248:1,mund1320:1):1):1,sant1410:2.0):2.0,sora1254:3.0):1,((sema1266:1,temi1246:2.0):1,(kens1248:2.0,jeha1242:2.0):2.0):2.0,east2333:6.0,mlab1235:4.0,carn1240:2.0,(viet1252:1,muon1246:2.0):2.0):1;

@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Ndu languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Ndu languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (ambu1247:2.0,iatm1242:3.0):2.0;

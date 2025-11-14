@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Turkic languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Turkic languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((((((kara1464:1,kumy1244:2.0):1,(bash1264:1,tata1255:1):2.0):1,((kara1467:1,kaza1248:1):1,kirg1245:2.0):1):1,(uigh1240:2.0,nort2690:2.0):2.0):1,(qash1240:1,(gaga1249:1,nucl1301:1):1,nort2697:2.0,turk1304:2.0):2.0,yaku1245:2.0,tuvi1240:4.0):1,chuv1255:2.0):1;

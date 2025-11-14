@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Surmic languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Surmic languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] ((meen1242:1,suri1267:2.0):2.0,didi1258:4.0):2.0;

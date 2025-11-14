@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Jarrakan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Jarrakan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (kitj1240:1,miri1266:2.0):1;

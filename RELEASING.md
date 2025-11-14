@@ -1,13 +1,13 @@
 # Releasing dplace-cldf
 
-1. Release all consituent datasets and phylogenies, compiled against the latest Glottolog release.
+1. Release all constituent datasets and phylogenies, compiled against the latest Glottolog release.
 2. Run
    ```shell
    cldfbench download cldfbench_dplace.py
    ```
 
 ```shell
-cldfbench makecldf cldfbench_dplace.py --glottolog-version v5.0
+cldfbench makecldf cldfbench_dplace.py --glottolog-version v5.2
 ```
 
 ```shell

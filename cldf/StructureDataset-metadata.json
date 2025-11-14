@@ -16,242 +16,278 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-binford",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-carneiro/",
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-carneiro4",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v1.0.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/D-PLACE/dplace-dataset-carneiro6",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.0.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ccmc",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ecoclimate",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-gmted2010",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-gshhs",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-jenkins",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-kreft",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-modis",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-sccs",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-teow",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-wnai",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0",
+            "dc:created": "v3.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/atkinson2006",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2",
+            "dc:created": "v1.3",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/birchall_et_al2016",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/bouckaert_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/bouckaert_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/bowern_and_atkinson2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/chacon_and_list2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/chang_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/defilippo_et_al2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/dunn_et_al2011",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/gray_et_al2009",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/greenhill2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/greenhill_et_al2023",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/grollemund_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/hartmann_and_walkden2024",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.0",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/holden_et_al2005",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/honkola_et_al2013",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/hruschka_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/kitchen_et_al2009",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/kolipakam_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/lee2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/lee_and_hasegawa2011",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/lee_and_hasegawa2013",
             "rdf:type": "prov:Entity",
+            "dc:created": "v1.2",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/michael_et_al2015",
+            "rdf:type": "prov:Entity",
             "dc:created": "v1.1",
+            "dc:title": "Repository"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/rexova_et_al2006",
+            "rdf:type": "prov:Entity",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/robinson_and_holton2012",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/sagart_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/sicoli_and_holton2014",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/walker_and_ribeiro2011",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/phlorest/zhang_et_al2019",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/d-place/dplace-cldf",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1.0",
+            "dc:created": "v3.1.1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.10.12"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
@@ -264,7 +300,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
             "dc:description": "Values are coded datapoints, i.e. measurements of a variable for a society.\n\n**Note:** Missing data is signaled by an empty Value column.",
-            "dc:extent": 631668,
+            "dc:extent": 677862,
             "tableSchema": {
                 "columns": [
                     {
@@ -382,7 +418,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
             "dc:description": "The aggregated D-PLACE data lists two kinds of entities in its LanguageTable: Societies, i.e. cultural groups for which D-PLACE datasets provide data, and Languoids, i.e. language (varieties) which are referenced in Phlorest phylogenies. The two kinds are marked as \"society\" and \"languoid\"respectively in the type column.",
-            "dc:extent": 6174,
+            "dc:extent": 6684,
             "tableSchema": {
                 "columns": [
                     {
@@ -530,7 +566,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
             "dc:description": "Variables are cultural features or practices, or environmental descriptors.",
-            "dc:extent": 2987,
+            "dc:extent": 3341,
             "tableSchema": {
                 "columns": [
                     {
@@ -564,7 +600,7 @@
                         "dc:description": "",
                         "datatype": {
                             "base": "string",
-                            "format": "Anthropometry|Architecture|Ceramics and Art|Ceremony|Childhood|Class|Climate|Clothing|Community|Community organization|Data Quality|Death|Demography|Dwelling|Dwellings|Ecology|Economics|Economy|Games|Gender|Gossip|Health|Household|Housing|Infancy|Kinship|Labor|Labour|Law and Judicial Process|Leadership|Life cycle|Marriage|Material culture|Metalworking|Modernization|Mourning|Physical Landscape|Political Organization|Politics|Population|Property|Religion|Ritual|Settlement|Settlements|Sexual practices|Social Organization and Stratification|Special Knowledge and Practices|Subsistence|Technology|Tools|Utensils|War|Warfare|Watercraft and Navigation|Wealth Transactions|Wealth transactions|and Textiles"
+                            "format": "Anthropometry|Architecture|Ceramics and Art|Ceremony|Childhood|Class|Climate|Clothing|Community|Community organization|Data Quality|Death|Demography|Dwelling|Dwellings|Ecology|Economics|Economy|Games|Gender|Gossip|Health|Household|Housing|Infancy|Kinship|Labor|Labour|Law and Judicial Process|Leadership|Life cycle|Marriage|Material culture|Metalworking|Modernization|Mourning|Physical Landscape|Political Organization|Politics|Population|Property|Religion|Ritual|Settlement|Settlements|Sexual practices|Social Organization and Stratification|Special Knowledge and Practices|Subsistence|Technology|Tools and Utensils and Textiles|War|Warfare|Watercraft and Navigation|Wealth Transactions|Wealth transactions"
                         },
                         "separator": ", ",
                         "name": "category"
@@ -619,7 +655,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 15450,
+            "dc:extent": 16158,
             "tableSchema": {
                 "columns": [
                     {
@@ -678,7 +714,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:description": "For better re-usability, D-PLACE provides the Glottolog classification trees and Phlorest phylogenies in the NEXUS file format.",
-            "dc:extent": 109,
+            "dc:extent": 114,
             "tableSchema": {
                 "columns": [
                     {
@@ -733,7 +769,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ContributionTable",
             "dc:description": "Both, individual D-PLACE datasets as well as Phlorest phylogenies and Glottolog classification trees are citable units - and should be cited, if their data is used.",
-            "dc:extent": 122,
+            "dc:extent": 128,
             "tableSchema": {
                 "columns": [
                     {
@@ -796,7 +832,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#TreeTable",
             "dc:description": "D-PLACE contains the summary trees of Phlorest phylogenies and classification trees for Glottolog families which are associated with at least two societies in D-PLACE.",
-            "dc:extent": 109,
+            "dc:extent": 114,
             "tableSchema": {
                 "columns": [
                     {

@@ -13,8 +13,8 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://d-place.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by-nc/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/d-place/dplace-cldf
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/D-PLACE/dplace-dataset-binford/tree/v3.1">D-PLACE/dplace-dataset-binford v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-carneiro//tree/v3.1">D-PLACE/dplace-dataset-carneiro/ v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-ccmc/tree/v3.1">D-PLACE/dplace-dataset-ccmc v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-ea/tree/v3.1">D-PLACE/dplace-dataset-ea v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-ecoclimate/tree/v3.1">D-PLACE/dplace-dataset-ecoclimate v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-gmted2010/tree/v3.1">D-PLACE/dplace-dataset-gmted2010 v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-gshhs/tree/v3.1">D-PLACE/dplace-dataset-gshhs v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-jenkins/tree/v3.1">D-PLACE/dplace-dataset-jenkins v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-kreft/tree/v3.1">D-PLACE/dplace-dataset-kreft v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-modis/tree/v3.1">D-PLACE/dplace-dataset-modis v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-sccs/tree/v3.1">D-PLACE/dplace-dataset-sccs v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-teow/tree/v3.1">D-PLACE/dplace-dataset-teow v3.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-wnai/tree/v3.0">D-PLACE/dplace-dataset-wnai v3.0</a></li><li><a href="https://github.com/phlorest/atkinson2006/tree/v1.2">phlorest/atkinson2006 v1.2</a></li><li><a href="https://github.com/phlorest/birchall_et_al2016/tree/v1.1">phlorest/birchall_et_al2016 v1.1</a></li><li><a href="https://github.com/phlorest/bouckaert_et_al2012/tree/v1.1">phlorest/bouckaert_et_al2012 v1.1</a></li><li><a href="https://github.com/phlorest/bouckaert_et_al2018/tree/v1.1">phlorest/bouckaert_et_al2018 v1.1</a></li><li><a href="https://github.com/phlorest/bowern_and_atkinson2012/tree/v1.1">phlorest/bowern_and_atkinson2012 v1.1</a></li><li><a href="https://github.com/phlorest/chacon_and_list2015/tree/v1.1">phlorest/chacon_and_list2015 v1.1</a></li><li><a href="https://github.com/phlorest/chang_et_al2015/tree/v1.1">phlorest/chang_et_al2015 v1.1</a></li><li><a href="https://github.com/phlorest/defilippo_et_al2012/tree/v1.1">phlorest/defilippo_et_al2012 v1.1</a></li><li><a href="https://github.com/phlorest/dunn_et_al2011/tree/v1.1">phlorest/dunn_et_al2011 v1.1</a></li><li><a href="https://github.com/phlorest/gray_et_al2009/tree/v1.1.1">phlorest/gray_et_al2009 v1.1.1</a></li><li><a href="https://github.com/phlorest/greenhill2015/tree/v1.1">phlorest/greenhill2015 v1.1</a></li><li><a href="https://github.com/phlorest/grollemund_et_al2015/tree/v1.1">phlorest/grollemund_et_al2015 v1.1</a></li><li><a href="https://github.com/phlorest/honkola_et_al2013/tree/v1.1">phlorest/honkola_et_al2013 v1.1</a></li><li><a href="https://github.com/phlorest/hruschka_et_al2015/tree/v1.1">phlorest/hruschka_et_al2015 v1.1</a></li><li><a href="https://github.com/phlorest/kitchen_et_al2009/tree/v1.1">phlorest/kitchen_et_al2009 v1.1</a></li><li><a href="https://github.com/phlorest/kolipakam_et_al2018/tree/v1.1">phlorest/kolipakam_et_al2018 v1.1</a></li><li><a href="https://github.com/phlorest/lee2015/tree/v1.1">phlorest/lee2015 v1.1</a></li><li><a href="https://github.com/phlorest/lee_and_hasegawa2011/tree/v1.1">phlorest/lee_and_hasegawa2011 v1.1</a></li><li><a href="https://github.com/phlorest/lee_and_hasegawa2013/tree/v1.1">phlorest/lee_and_hasegawa2013 v1.1</a></li><li><a href="https://github.com/phlorest/robinson_and_holton2012/tree/v1.1">phlorest/robinson_and_holton2012 v1.1</a></li><li><a href="https://github.com/phlorest/sagart_et_al2019/tree/v1.1">phlorest/sagart_et_al2019 v1.1</a></li><li><a href="https://github.com/phlorest/sicoli_and_holton2014/tree/v1.1">phlorest/sicoli_and_holton2014 v1.1</a></li><li><a href="https://github.com/phlorest/walker_and_ribeiro2011/tree/v1.1">phlorest/walker_and_ribeiro2011 v1.1</a></li><li><a href="https://github.com/phlorest/zhang_et_al2019/tree/v1.1">phlorest/zhang_et_al2019 v1.1</a></li><li><a href="https://github.com/d-place/dplace-cldf/tree/v3.1.0">d-place/dplace-cldf v3.1.0</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li></ol>
-[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.12</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/D-PLACE/dplace-dataset-binford/tree/v3.2">D-PLACE/dplace-dataset-binford v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-carneiro4/tree/v1.0.1">D-PLACE/dplace-dataset-carneiro4 v1.0.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-carneiro6/tree/v1.0.1">D-PLACE/dplace-dataset-carneiro6 v1.0.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-ccmc/tree/v3.2">D-PLACE/dplace-dataset-ccmc v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-ea/tree/v3.2.1">D-PLACE/dplace-dataset-ea v3.2.1</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-ecoclimate/tree/v3.2">D-PLACE/dplace-dataset-ecoclimate v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-gmted2010/tree/v3.2">D-PLACE/dplace-dataset-gmted2010 v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-gshhs/tree/v3.2">D-PLACE/dplace-dataset-gshhs v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-jenkins/tree/v3.2">D-PLACE/dplace-dataset-jenkins v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-kreft/tree/v3.2">D-PLACE/dplace-dataset-kreft v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-modis/tree/v3.2">D-PLACE/dplace-dataset-modis v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-sccs/tree/v3.2">D-PLACE/dplace-dataset-sccs v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-teow/tree/v3.2">D-PLACE/dplace-dataset-teow v3.2</a></li><li><a href="https://github.com/D-PLACE/dplace-dataset-wnai/tree/v3.2">D-PLACE/dplace-dataset-wnai v3.2</a></li><li><a href="https://github.com/phlorest/atkinson2006/tree/v1.3">phlorest/atkinson2006 v1.3</a></li><li><a href="https://github.com/phlorest/birchall_et_al2016/tree/v1.2">phlorest/birchall_et_al2016 v1.2</a></li><li><a href="https://github.com/phlorest/bouckaert_et_al2012/tree/v1.2">phlorest/bouckaert_et_al2012 v1.2</a></li><li><a href="https://github.com/phlorest/bouckaert_et_al2018/tree/v1.2">phlorest/bouckaert_et_al2018 v1.2</a></li><li><a href="https://github.com/phlorest/bowern_and_atkinson2012/tree/v1.2">phlorest/bowern_and_atkinson2012 v1.2</a></li><li><a href="https://github.com/phlorest/chacon_and_list2015/tree/v1.2">phlorest/chacon_and_list2015 v1.2</a></li><li><a href="https://github.com/phlorest/chang_et_al2015/tree/v1.2">phlorest/chang_et_al2015 v1.2</a></li><li><a href="https://github.com/phlorest/defilippo_et_al2012/tree/v1.2">phlorest/defilippo_et_al2012 v1.2</a></li><li><a href="https://github.com/phlorest/dunn_et_al2011/tree/v1.2">phlorest/dunn_et_al2011 v1.2</a></li><li><a href="https://github.com/phlorest/gray_et_al2009/tree/v1.2">phlorest/gray_et_al2009 v1.2</a></li><li><a href="https://github.com/phlorest/greenhill2015/tree/v1.2">phlorest/greenhill2015 v1.2</a></li><li><a href="https://github.com/phlorest/greenhill_et_al2023/tree/v1.0">phlorest/greenhill_et_al2023 v1.0</a></li><li><a href="https://github.com/phlorest/grollemund_et_al2015/tree/v1.2">phlorest/grollemund_et_al2015 v1.2</a></li><li><a href="https://github.com/phlorest/hartmann_and_walkden2024/tree/v1.0">phlorest/hartmann_and_walkden2024 v1.0</a></li><li><a href="https://github.com/phlorest/holden_et_al2005/tree/v1.0">phlorest/holden_et_al2005 v1.0</a></li><li><a href="https://github.com/phlorest/honkola_et_al2013/tree/v1.2">phlorest/honkola_et_al2013 v1.2</a></li><li><a href="https://github.com/phlorest/hruschka_et_al2015/tree/v1.2">phlorest/hruschka_et_al2015 v1.2</a></li><li><a href="https://github.com/phlorest/kitchen_et_al2009/tree/v1.2">phlorest/kitchen_et_al2009 v1.2</a></li><li><a href="https://github.com/phlorest/kolipakam_et_al2018/tree/v1.2">phlorest/kolipakam_et_al2018 v1.2</a></li><li><a href="https://github.com/phlorest/lee2015/tree/v1.2">phlorest/lee2015 v1.2</a></li><li><a href="https://github.com/phlorest/lee_and_hasegawa2011/tree/v1.2">phlorest/lee_and_hasegawa2011 v1.2</a></li><li><a href="https://github.com/phlorest/lee_and_hasegawa2013/tree/v1.2">phlorest/lee_and_hasegawa2013 v1.2</a></li><li><a href="https://github.com/phlorest/michael_et_al2015/tree/v1.1">phlorest/michael_et_al2015 v1.1</a></li><li><a href="https://github.com/phlorest/rexova_et_al2006/tree/v1.0">phlorest/rexova_et_al2006 v1.0</a></li><li><a href="https://github.com/phlorest/robinson_and_holton2012/tree/v1.2">phlorest/robinson_and_holton2012 v1.2</a></li><li><a href="https://github.com/phlorest/sagart_et_al2019/tree/v1.2">phlorest/sagart_et_al2019 v1.2</a></li><li><a href="https://github.com/phlorest/sicoli_and_holton2014/tree/v1.2">phlorest/sicoli_and_holton2014 v1.2</a></li><li><a href="https://github.com/phlorest/walker_and_ribeiro2011/tree/v1.2">phlorest/walker_and_ribeiro2011 v1.2</a></li><li><a href="https://github.com/phlorest/zhang_et_al2019/tree/v1.2">phlorest/zhang_et_al2019 v1.2</a></li><li><a href="https://github.com/d-place/dplace-cldf/tree/v3.1.1">d-place/dplace-cldf v3.1.1</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.2">Glottolog v5.2</a></li></ol>
+[prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | dplace
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
@@ -28,7 +28,7 @@ Values are coded datapoints, i.e. measurements of a variable for a society.
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ValueTable](http://cldf.clld.org/v1.0/terms.rdf#ValueTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 631668
+[dc:extent](http://purl.org/dc/terms/extent) | 677862
 
 
 ### Columns
@@ -54,7 +54,7 @@ The aggregated D-PLACE data lists two kinds of entities in its LanguageTable: So
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 6174
+[dc:extent](http://purl.org/dc/terms/extent) | 6684
 
 
 ### Columns
@@ -89,7 +89,7 @@ Variables are cultural features or practices, or environmental descriptors.
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2987
+[dc:extent](http://purl.org/dc/terms/extent) | 3341
 
 
 ### Columns
@@ -100,7 +100,7 @@ Name/Property | Datatype | Description
 [Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 [Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
 [ColumnSpec](http://cldf.clld.org/v1.0/terms.rdf#columnSpec) | `json` | 
-`category` | list of `string`<br>Valid choices:<br> `Anthropometry` `Architecture` `Ceramics and Art` `Ceremony` `Childhood` `Class` `Climate` `Clothing` `Community` `Community organization` `Data Quality` `Death` `Demography` `Dwelling` `Dwellings` `Ecology` `Economics` `Economy` `Games` `Gender` `Gossip` `Health` `Household` `Housing` `Infancy` `Kinship` `Labor` `Labour` `Law and Judicial Process` `Leadership` `Life cycle` `Marriage` `Material culture` `Metalworking` `Modernization` `Mourning` `Physical Landscape` `Political Organization` `Politics` `Population` `Property` `Religion` `Ritual` `Settlement` `Settlements` `Sexual practices` `Social Organization and Stratification` `Special Knowledge and Practices` `Subsistence` `Technology` `Tools` `Utensils` `War` `Warfare` `Watercraft and Navigation` `Wealth Transactions` `Wealth transactions` `and Textiles` (separated by `, `) | 
+`category` | list of `string`<br>Valid choices:<br> `Anthropometry` `Architecture` `Ceramics and Art` `Ceremony` `Childhood` `Class` `Climate` `Clothing` `Community` `Community organization` `Data Quality` `Death` `Demography` `Dwelling` `Dwellings` `Ecology` `Economics` `Economy` `Games` `Gender` `Gossip` `Health` `Household` `Housing` `Infancy` `Kinship` `Labor` `Labour` `Law and Judicial Process` `Leadership` `Life cycle` `Marriage` `Material culture` `Metalworking` `Modernization` `Mourning` `Physical Landscape` `Political Organization` `Politics` `Population` `Property` `Religion` `Ritual` `Settlement` `Settlements` `Sexual practices` `Social Organization and Stratification` `Special Knowledge and Practices` `Subsistence` `Technology` `Tools and Utensils and Textiles` `War` `Warfare` `Watercraft and Navigation` `Wealth Transactions` `Wealth transactions` (separated by `, `) | 
 `type` | `string`<br>Valid choices:<br> `Continuous` `Categorical` `Ordinal` | Variables may be categorical (and then must be accompanied by a list of possible ‘codes’, i.e. rows in Codetable. Variables can also be continuous (e.g. Population size) or ordinal. Ordinal variables are accompanied by a list of codes (like categorical variables). The order of codes is encoded as `ord` column in CodeTable.
 `unit` | `string` | The unit of measurement
 `source_comment` | `string` | A note about the source of this variable.
@@ -113,7 +113,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CodeTable](http://cldf.clld.org/v1.0/terms.rdf#CodeTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 15450
+[dc:extent](http://purl.org/dc/terms/extent) | 16158
 
 
 ### Columns
@@ -133,7 +133,7 @@ For better re-usability, D-PLACE provides the Glottolog classification trees and
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 109
+[dc:extent](http://purl.org/dc/terms/extent) | 114
 
 
 ### Columns
@@ -154,7 +154,7 @@ Both, individual D-PLACE datasets as well as Phlorest phylogenies and Glottolog 
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ContributionTable](http://cldf.clld.org/v1.0/terms.rdf#ContributionTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 122
+[dc:extent](http://purl.org/dc/terms/extent) | 128
 
 
 ### Columns
@@ -177,7 +177,7 @@ D-PLACE contains the summary trees of Phlorest phylogenies and classification tr
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF TreeTable](http://cldf.clld.org/v1.0/terms.rdf#TreeTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 109
+[dc:extent](http://purl.org/dc/terms/extent) | 114
 
 
 ### Columns

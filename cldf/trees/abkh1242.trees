@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Abkhaz-Adyge languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Abkhaz-Adyge languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (abkh1244:2.0,kaba1278:2.0):1;

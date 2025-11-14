@@ -1,5 +1,5 @@
 #NEXUS
-[Classification of Gunwinyguan languages in Glottolog v5.0 pruned to languages represented in D-PLACE]
+[Classification of Gunwinyguan languages in Glottolog v5.2 pruned to languages represented in D-PLACE]
 
 BEGIN TREES;
 TREE summary = [&R] (gunw1252:1,(anin1240:1,nung1290:1):2.0):1;
