@@ -1,6 +1,11 @@
 # Changes
 
 
+## [v3.2.1]
+
+v3.2.0 did not contain the summary trees for the new phylogenies. This release fixes this.
+
+
 ## [v3.2.0]
 
 - Added 5 new Phlorest phylogenies.
