@@ -1,6 +1,9 @@
-[submodule "raw/datasets/carneiro"]
-	path = raw/datasets/carneiro
-	url = https://github.com/D-PLACE/dplace-dataset-carneiro
+[submodule "raw/datasets/carneiro4"]
+	path = raw/datasets/carneiro4
+	url = https://D-PLACE/dplace-dataset-carneiro4
+[submodule "raw/datasets/carneiro6"]
+	path = raw/datasets/carneiro6
+	url = https://D-PLACE/dplace-dataset-carneiro6
 [submodule "raw/datasets/binford"]
 	path = raw/datasets/binford
 	url = https://github.com/D-PLACE/dplace-dataset-binford
@@ -70,9 +73,15 @@
 [submodule "raw/phylogenies/greenhill2015"]
 	path = raw/phylogenies/greenhill2015
 	url = https://github.com/phlorest/greenhill2015
+[submodule "raw/phylogenies/greenhill_et_al2023"]
+	path = raw/phylogenies/greenhill_et_al2023
+	url = https://phlorest/greenhill_et_al2023
 [submodule "raw/phylogenies/grollemund_et_al2015"]
 	path = raw/phylogenies/grollemund_et_al2015
 	url = https://github.com/phlorest/grollemund_et_al2015
+[submodule "raw/phylogenies/hartmann_and_walkden2024"]
+	path = raw/phylogenies/hartmann_and_walkden2024
+	url = https://github.com/phlorest/hartmann_and_walkden2024
 [submodule "raw/phylogenies/honkola_et_al2013"]
 	path = raw/phylogenies/honkola_et_al2013
 	url = https://github.com/phlorest/honkola_et_al2013
@@ -109,3 +118,12 @@
 [submodule "raw/phylogenies/zhang_et_al2019"]
 	path = raw/phylogenies/zhang_et_al2019
 	url = https://github.com/phlorest/zhang_et_al2019
+[submodule "raw/phylogenies/holden_et_al2005"]
+	path = raw/phylogenies/holden_et_al2005
+	url = https://phlorest/holden_et_al2005
+[submodule "raw/phylogenies/michael_et_al2015"]
+	path = raw/phylogenies/michael_et_al2015
+	url = https://phlorest/michael_et_al2015
+[submodule "raw/phylogenies/rexova_et_al2006"]
+	path = raw/phylogenies/rexova_et_al2006
+	url = https://phlorest/rexova_et_al2006
