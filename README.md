@@ -52,14 +52,14 @@ in the [CLDF metadata](cldf/StructureDataset-metadata.json) - to refer to tables
 | D-PLACE dataset derived from Robert L. Carneiro's Dataset (4th Edition) | v1.0.1 | [10.5281/zenodo.17607789](https://doi.org/10.5281/zenodo.17607789) |
 | D-PLACE dataset derived from Robert L. Carneiro's Dataset (6th edition) | v1.0.1 | [10.5281/zenodo.17607723](https://doi.org/10.5281/zenodo.17607723) |
 | D-PLACE dataset derived from Bertolo et al. 2023 'Cross-cultural music corpus: The Expanded Natural History of Song Discography' | v3.2 | [10.5281/zenodo.17600888](https://doi.org/10.5281/zenodo.17600888) |
-| D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas' | v3.2.1 | [10.5281/zenodo.17602181](https://doi.org/10.5281/zenodo.17602181) |
+| D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas' | v3.3 | [10.5281/zenodo.17984267](https://doi.org/10.5281/zenodo.17984267) |
 | D-PLACE dataset derived from Lima-Ribeiro et al. 2015 'ecoClimate' | v3.2 | [10.5281/zenodo.17601193](https://doi.org/10.5281/zenodo.17601193) |
 | D-PLACE dataset derived from 'Global Multi-resolution Terrain Elevation Data 2010' | v3.2 | [10.5281/zenodo.17601586](https://doi.org/10.5281/zenodo.17601586) |
 | D-PLACE dataset derived from Wessel and Smith 2015 'Global Self-consistent, Hierarchical, High-resolution Geography Database' | v3.2 | [10.5281/zenodo.17601634](https://doi.org/10.5281/zenodo.17601634) |
 | D-PLACE dataset derived from Jenkins et al. 2013 'Global patterns of terrestrial vertebrate diversity and conservation' | v3.2 | [10.5281/zenodo.17601675](https://doi.org/10.5281/zenodo.17601675) |
 | D-PLACE dataset derived from Kreft and Jetz 2007 'Global patterns and determinants of vascular plant diversity' | v3.2 | [10.5281/zenodo.17601737](https://doi.org/10.5281/zenodo.17601737) |
 | D-PLACE dataset derived from NASA TERRA/MODIS 'Net Primary Productivity' | v3.2 | [10.5281/zenodo.17601800](https://doi.org/10.5281/zenodo.17601800) |
-| D-PLACE dataset derived from Murdock and White 1969 'Standard Cross-Cultural Sample' | v3.2 | [10.5281/zenodo.17601873](https://doi.org/10.5281/zenodo.17601873) |
+| D-PLACE dataset derived from Murdock and White 1969 'Standard Cross-Cultural Sample' | v3.3 | [10.5281/zenodo.18223072](https://doi.org/10.5281/zenodo.18223072) |
 | D-PLACE dataset derived from Olson et al. 2001 'Terrestrial Ecoregions of the World' | v3.2 | [10.5281/zenodo.17601927](https://doi.org/10.5281/zenodo.17601927) |
 | D-PLACE dataset derived from Jorgensen 1980 'Western Indians' | v3.2 | [10.5281/zenodo.17602055](https://doi.org/10.5281/zenodo.17602055) |
 

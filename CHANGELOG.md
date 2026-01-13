@@ -1,6 +1,11 @@
 # Changes
 
 
+## [v3.3]
+
+Fixed issues related to marital residence variables in the EA and SCCS datasets.
+
+
 ## [v3.2.1]
 
 v3.2.0 did not contain the summary trees for the new phylogenies. This release fixes this.

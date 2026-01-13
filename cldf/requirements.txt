@@ -9,7 +9,7 @@ chardet==5.2.0
 cldfbench==1.14.2
 cldfcatalog==1.6.0
 cldfviz==1.3.0
--e git+https://github.com/cldf/cldfzenodo@804cc086a0615b164c9b30a33de6c08623b981b7#egg=cldfzenodo
+-e git+https://github.com/cldf/cldfzenodo@b8bc9840ad1e734eb842b2f78cf74626b0f2813b#egg=cldfzenodo
 clldutils==3.24.2
 colorama==0.4.6
 colorlog==6.10.1

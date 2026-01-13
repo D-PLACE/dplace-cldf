@@ -47,16 +47,16 @@ datasets,ccmc,v3.2,10.5281/zenodo.17600888,"Mila Bertolo, Martynas Snarskis, Man
   url       = {https://doi.org/10.5281/zenodo.17600888},
   copyright = {cc-by-4.0}
 }"
-datasets,ea,v3.2.1,10.5281/zenodo.17602181,"Murdock, G. P., R. Textor, H. Barry, I., D. R. White, J. P. Gray, & W. T. Divale. (2025). D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas' (v3.2.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17602181","@misc{dplace-dataset-ea,
+datasets,ea,v3.3,10.5281/zenodo.17984267,"Murdock, G. P., R. Textor, H. Barry, I., D. R. White, J. P. Gray, & W. T. Divale. (2025). D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas' (v3.3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17984267","@misc{dplace-dataset-ea,
   author    = {Murdock, G. P. and Textor, R. and Barry, H. and White, D. R. and Gray, J. P. and Divale, W. T.},
   title     = {D-PLACE dataset derived from Murdock et al. 1999 'Ethnographic Atlas'},
   keywords  = {cldf:StructureDataset, linguistics},
   publisher = {Zenodo},
   year      = {2025},
-  edition   = {v3.2.1},
-  doi       = {10.5281/zenodo.17602181},
+  edition   = {v3.3},
+  doi       = {10.5281/zenodo.17984267},
   type      = {Data set},
-  url       = {https://doi.org/10.5281/zenodo.17602181},
+  url       = {https://doi.org/10.5281/zenodo.17984267},
   copyright = {cc-by-nc-4.0}
 }"
 datasets,ecoclimate,v3.2,10.5281/zenodo.17601193,"Lima-Ribeiro MS, Varela S, González-Hernández J, Oliveira G, Diniz-Filho JAF, Peterson AT, & Terribile LC. (2025). D-PLACE dataset derived from Lima-Ribeiro et al. 2015 'ecoClimate' (v3.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17601193","@misc{dplace-dataset-ecoclimate,
@@ -131,16 +131,16 @@ datasets,modis,v3.2,10.5281/zenodo.17601800,NASA TERRA/MODIS. (2025). D-PLACE da
   url       = {https://doi.org/10.5281/zenodo.17601800},
   copyright = {cc-by-nc-4.0}
 }"
-datasets,sccs,v3.2,10.5281/zenodo.17601873,"Murdock, G. P., & White, D. R. (2025). D-PLACE dataset derived from Murdock and White 1969 'Standard Cross-Cultural Sample' (v3.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17601873","@misc{dplace-dataset-sccs,
+datasets,sccs,v3.3,10.5281/zenodo.18223072,"Murdock, G. P., & White, D. R. (2026). D-PLACE dataset derived from Murdock and White 1969 'Standard Cross-Cultural Sample' (v3.3) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18223072","@misc{dplace-dataset-sccs,
   author    = {Murdock, George P. and White, Douglas R.},
   title     = {D-PLACE dataset derived from Murdock and White 1969 'Standard Cross-Cultural Sample'},
   keywords  = {cldf:StructureDataset, linguistics},
   publisher = {Zenodo},
-  year      = {2025},
-  edition   = {v3.2},
-  doi       = {10.5281/zenodo.17601873},
+  year      = {2026},
+  edition   = {v3.3},
+  doi       = {10.5281/zenodo.18223072},
   type      = {Data set},
-  url       = {https://doi.org/10.5281/zenodo.17601873},
+  url       = {https://doi.org/10.5281/zenodo.18223072},
   copyright = {cc-by-nc-4.0}
 }"
 datasets,teow,v3.2,10.5281/zenodo.17601927,"Olson, D. M., Dinerstein, E., Wikramanayake, E. D., Burgess, N. D., Powell, G. V. N., Underwood, E. C., D'Amico, J. A., Itoua, I., Strand, H. E., Morrison, J. C., Loucks, C. J., Allnutt, T. F., Ricketts, T. H., Kura, Y., Lamoreux, J. F., Wettengel, W. W., Hedao, P., & Kassem, K. R. (2025). D-PLACE dataset derived from Olson et al. 2001 'Terrestrial Ecoregions of the World' (v3.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17601927","@misc{dplace-dataset-teow,

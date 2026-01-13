@@ -40,7 +40,7 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-ea",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.2.1",
+            "dc:created": "v3.3",
             "dc:title": "Repository"
         },
         {
@@ -82,7 +82,7 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-sccs",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.2",
+            "dc:created": "v3.3",
             "dc:title": "Repository"
         },
         {
@@ -274,7 +274,7 @@
         {
             "rdf:about": "https://github.com/d-place/dplace-cldf",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.1.1",
+            "dc:created": "v3.2.1",
             "dc:title": "Repository"
         },
         {
@@ -655,7 +655,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 16158,
+            "dc:extent": 16150,
             "tableSchema": {
                 "columns": [
                     {
